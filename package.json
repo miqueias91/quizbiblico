@@ -17,7 +17,9 @@
       "cordova-plugin-admob-free": {
         "ADMOB_APP_ID": "ca-app-pub-7091486462236476~6864040020"
       },
-      "cordova-plugin-insomnia": {}
+      "cordova-plugin-insomnia": {},
+      "cordova-admob-sdk": {},
+      "cordova-promise-polyfill": {}
     }
   },
   "dependencies": {
@@ -27,7 +29,6 @@
     "cordova-plugin-console": "~1.0.1",
     "cordova-plugin-dialogs": "^2.0.1",
     "cordova-plugin-exitapp": "^1.0.0",
-    "cordova-plugin-insomnia": "git+https://github.com/EddyVerbruggen/Insomnia-PhoneGap-Plugin.git",
     "cordova-plugin-splashscreen": "^5.0.2",
     "cordova-plugin-statusbar": "~1.0.1",
     "cordova-plugin-whitelist": "~1.2.0",
@@ -35,5 +36,8 @@
     "cordova.custom.plugins.exitapp": "~1.0.0",
     "kr.co.joycorp.cordova.exitapp": "^1.0.2",
     "onesignal-cordova-plugin": "^2.4.6"
+  },
+  "devDependencies": {
+    "cordova-plugin-insomnia": "git+https://github.com/EddyVerbruggen/Insomnia-PhoneGap-Plugin.git"
   }
 }

@@ -26,7 +26,7 @@
   "cordova-plugin-dialogs": {
     "source": {
       "type": "registry",
-      "id": "cordova-plugin-dialogs"
+      "id": "cordova-plugin-dialogs@^2.0.1"
     },
     "is_top_level": true,
     "variables": {}
@@ -42,7 +42,7 @@
   "kr.co.joycorp.cordova.exitapp": {
     "source": {
       "type": "registry",
-      "id": "cordova-plugin-exitapp2@^1.0.4"
+      "id": "kr.co.joycorp.cordova.exitapp@^1.0.2"
     },
     "is_top_level": true,
     "variables": {}
@@ -50,7 +50,7 @@
   "cordova-plugin-splashscreen": {
     "source": {
       "type": "registry",
-      "id": "cordova-plugin-splashscreen@5.0.2"
+      "id": "cordova-plugin-splashscreen@^5.0.2"
     },
     "is_top_level": true,
     "variables": {}
@@ -58,7 +58,7 @@
   "onesignal-cordova-plugin": {
     "source": {
       "type": "registry",
-      "id": "onesignal-cordova-plugin"
+      "id": "onesignal-cordova-plugin@^2.4.6"
     },
     "is_top_level": true,
     "variables": {}
@@ -76,23 +76,31 @@
   "cordova-promise-polyfill": {
     "source": {
       "type": "registry",
-      "id": "cordova-promise-polyfill@~0.0.2"
+      "id": "cordova-promise-polyfill@0.0.2"
     },
-    "is_top_level": false,
+    "is_top_level": true,
     "variables": {}
   },
   "cordova-admob-sdk": {
     "source": {
       "type": "registry",
-      "id": "cordova-admob-sdk@~0.24.1"
+      "id": "cordova-admob-sdk@0.24.1"
     },
-    "is_top_level": false,
+    "is_top_level": true,
     "variables": {}
   },
   "cordova-plugin-insomnia": {
     "source": {
       "type": "registry",
-      "id": "https://github.com/EddyVerbruggen/Insomnia-PhoneGap-Plugin.git"
+      "id": "git+https://github.com/EddyVerbruggen/Insomnia-PhoneGap-Plugin.git"
+    },
+    "is_top_level": true,
+    "variables": {}
+  },
+  "cordova.custom.plugins.exitapp": {
+    "source": {
+      "type": "registry",
+      "id": "cordova.custom.plugins.exitapp@~1.0.0"
     },
     "is_top_level": true,
     "variables": {}
