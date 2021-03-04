@@ -1,7 +1,7 @@
 {
-  "name": "com.phonegap.calculadorabasic",
-  "version": "1.0.11",
-  "displayName": "Quiz da Bíblia",
+  "name": "br.com.innovatesof.quizbiblico",
+  "version": "1.0.0",
+  "displayName": "Quiz Bíblico",
   "cordova": {
     "platforms": [],
     "plugins": {
@@ -15,7 +15,7 @@
       "onesignal-cordova-plugin": {},
       "cordova-plugin-exitapp": {},
       "cordova-plugin-admob-free": {
-        "ADMOB_APP_ID": "ca-app-pub-7091486462236476~5493860832"
+        "ADMOB_APP_ID": "ca-app-pub-7091486462236476~6864040020"
       },
       "cordova-plugin-insomnia": {}
     }

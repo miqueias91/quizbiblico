@@ -1,14 +1,14 @@
 // Your web app's Firebase configuration
 var firebaseConfig = {
-  apiKey: "AIzaSyBTWklNdtCRZ4onk5kGNK528v6VB5VwPHo",
-  authDomain: "quiz-da-biblia-d48b9.firebaseapp.com",
-  databaseURL: "https://quiz-da-biblia-d48b9.firebaseio.com",
-  projectId: "quiz-da-biblia-d48b9",
-  storageBucket: "quiz-da-biblia-d48b9.appspot.com",
-  messagingSenderId: "832726024267",
-  appId: "1:832726024267:web:436a99055fcaaf6b2e8dce",
-  measurementId: "G-VK3ZZV1P9W"
+  apiKey: "AIzaSyCOEIXQBRTLNlKxtYjpu857DtqgSb8SZrE",
+  authDomain: "quiz-biblico-23c08.firebaseapp.com",
+  projectId: "quiz-biblico-23c08",
+  storageBucket: "quiz-biblico-23c08.appspot.com",
+  messagingSenderId: "765359532797",
+  appId: "1:765359532797:web:e0177649bd39c60c256c94",
+  measurementId: "G-DQY0Q8H1Q7"
 };
+
 // Initialize Firebase
 firebase.initializeApp(firebaseConfig);
 firebase.analytics();

@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
-<widget id="com.phonegap.calculadorabasic" version="1.0.11" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
-    <name>Quiz da Bíblia</name>
+<widget id="br.com.innovatesof.quizbiblico" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
+    <name>Quiz Bíblico</name>
     <description>
         Teste seus conhecimentos bíblicos através deste divertido e educativo jogo de perguntas e respostas bíblicas.
     </description>
@@ -61,7 +61,7 @@
     <plugin name="onesignal-cordova-plugin" spec="^2.4.2" />
     <plugin name="cordova-plugin-exitapp" spec="~1.0.0" />
     <plugin name="cordova-plugin-admob-free" spec="^0.27.0">
-        <variable name="ADMOB_APP_ID" value="ca-app-pub-7091486462236476~5493860832" />
+        <variable name="ADMOB_APP_ID" value="ca-app-pub-7091486462236476~6864040020" />
     </plugin>
     <plugin name="cordova-plugin-insomnia" spec="https://github.com/EddyVerbruggen/Insomnia-PhoneGap-Plugin.git" />
 </widget>

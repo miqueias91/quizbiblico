@@ -64,7 +64,7 @@ var app = {
   },
   oneSignal: function() {
     window.plugins.OneSignal
-    .startInit("c890bf70-f20d-4d2d-ab10-4a75230489a2")   
+    .startInit("f23cc8fe-bec5-43ae-b875-1f0e3ffb7fba")   
     .handleNotificationOpened(function(jsonData) {
       var mensagem = JSON.parse(JSON.stringify(jsonData['notification']['payload']['additionalData']['mensagem']));
       var titulo = JSON.parse(JSON.stringify(jsonData['notification']['payload']['additionalData']['titulo']));
@@ -455,7 +455,7 @@ var app = {
           'uid': uid,
           'datacadastro': this.dateTime(),
           'ultimoacesso': this.dateTime(),
-          'app': 'quiz',
+          'app': 'quizbiblico',
         },
         error: function(e) {
         },

@@ -11,7 +11,7 @@
     <link rel="stylesheet" href="lib/onsen/css/onsen-css-components.css" />
     <link rel="stylesheet" href="css/index.css" />    
 
-    <title>Quiz da Bíblia</title>
+    <title>Quiz Bíblico</title>
 </head>
 
 <body>
@@ -28,7 +28,7 @@
         <ons-toolbar id="tabbar_">
           <div class="toolbar__center toolbar--material__center">
             <center>
-                Quiz da Bíblia 
+                Quiz Bíblico 
             </center>
           </div>
         </ons-toolbar>
@@ -40,7 +40,7 @@
           ons.getScriptPage().addEventListener('prechange', function(event) {
             if (event.target.matches('#appTabbar')) {
                 admob.interstitial.show();
-              event.currentTarget.querySelector('#tabbar_ .center center').innerHTML = 'Quiz da Bíblia';
+              event.currentTarget.querySelector('#tabbar_ .center center').innerHTML = 'Quiz Bíblico';
             }
           });
         </script>
@@ -214,7 +214,7 @@
   <ons-page>
         <ons-toolbar id="quiz_">
             <div class="left">
-                <ons-back-button>Quiz da Bíblia Resposta</ons-back-button>
+                <ons-back-button>Quiz Bíblico Resposta</ons-back-button>
             </div>
             <div class="center" style="font-size: 20px!important"></div>
         </ons-toolbar>
@@ -282,8 +282,8 @@
     var admobid = {}
     if (/(android)/i.test(navigator.userAgent)) {  // for android & amazon-fireos
         admobid = {
-            banner: 'ca-app-pub-7091486462236476/6369148173',
-            interstitial: 'ca-app-pub-7091486462236476/9625866900',
+            banner: 'ca-app-pub-7091486462236476/4321637167',
+            interstitial: 'ca-app-pub-7091486462236476/6301767394',
         }
     }
 
