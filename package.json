@@ -1,0 +1,39 @@
+{
+  "name": "com.phonegap.calculadorabasic",
+  "version": "1.0.11",
+  "displayName": "Quiz da Bíblia",
+  "cordova": {
+    "platforms": [],
+    "plugins": {
+      "cordova-plugin-whitelist": {},
+      "cordova-plugin-console": {},
+      "cordova-plugin-statusbar": {},
+      "cordova-plugin-dialogs": {},
+      "cordova.custom.plugins.exitapp": {},
+      "kr.co.joycorp.cordova.exitapp": {},
+      "cordova-plugin-splashscreen": {},
+      "onesignal-cordova-plugin": {},
+      "cordova-plugin-exitapp": {},
+      "cordova-plugin-admob-free": {
+        "ADMOB_APP_ID": "ca-app-pub-7091486462236476~5493860832"
+      },
+      "cordova-plugin-insomnia": {}
+    }
+  },
+  "dependencies": {
+    "cordova-admob-sdk": "0.24.1",
+    "cordova-android": "^7.1.4",
+    "cordova-plugin-admob-free": "0.27.0",
+    "cordova-plugin-console": "~1.0.1",
+    "cordova-plugin-dialogs": "^2.0.1",
+    "cordova-plugin-exitapp": "^1.0.0",
+    "cordova-plugin-insomnia": "git+https://github.com/EddyVerbruggen/Insomnia-PhoneGap-Plugin.git",
+    "cordova-plugin-splashscreen": "^5.0.2",
+    "cordova-plugin-statusbar": "~1.0.1",
+    "cordova-plugin-whitelist": "~1.2.0",
+    "cordova-promise-polyfill": "0.0.2",
+    "cordova.custom.plugins.exitapp": "~1.0.0",
+    "kr.co.joycorp.cordova.exitapp": "^1.0.2",
+    "onesignal-cordova-plugin": "^2.4.6"
+  }
+}
