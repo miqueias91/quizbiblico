@@ -483,6 +483,7 @@ var app = {
       },
     cadastraScore: function() {
         var uid = window.localStorage.getItem('uid');
+         var playerID = window.localStorage.getItem('playerID');
         var maxScore = null;
         var arr = localStorage.getItem('lista-score');
         if (arr) {
@@ -495,6 +496,7 @@ var app = {
             type: 'POST',
             data: {
               'uid': uid,
+              'userId': playerID,
               'score': maxScore,
               'dataregistro': this.dateTime()
             },
