@@ -1,0 +1,44 @@
+{
+  "prepare_queue": {
+    "installed": [],
+    "uninstalled": []
+  },
+  "config_munge": {
+    "files": {}
+  },
+  "installed_plugins": {
+    "cordova-admob-sdk": {
+      "PLAY_SERVICES_VERSION": "11.0.4",
+      "PACKAGE_NAME": "br.com.innovatesof.quizbiblico"
+    },
+    "cordova-plugin-admob-free": {
+      "ADMOB_APP_ID": "ca-app-pub-7091486462236476~6864040020",
+      "PACKAGE_NAME": "br.com.innovatesof.quizbiblico"
+    },
+    "cordova-plugin-console": {
+      "PACKAGE_NAME": "br.com.innovatesof.quizbiblico"
+    },
+    "cordova-plugin-dialogs": {
+      "PACKAGE_NAME": "br.com.innovatesof.quizbiblico"
+    },
+    "kr.co.joycorp.cordova.exitapp": {
+      "PACKAGE_NAME": "br.com.innovatesof.quizbiblico"
+    },
+    "cordova-plugin-insomnia": {
+      "PACKAGE_NAME": "br.com.innovatesof.quizbiblico"
+    },
+    "cordova-plugin-splashscreen": {
+      "PACKAGE_NAME": "br.com.innovatesof.quizbiblico"
+    },
+    "cordova-plugin-statusbar": {
+      "PACKAGE_NAME": "br.com.innovatesof.quizbiblico"
+    },
+    "cordova-plugin-whitelist": {
+      "PACKAGE_NAME": "br.com.innovatesof.quizbiblico"
+    },
+    "cordova-promise-polyfill": {
+      "PACKAGE_NAME": "br.com.innovatesof.quizbiblico"
+    }
+  },
+  "dependent_plugins": {}
+}
