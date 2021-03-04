@@ -15,6 +15,12 @@
       "ADMOB_APP_ID": "ca-app-pub-7091486462236476~6864040020",
       "PACKAGE_NAME": "br.com.innovatesof.quizbiblico"
     },
+    "cordova-promise-polyfill": {
+      "PACKAGE_NAME": "br.com.innovatesof.quizbiblico"
+    },
+    "onesignal-cordova-plugin": {
+      "PACKAGE_NAME": "br.com.innovatesof.quizbiblico"
+    },
     "cordova-plugin-console": {
       "PACKAGE_NAME": "br.com.innovatesof.quizbiblico"
     },
@@ -34,9 +40,6 @@
       "PACKAGE_NAME": "br.com.innovatesof.quizbiblico"
     },
     "cordova-plugin-whitelist": {
-      "PACKAGE_NAME": "br.com.innovatesof.quizbiblico"
-    },
-    "cordova-promise-polyfill": {
       "PACKAGE_NAME": "br.com.innovatesof.quizbiblico"
     }
   },

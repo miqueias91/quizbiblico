@@ -22,6 +22,14 @@ module.exports = [
     ]
   },
   {
+    "id": "onesignal-cordova-plugin.OneSignal",
+    "file": "plugins/onesignal-cordova-plugin/www/OneSignal.js",
+    "pluginId": "onesignal-cordova-plugin",
+    "clobbers": [
+      "OneSignal"
+    ]
+  },
+  {
     "id": "cordova-plugin-dialogs.notification",
     "file": "plugins/cordova-plugin-dialogs/www/notification.js",
     "pluginId": "cordova-plugin-dialogs",
@@ -76,9 +84,10 @@ module.exports.metadata =
   "cordova-admob-sdk": "0.24.1",
   "cordova-promise-polyfill": "0.0.2",
   "cordova-plugin-admob-free": "0.27.0",
+  "onesignal-cordova-plugin": "2.4.6",
   "cordova-plugin-console": "1.0.7",
   "cordova-plugin-dialogs": "2.0.1",
-  "kr.co.joycorp.cordova.exitapp": "1.0.0",
+  "kr.co.joycorp.cordova.exitapp": "1.0.2",
   "cordova-plugin-insomnia": "4.3.0",
   "cordova-plugin-splashscreen": "5.0.2",
   "cordova-plugin-statusbar": "1.0.1",

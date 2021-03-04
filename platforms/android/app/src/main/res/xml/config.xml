@@ -55,11 +55,17 @@
         <param name="android-package" value="name.ratson.cordova.admob.AdMob" />
         <param name="onload" value="true" />
     </feature>
+    <feature name="ExitApp">
+        <param name="android-package" value="kr.co.joycorp.cordova.exitapp" />
+    </feature>
+    <feature name="OneSignalPush">
+        <param name="android-package" value="com.plugin.gcm.OneSignalPush" />
+    </feature>
     <feature name="Notification">
         <param name="android-package" value="org.apache.cordova.dialogs.Notification" />
     </feature>
     <feature name="ExitApp">
-        <param name="android-package" value="kr.co.joycorp.cordova.exitapp" />
+        <param name="android-package" value="kr.co.joycorp.cordova.exitapp.ExitApp" />
     </feature>
     <feature name="Insomnia">
         <param name="android-package" value="nl.xservices.plugins.Insomnia" />
