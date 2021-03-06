@@ -33,13 +33,15 @@
           </div>
         </ons-toolbar>
         <ons-tabbar swipeable id="appTabbar" position="auto">
-            <ons-tab label="Versão 1.0.11" page="home.html" active></ons-tab>
+            <ons-tab label="Versão 1.0.0" page="home.html" active></ons-tab>
         </ons-tabbar>
 
         <script>
           ons.getScriptPage().addEventListener('prechange', function(event) {
             if (event.target.matches('#appTabbar')) {
+              if (window.localStorage.getItem("versao_pro") === 'NAO') {
                 admob.interstitial.show();
+              }
               event.currentTarget.querySelector('#tabbar_ .center center').innerHTML = 'Quiz Bíblico';
             }
           });
@@ -118,7 +120,9 @@
         
     <script>
         ons.getScriptPage().onInit = function () {
-            admob.interstitial.show();
+            if (window.localStorage.getItem("versao_pro") === 'NAO') {
+              admob.interstitial.show();
+            }
             this.querySelector('#score_ div.center').textContent = 'Max Score';
             var arr = localStorage.getItem('lista-score');
             if (!arr) {
@@ -179,7 +183,9 @@
         
     <script>
         ons.getScriptPage().onInit = function () {
-            admob.interstitial.show();
+            if (window.localStorage.getItem("versao_pro") === 'NAO') {
+              admob.interstitial.show();
+            }
             this.querySelector('#score_ div.center').textContent = 'Ajuda';
             var arr = localStorage.getItem('lista-score');
             $("#maxScore").html(maxArray(JSON.parse(arr)));
@@ -233,7 +239,9 @@
 
     <script>
         ons.getScriptPage().onInit = function () {
-            admob.interstitial.show();
+            if (window.localStorage.getItem("versao_pro") === 'NAO') {
+              admob.interstitial.show();
+            }
             var dados = this.data.title.split('||'); 
             this.querySelector('#quiz_ div.center').textContent = dados[0];
             $('#acerto').html('Acertos: '+acertos);
@@ -276,58 +284,8 @@
 <script src="https://www.gstatic.com/firebasejs/7.19.0/firebase-analytics.js"></script>
 <script src="https://www.gstatic.com/firebasejs/7.19.0/firebase-database.js"></script>
 <script src="https://www.gstatic.com/firebasejs/7.19.0/firebase-auth.js"></script>
-<script type="text/javascript" src="js/firebase.js"></script>
 <script src="js/index.js"></script>
 <script>
-    var admobid = {}
-    if (/(android)/i.test(navigator.userAgent)) {  // for android & amazon-fireos
-        admobid = {
-            banner: 'ca-app-pub-7091486462236476/4321637167',
-            interstitial: 'ca-app-pub-7091486462236476/6301767394',
-        }
-    }
-
-    document.addEventListener('deviceready', function () {
-        window.plugins.insomnia.keepAwake();
-        
-        admob.banner.config({ 
-            id: admobid.banner, 
-            isTesting: false, 
-            autoShow: true, 
-        })
-        admob.banner.prepare()
-        
-        admob.interstitial.config({
-            id: admobid.interstitial,
-            isTesting: false,
-            autoShow: false,
-        })
-        admob.interstitial.prepare()
-
-        document.getElementsByClassName('showAd').disabled = true
-        document.getElementsByClassName('showAd').onclick = function() {
-            admob.interstitial.show()
-        }
-    }, false);
-
-    document.addEventListener('admob.banner.events.LOAD_FAIL', function(event) {
-        //alert(JSON.stringify(event))
-    })
-
-    document.addEventListener('admob.interstitial.events.LOAD_FAIL', function(event) {
-        //alert(JSON.stringify(event))
-    })
-
-    document.addEventListener('admob.interstitial.events.LOAD', function(event) {
-        //alert(JSON.stringify(event))
-        document.getElementsByClassName('showAd').disabled = false
-    })
-
-    document.addEventListener('admob.interstitial.events.CLOSE', function(event) {
-        //alert(JSON.stringify(event))
-        admob.interstitial.prepare()
-    })
-
     $(document).ready(function(){
         fn.showDialog('modal-aguarde');
         var timeoutID = 0;

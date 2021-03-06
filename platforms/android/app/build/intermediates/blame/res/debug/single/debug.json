@@ -8,12 +8,12 @@
         "source": "/var/www/app/quizbiblico/platforms/android/app/src/main/res/mipmap-xxxhdpi/icon.png"
     },
     {
-        "merged": "/var/www/app/quizbiblico/platforms/android/app/build/intermediates/res/merged/debug/drawable-port-xxxhdpi_screen.png.flat",
-        "source": "/var/www/app/quizbiblico/platforms/android/app/src/main/res/drawable-port-xxxhdpi/screen.png"
-    },
-    {
         "merged": "/var/www/app/quizbiblico/platforms/android/app/build/intermediates/res/merged/debug/xml_config.xml.flat",
         "source": "/var/www/app/quizbiblico/platforms/android/app/src/main/res/xml/config.xml"
+    },
+    {
+        "merged": "/var/www/app/quizbiblico/platforms/android/app/build/intermediates/res/merged/debug/drawable-port-xxxhdpi_screen.png.flat",
+        "source": "/var/www/app/quizbiblico/platforms/android/app/src/main/res/drawable-port-xxxhdpi/screen.png"
     },
     {
         "merged": "/var/www/app/quizbiblico/platforms/android/app/build/intermediates/res/merged/debug/drawable-land-xhdpi_screen.png.flat",
@@ -28,12 +28,12 @@
         "source": "/var/www/app/quizbiblico/platforms/android/app/src/main/res/drawable-xxhdpi/ic_stat_onesignal_default.png"
     },
     {
-        "merged": "/var/www/app/quizbiblico/platforms/android/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_stat_onesignal_default.png.flat",
-        "source": "/var/www/app/quizbiblico/platforms/android/app/src/main/res/drawable-xhdpi/ic_stat_onesignal_default.png"
-    },
-    {
         "merged": "/var/www/app/quizbiblico/platforms/android/app/build/intermediates/res/merged/debug/drawable-land-hdpi_screen.png.flat",
         "source": "/var/www/app/quizbiblico/platforms/android/app/src/main/res/drawable-land-hdpi/screen.png"
+    },
+    {
+        "merged": "/var/www/app/quizbiblico/platforms/android/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_stat_onesignal_default.png.flat",
+        "source": "/var/www/app/quizbiblico/platforms/android/app/src/main/res/drawable-xhdpi/ic_stat_onesignal_default.png"
     },
     {
         "merged": "/var/www/app/quizbiblico/platforms/android/app/build/intermediates/res/merged/debug/drawable-port-mdpi_screen.png.flat",

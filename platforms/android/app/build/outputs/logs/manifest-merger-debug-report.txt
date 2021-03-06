@@ -185,8 +185,8 @@ ADDED from /var/www/app/quizbiblico/platforms/android/app/src/main/AndroidManife
 	android:name
 		ADDED from /var/www/app/quizbiblico/platforms/android/app/src/main/AndroidManifest.xml:20:27-72
 uses-sdk
-ADDED from /var/www/app/quizbiblico/platforms/android/app/src/main/AndroidManifest.xml:24:5-74
-INJECTED from /var/www/app/quizbiblico/platforms/android/app/src/main/AndroidManifest.xml:24:5-74
+ADDED from /var/www/app/quizbiblico/platforms/android/app/src/main/AndroidManifest.xml:24:5-47
+INJECTED from /var/www/app/quizbiblico/platforms/android/app/src/main/AndroidManifest.xml:24:5-47
 MERGED from [com.google.android.gms:play-services-ads:11.0.4] /home/miqueias/.gradle/caches/transforms-2/files-2.1/97ada37cb2fc45718d7cd58b64385912/play-services-ads-11.0.4/AndroidManifest.xml:17:5-43
 MERGED from [com.google.android.gms:play-services-ads:11.0.4] /home/miqueias/.gradle/caches/transforms-2/files-2.1/97ada37cb2fc45718d7cd58b64385912/play-services-ads-11.0.4/AndroidManifest.xml:17:5-43
 MERGED from [com.onesignal:OneSignal:3.10.5] /home/miqueias/.gradle/caches/transforms-2/files-2.1/e997123954b34e6750e8287a3a7bbc65/OneSignal-3.10.5/AndroidManifest.xml:5:5-44
@@ -237,12 +237,12 @@ MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /home/miqueias/.gradle/cach
 MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /home/miqueias/.gradle/caches/transforms-2/files-2.1/ef6843ea5770e504c24b448e1bb8a0a9/viewmodel-1.1.0/AndroidManifest.xml:20:5-44
 MERGED from [android.arch.core:runtime:1.1.0] /home/miqueias/.gradle/caches/transforms-2/files-2.1/0a2bdce0da8cfd5c768a5af1598d6c65/runtime-1.1.0/AndroidManifest.xml:20:5-44
 MERGED from [android.arch.core:runtime:1.1.0] /home/miqueias/.gradle/caches/transforms-2/files-2.1/0a2bdce0da8cfd5c768a5af1598d6c65/runtime-1.1.0/AndroidManifest.xml:20:5-44
-INJECTED from /var/www/app/quizbiblico/platforms/android/app/src/main/AndroidManifest.xml:24:5-74
+INJECTED from /var/www/app/quizbiblico/platforms/android/app/src/main/AndroidManifest.xml:24:5-47
 	android:targetSdkVersion
-		ADDED from /var/www/app/quizbiblico/platforms/android/app/src/main/AndroidManifest.xml:24:42-71
+		ADDED from /var/www/app/quizbiblico/platforms/android/app/src/main/AndroidManifest.xml:24:15-44
 	android:minSdkVersion
-		ADDED from /var/www/app/quizbiblico/platforms/android/app/src/main/AndroidManifest.xml:24:15-41
 		INJECTED from /var/www/app/quizbiblico/platforms/android/app/src/main/AndroidManifest.xml
+		ADDED from /var/www/app/quizbiblico/platforms/android/app/src/main/AndroidManifest.xml:24:5-47
 		INJECTED from /var/www/app/quizbiblico/platforms/android/app/src/main/AndroidManifest.xml
 uses-permission#android.permission.ACCESS_NETWORK_STATE
 ADDED from /var/www/app/quizbiblico/platforms/android/app/src/main/AndroidManifest.xml:25:5-79
