@@ -474,7 +474,7 @@ var app = {
               'uid': uid,
               'datacadastro': this.dateTime(),
               'ultimoacesso': this.dateTime(),
-              'app': 'quizbiblico',
+              'app': 'quiz_v2',
             },
             error: function(e) {
             },

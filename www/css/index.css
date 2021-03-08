@@ -85,3 +85,6 @@ ons-fab.fab--material{
 .alert-dialog-title--material {
     font-size: 30px;
 }
+.alert-dialog {
+    width: 100%;
+}

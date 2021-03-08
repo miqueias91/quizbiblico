@@ -3,8 +3,8 @@
     package="br.com.innovatesof.quizbiblico"
     android:hardwareAccelerated="true"
     android:targetSandboxVersion="2"
-    android:versionCode="10000"
-    android:versionName="1.0.0" >
+    android:versionCode="10001"
+    android:versionName="1.0.1" >
 
     <uses-sdk
         android:minSdkVersion="19"
