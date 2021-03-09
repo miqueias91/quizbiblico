@@ -78,8 +78,8 @@ var app = {
         this.oneSignal();
         this.getIds();
         this.buscaDadosUsuario();
-        this.buscaNotificacoes();
         this.admob();
+        this.buscaNotificacoes();
     },
     oneSignal: function() {
         window.plugins.OneSignal
@@ -577,60 +577,60 @@ var app = {
           }
         },
     buscaDadosUsuario: function() {
-          var uid = window.localStorage.getItem('uid');
-          var playerID = window.localStorage.getItem('playerID');
-          if (uid) {
-            $.ajax({
-              url: "https://www.innovatesoft.com.br/webservice/app/buscaDadosUsuario.php",
-              dataType: 'json',
-              type: 'POST',
-              async: true,
-              data: {
-                'uid': uid,
-                'userId': playerID,
-              },
-              success: function(a) {
-                if (a) {
-                  window.localStorage.setItem("nome", a['nome']);
-                  window.localStorage.setItem("usuario", a['usuario']);
-                  window.localStorage.setItem("email", a['email']);
-                  window.localStorage.setItem("celular", a['celular']);
-                  window.localStorage.setItem("religiao", a['religiao']);
-                  if (a['final_versao_pro'] == null) {
-                    a['final_versao_pro'] = 'NAO';
-                  }
-                  window.localStorage.setItem("versao_pro", a['final_versao_pro']);
-                }
-              },
-            });
-          }
-        },
+      var uid = window.localStorage.getItem('uid');
+      var playerID = window.localStorage.getItem('playerID');
+      if (uid) {
+        $.ajax({
+          url: "https://www.innovatesoft.com.br/webservice/app/buscaDadosUsuario.php",
+          dataType: 'json',
+          type: 'POST',
+          async: true,
+          data: {
+            'uid': uid,
+            'userId': playerID,
+          },
+          success: function(a) {
+            if (a) {
+              window.localStorage.setItem("nome", a['nome']);
+              window.localStorage.setItem("usuario", a['usuario']);
+              window.localStorage.setItem("email", a['email']);
+              window.localStorage.setItem("celular", a['celular']);
+              window.localStorage.setItem("religiao", a['religiao']);
+              if (a['final_versao_pro'] == null) {
+                a['final_versao_pro'] = 'NAO';
+              }
+              window.localStorage.setItem("versao_pro", a['final_versao_pro']);
+            }
+          },
+        });
+      }
+    },
     admob: function(){
-          window.plugins.insomnia.keepAwake();
-          admob.banner.config({
-            id: admobid.banner,
-            isTesting: false,
-            autoShow: true,
-          })
+      window.plugins.insomnia.keepAwake();
+      admob.banner.config({ 
+        id: admobid.banner, 
+        isTesting: false, 
+        autoShow: true, 
+      })
 
-          if (window.localStorage.getItem("versao_pro") === 'NAO') {
-            admob.banner.prepare()
-          }
+      if (window.localStorage.getItem("versao_pro") === 'NAO') {
+        admob.banner.prepare()
+      }
+      
+      admob.interstitial.config({
+        id: admobid.interstitial,
+        isTesting: false,
+        autoShow: false,
+      })
 
-          admob.interstitial.config({
-            id: admobid.interstitial,
-            isTesting: false,
-            autoShow: false,
-          })
+      if (window.localStorage.getItem("versao_pro") === 'NAO') {
+        admob.interstitial.prepare()
+      }
 
-          if (window.localStorage.getItem("versao_pro") === 'NAO') {
-            admob.interstitial.prepare()
-          }
-
-          document.getElementsByClassName('showAd').disabled = true
-          document.getElementsByClassName('showAd').onclick = function() {
-            admob.interstitial.show()
-          }
+      document.getElementsByClassName('showAd').disabled = true
+      document.getElementsByClassName('showAd').onclick = function() {
+        admob.interstitial.show()
+      }
     },
     firebase: function(){
       // Your web app's Firebase configuration

@@ -2,8 +2,8 @@
 2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
 3    package="br.com.innovatesof.quizbiblico"
 4    android:hardwareAccelerated="true"
-5    android:versionCode="10001"
-6    android:versionName="1.0.1" >
+5    android:versionCode="10002"
+6    android:versionName="1.0.2" >
 7
 8    <uses-sdk
 8-->/var/www/app/quizbiblico/platforms/android/app/src/main/AndroidManifest.xml:24:5-47
