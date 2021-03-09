@@ -605,6 +605,31 @@ var app = {
         });
       }
     },
+    buscaNotificacoes: function(){
+      // var uid = window.localStorage.getItem('uid');
+      // var playerID = window.localStorage.getItem('playerID');
+
+      // if (uid) {
+      //   firebase.database().ref('notificacoes').child(uid).on('value', (snapshot) => {
+      //     //localStorage.removeItem("lista-notificacoes");
+      //     var notificacoes = snapshot.val();
+      //     if (notificacoes) {
+      //       $.each(notificacoes, function (key, item) {
+      //         var hash = item['hash'];
+      //         var titulo = item['titulo'];
+      //         var mensagem = item['mensagem'];
+      //         var lido = item['lido'];
+      //         var data_notificacao = item['data_notificacao'];
+      //         var link = item['link'];
+      //         var app = item['app'];
+      //         lista_notificacao.push({id: hash, titulo: titulo, mensagem: mensagem, lido: lido, data_notificacao: data_notificacao, link: link});
+      //         localStorage.setItem("lista-notificacoes", JSON.stringify(lista_notificacao));
+      //       });
+      //       firebase.database().ref('notificacoes').child(uid).remove();
+      //     }
+      //   });
+      // }
+    },
     admob: function(){
       window.plugins.insomnia.keepAwake();
       admob.banner.config({ 
