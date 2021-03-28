@@ -1,4 +1,4 @@
-#Tue Mar 09 16:21:07 BRT 2021
-base.0=/var/www/app/quizbiblico/platforms/android/app/build/intermediates/dex/release/mergeDexRelease/classes.dex
+#Sun Mar 28 11:56:30 BRT 2021
+base.0=/var/www/app/android/quizbiblico/platforms/android/app/build/intermediates/dex/release/mergeDexRelease/classes.dex
 path.0=classes.dex
 renamed.0=classes.dex

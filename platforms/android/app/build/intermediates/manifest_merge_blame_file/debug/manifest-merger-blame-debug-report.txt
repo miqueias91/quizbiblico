@@ -2,51 +2,51 @@
 2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
 3    package="br.com.innovatesof.quizbiblico"
 4    android:hardwareAccelerated="true"
-5    android:versionCode="10000"
-6    android:versionName="1.0.0" >
+5    android:versionCode="10004"
+6    android:versionName="1.0.4" >
 7
 8    <uses-sdk
-8-->/var/www/app/quizbiblico/platforms/android/app/src/main/AndroidManifest.xml:24:5-47
+8-->/var/www/app/android/quizbiblico/platforms/android/app/src/main/AndroidManifest.xml:24:5-47
 9        android:minSdkVersion="19"
-9-->/var/www/app/quizbiblico/platforms/android/app/src/main/AndroidManifest.xml:24:5-47
+9-->/var/www/app/android/quizbiblico/platforms/android/app/src/main/AndroidManifest.xml:24:5-47
 10        android:targetSdkVersion="29" />
-10-->/var/www/app/quizbiblico/platforms/android/app/src/main/AndroidManifest.xml:24:15-44
+10-->/var/www/app/android/quizbiblico/platforms/android/app/src/main/AndroidManifest.xml:24:15-44
 11
 12    <supports-screens
-12-->/var/www/app/quizbiblico/platforms/android/app/src/main/AndroidManifest.xml:3:5-191
+12-->/var/www/app/android/quizbiblico/platforms/android/app/src/main/AndroidManifest.xml:3:5-191
 13        android:anyDensity="true"
-13-->/var/www/app/quizbiblico/platforms/android/app/src/main/AndroidManifest.xml:3:23-48
+13-->/var/www/app/android/quizbiblico/platforms/android/app/src/main/AndroidManifest.xml:3:23-48
 14        android:largeScreens="true"
-14-->/var/www/app/quizbiblico/platforms/android/app/src/main/AndroidManifest.xml:3:49-76
+14-->/var/www/app/android/quizbiblico/platforms/android/app/src/main/AndroidManifest.xml:3:49-76
 15        android:normalScreens="true"
-15-->/var/www/app/quizbiblico/platforms/android/app/src/main/AndroidManifest.xml:3:77-105
+15-->/var/www/app/android/quizbiblico/platforms/android/app/src/main/AndroidManifest.xml:3:77-105
 16        android:resizeable="true"
-16-->/var/www/app/quizbiblico/platforms/android/app/src/main/AndroidManifest.xml:3:106-131
+16-->/var/www/app/android/quizbiblico/platforms/android/app/src/main/AndroidManifest.xml:3:106-131
 17        android:smallScreens="true"
-17-->/var/www/app/quizbiblico/platforms/android/app/src/main/AndroidManifest.xml:3:132-159
+17-->/var/www/app/android/quizbiblico/platforms/android/app/src/main/AndroidManifest.xml:3:132-159
 18        android:xlargeScreens="true" />
-18-->/var/www/app/quizbiblico/platforms/android/app/src/main/AndroidManifest.xml:3:160-188
+18-->/var/www/app/android/quizbiblico/platforms/android/app/src/main/AndroidManifest.xml:3:160-188
 19
 20    <uses-permission android:name="android.permission.INTERNET" />
-20-->/var/www/app/quizbiblico/platforms/android/app/src/main/AndroidManifest.xml:4:5-67
-20-->/var/www/app/quizbiblico/platforms/android/app/src/main/AndroidManifest.xml:4:22-64
+20-->/var/www/app/android/quizbiblico/platforms/android/app/src/main/AndroidManifest.xml:4:5-67
+20-->/var/www/app/android/quizbiblico/platforms/android/app/src/main/AndroidManifest.xml:4:22-64
 21    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
-21-->/var/www/app/quizbiblico/platforms/android/app/src/main/AndroidManifest.xml:25:5-79
-21-->/var/www/app/quizbiblico/platforms/android/app/src/main/AndroidManifest.xml:25:22-76
+21-->/var/www/app/android/quizbiblico/platforms/android/app/src/main/AndroidManifest.xml:25:5-79
+21-->/var/www/app/android/quizbiblico/platforms/android/app/src/main/AndroidManifest.xml:25:22-76
 22    <uses-permission android:name="com.amazon.device.messaging.permission.RECEIVE" />
-22-->/var/www/app/quizbiblico/platforms/android/app/src/main/AndroidManifest.xml:26:5-86
-22-->/var/www/app/quizbiblico/platforms/android/app/src/main/AndroidManifest.xml:26:22-83
+22-->/var/www/app/android/quizbiblico/platforms/android/app/src/main/AndroidManifest.xml:26:5-86
+22-->/var/www/app/android/quizbiblico/platforms/android/app/src/main/AndroidManifest.xml:26:22-83
 23
 24    <permission
-24-->/var/www/app/quizbiblico/platforms/android/app/src/main/AndroidManifest.xml:27:5-132
+24-->/var/www/app/android/quizbiblico/platforms/android/app/src/main/AndroidManifest.xml:27:5-132
 25        android:name="br.com.innovatesof.quizbiblico.permission.RECEIVE_ADM_MESSAGE"
-25-->/var/www/app/quizbiblico/platforms/android/app/src/main/AndroidManifest.xml:27:17-93
+25-->/var/www/app/android/quizbiblico/platforms/android/app/src/main/AndroidManifest.xml:27:17-93
 26        android:protectionLevel="signature" />
-26-->/var/www/app/quizbiblico/platforms/android/app/src/main/AndroidManifest.xml:27:94-129
+26-->/var/www/app/android/quizbiblico/platforms/android/app/src/main/AndroidManifest.xml:27:94-129
 27
 28    <uses-permission android:name="br.com.innovatesof.quizbiblico.permission.RECEIVE_ADM_MESSAGE" />
-28-->/var/www/app/quizbiblico/platforms/android/app/src/main/AndroidManifest.xml:28:5-101
-28-->/var/www/app/quizbiblico/platforms/android/app/src/main/AndroidManifest.xml:28:22-98
+28-->/var/www/app/android/quizbiblico/platforms/android/app/src/main/AndroidManifest.xml:28:5-101
+28-->/var/www/app/android/quizbiblico/platforms/android/app/src/main/AndroidManifest.xml:28:22-98
 29    <!-- Create a unique permission for your app and use it so only your app can receive your OneSignal messages. -->
 30    <permission
 30-->[com.onesignal:OneSignal:3.10.5] /home/miqueias/.gradle/caches/transforms-2/files-2.1/e997123954b34e6750e8287a3a7bbc65/OneSignal-3.10.5/AndroidManifest.xml:8:5-10:47
@@ -132,295 +132,296 @@
 66    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
 67
 68    <application
-68-->/var/www/app/quizbiblico/platforms/android/app/src/main/AndroidManifest.xml:5:5-23:19
+68-->/var/www/app/android/quizbiblico/platforms/android/app/src/main/AndroidManifest.xml:5:5-23:19
 69        android:debuggable="true"
 70        android:hardwareAccelerated="true"
-70-->/var/www/app/quizbiblico/platforms/android/app/src/main/AndroidManifest.xml:5:18-52
+70-->/var/www/app/android/quizbiblico/platforms/android/app/src/main/AndroidManifest.xml:5:18-52
 71        android:icon="@mipmap/icon"
-71-->/var/www/app/quizbiblico/platforms/android/app/src/main/AndroidManifest.xml:5:53-80
+71-->/var/www/app/android/quizbiblico/platforms/android/app/src/main/AndroidManifest.xml:5:53-80
 72        android:label="@string/app_name"
-72-->/var/www/app/quizbiblico/platforms/android/app/src/main/AndroidManifest.xml:5:81-113
-73        android:supportsRtl="true" >
-73-->/var/www/app/quizbiblico/platforms/android/app/src/main/AndroidManifest.xml:5:114-140
-74        <activity
-74-->/var/www/app/quizbiblico/platforms/android/app/src/main/AndroidManifest.xml:6:9-11:20
-75            android:name="br.com.innovatesof.quizbiblico.MainActivity"
-75-->/var/www/app/quizbiblico/platforms/android/app/src/main/AndroidManifest.xml:6:166-193
-76            android:configChanges="orientation|keyboardHidden|keyboard|screenSize|locale"
-76-->/var/www/app/quizbiblico/platforms/android/app/src/main/AndroidManifest.xml:6:19-96
-77            android:label="@string/activity_name"
-77-->/var/www/app/quizbiblico/platforms/android/app/src/main/AndroidManifest.xml:6:97-134
-78            android:launchMode="singleTop"
-78-->/var/www/app/quizbiblico/platforms/android/app/src/main/AndroidManifest.xml:6:135-165
-79            android:screenOrientation="portrait"
-79-->/var/www/app/quizbiblico/platforms/android/app/src/main/AndroidManifest.xml:6:194-230
-80            android:theme="@android:style/Theme.DeviceDefault.NoActionBar"
-80-->/var/www/app/quizbiblico/platforms/android/app/src/main/AndroidManifest.xml:6:231-293
-81            android:windowSoftInputMode="adjustResize" >
-81-->/var/www/app/quizbiblico/platforms/android/app/src/main/AndroidManifest.xml:6:294-336
-82            <intent-filter android:label="@string/launcher_name" >
-82-->/var/www/app/quizbiblico/platforms/android/app/src/main/AndroidManifest.xml:7:13-10:29
-82-->/var/www/app/quizbiblico/platforms/android/app/src/main/AndroidManifest.xml:7:28-65
-83                <action android:name="android.intent.action.MAIN" />
-83-->/var/www/app/quizbiblico/platforms/android/app/src/main/AndroidManifest.xml:8:17-69
-83-->/var/www/app/quizbiblico/platforms/android/app/src/main/AndroidManifest.xml:8:25-66
-84
-85                <category android:name="android.intent.category.LAUNCHER" />
-85-->/var/www/app/quizbiblico/platforms/android/app/src/main/AndroidManifest.xml:9:17-77
-85-->/var/www/app/quizbiblico/platforms/android/app/src/main/AndroidManifest.xml:9:27-74
-86            </intent-filter>
-87        </activity>
-88        <activity
-88-->/var/www/app/quizbiblico/platforms/android/app/src/main/AndroidManifest.xml:12:9-233
-89            android:name="com.google.android.gms.ads.AdActivity"
-89-->/var/www/app/quizbiblico/platforms/android/app/src/main/AndroidManifest.xml:12:129-181
-90            android:configChanges="keyboard|keyboardHidden|orientation|screenLayout|uiMode|screenSize|smallestScreenSize"
-90-->/var/www/app/quizbiblico/platforms/android/app/src/main/AndroidManifest.xml:12:19-128
-91            android:theme="@android:style/Theme.Translucent" />
-91-->/var/www/app/quizbiblico/platforms/android/app/src/main/AndroidManifest.xml:12:182-230
-92
-93        <meta-data
-93-->/var/www/app/quizbiblico/platforms/android/app/src/main/AndroidManifest.xml:13:9-134
-94            android:name="com.google.android.gms.ads.APPLICATION_ID"
-94-->/var/www/app/quizbiblico/platforms/android/app/src/main/AndroidManifest.xml:13:20-76
-95            android:value="ca-app-pub-7091486462236476~6864040020" />
-95-->/var/www/app/quizbiblico/platforms/android/app/src/main/AndroidManifest.xml:13:77-131
-96
-97        <amazon:enable-feature
-97-->/var/www/app/quizbiblico/platforms/android/app/src/main/AndroidManifest.xml:14:9-159
-98            xmlns:amazon="http://schemas.amazon.com/apk/res/android"
-98-->/var/www/app/quizbiblico/platforms/android/app/src/main/AndroidManifest.xml:14:100-156
-99            android:name="com.amazon.device.messaging"
-99-->/var/www/app/quizbiblico/platforms/android/app/src/main/AndroidManifest.xml:14:32-74
-100            android:required="false" />
-100-->/var/www/app/quizbiblico/platforms/android/app/src/main/AndroidManifest.xml:14:75-99
-101
-102        <service
-102-->/var/www/app/quizbiblico/platforms/android/app/src/main/AndroidManifest.xml:15:9-92
-103            android:name="com.onesignal.ADMMessageHandler"
-103-->/var/www/app/quizbiblico/platforms/android/app/src/main/AndroidManifest.xml:15:43-89
-104            android:exported="false" />
-104-->/var/www/app/quizbiblico/platforms/android/app/src/main/AndroidManifest.xml:15:18-42
-105
-106        <receiver
-106-->/var/www/app/quizbiblico/platforms/android/app/src/main/AndroidManifest.xml:16:9-22:20
-107            android:name="com.onesignal.ADMMessageHandler$Receiver"
-107-->/var/www/app/quizbiblico/platforms/android/app/src/main/AndroidManifest.xml:16:19-74
-108            android:permission="com.amazon.device.messaging.permission.SEND" >
-108-->/var/www/app/quizbiblico/platforms/android/app/src/main/AndroidManifest.xml:16:75-139
-109            <intent-filter>
-109-->/var/www/app/quizbiblico/platforms/android/app/src/main/AndroidManifest.xml:17:13-21:29
-110                <action android:name="com.amazon.device.messaging.intent.REGISTRATION" />
-110-->/var/www/app/quizbiblico/platforms/android/app/src/main/AndroidManifest.xml:18:17-90
-110-->/var/www/app/quizbiblico/platforms/android/app/src/main/AndroidManifest.xml:18:25-87
-111                <action android:name="com.amazon.device.messaging.intent.RECEIVE" />
-111-->/var/www/app/quizbiblico/platforms/android/app/src/main/AndroidManifest.xml:19:17-85
-111-->/var/www/app/quizbiblico/platforms/android/app/src/main/AndroidManifest.xml:19:25-82
-112
-113                <category android:name="br.com.innovatesof.quizbiblico" />
-113-->/var/www/app/quizbiblico/platforms/android/app/src/main/AndroidManifest.xml:20:17-75
-113-->/var/www/app/quizbiblico/platforms/android/app/src/main/AndroidManifest.xml:20:27-72
-114            </intent-filter>
-115        </receiver>
-116
-117        <meta-data
-117-->[com.onesignal:OneSignal:3.10.5] /home/miqueias/.gradle/caches/transforms-2/files-2.1/e997123954b34e6750e8287a3a7bbc65/OneSignal-3.10.5/AndroidManifest.xml:50:9-52:51
-118            android:name="onesignal_app_id"
-118-->[com.onesignal:OneSignal:3.10.5] /home/miqueias/.gradle/caches/transforms-2/files-2.1/e997123954b34e6750e8287a3a7bbc65/OneSignal-3.10.5/AndroidManifest.xml:51:13-44
-119            android:value="" /> <!-- Deprecated - Pulled from OneSignal dashboard. -->
-119-->[com.onesignal:OneSignal:3.10.5] /home/miqueias/.gradle/caches/transforms-2/files-2.1/e997123954b34e6750e8287a3a7bbc65/OneSignal-3.10.5/AndroidManifest.xml:52:13-48
-120        <meta-data
-120-->[com.onesignal:OneSignal:3.10.5] /home/miqueias/.gradle/caches/transforms-2/files-2.1/e997123954b34e6750e8287a3a7bbc65/OneSignal-3.10.5/AndroidManifest.xml:54:9-56:70
-121            android:name="onesignal_google_project_number"
-121-->[com.onesignal:OneSignal:3.10.5] /home/miqueias/.gradle/caches/transforms-2/files-2.1/e997123954b34e6750e8287a3a7bbc65/OneSignal-3.10.5/AndroidManifest.xml:55:13-59
-122            android:value="str:REMOTE" />
-122-->[com.onesignal:OneSignal:3.10.5] /home/miqueias/.gradle/caches/transforms-2/files-2.1/e997123954b34e6750e8287a3a7bbc65/OneSignal-3.10.5/AndroidManifest.xml:56:13-67
-123
-124        <receiver
-124-->[com.onesignal:OneSignal:3.10.5] /home/miqueias/.gradle/caches/transforms-2/files-2.1/e997123954b34e6750e8287a3a7bbc65/OneSignal-3.10.5/AndroidManifest.xml:58:9-68:20
-125            android:name="com.onesignal.GcmBroadcastReceiver"
-125-->[com.onesignal:OneSignal:3.10.5] /home/miqueias/.gradle/caches/transforms-2/files-2.1/e997123954b34e6750e8287a3a7bbc65/OneSignal-3.10.5/AndroidManifest.xml:59:13-62
-126            android:permission="com.google.android.c2dm.permission.SEND" >
-126-->[com.onesignal:OneSignal:3.10.5] /home/miqueias/.gradle/caches/transforms-2/files-2.1/e997123954b34e6750e8287a3a7bbc65/OneSignal-3.10.5/AndroidManifest.xml:60:13-73
-127
-128            <!-- High priority so OneSignal payloads can be filtered from other GCM receivers if filterOtherGCMReceivers is enabled. -->
-129            <intent-filter android:priority="999" >
-129-->[com.onesignal:OneSignal:3.10.5] /home/miqueias/.gradle/caches/transforms-2/files-2.1/e997123954b34e6750e8287a3a7bbc65/OneSignal-3.10.5/AndroidManifest.xml:63:13-67:29
-129-->[com.onesignal:OneSignal:3.10.5] /home/miqueias/.gradle/caches/transforms-2/files-2.1/e997123954b34e6750e8287a3a7bbc65/OneSignal-3.10.5/AndroidManifest.xml:63:28-50
-130                <action android:name="com.google.android.c2dm.intent.RECEIVE" />
-130-->[com.onesignal:OneSignal:3.10.5] /home/miqueias/.gradle/caches/transforms-2/files-2.1/e997123954b34e6750e8287a3a7bbc65/OneSignal-3.10.5/AndroidManifest.xml:64:17-81
-130-->[com.onesignal:OneSignal:3.10.5] /home/miqueias/.gradle/caches/transforms-2/files-2.1/e997123954b34e6750e8287a3a7bbc65/OneSignal-3.10.5/AndroidManifest.xml:64:25-78
-131
-132                <category android:name="br.com.innovatesof.quizbiblico" />
-132-->/var/www/app/quizbiblico/platforms/android/app/src/main/AndroidManifest.xml:20:17-75
-132-->/var/www/app/quizbiblico/platforms/android/app/src/main/AndroidManifest.xml:20:27-72
-133            </intent-filter>
-134        </receiver>
-135        <receiver android:name="com.onesignal.NotificationOpenedReceiver" />
-135-->[com.onesignal:OneSignal:3.10.5] /home/miqueias/.gradle/caches/transforms-2/files-2.1/e997123954b34e6750e8287a3a7bbc65/OneSignal-3.10.5/AndroidManifest.xml:69:9-77
-135-->[com.onesignal:OneSignal:3.10.5] /home/miqueias/.gradle/caches/transforms-2/files-2.1/e997123954b34e6750e8287a3a7bbc65/OneSignal-3.10.5/AndroidManifest.xml:69:19-74
-136
-137        <service android:name="com.onesignal.GcmIntentService" />
-137-->[com.onesignal:OneSignal:3.10.5] /home/miqueias/.gradle/caches/transforms-2/files-2.1/e997123954b34e6750e8287a3a7bbc65/OneSignal-3.10.5/AndroidManifest.xml:71:9-66
-137-->[com.onesignal:OneSignal:3.10.5] /home/miqueias/.gradle/caches/transforms-2/files-2.1/e997123954b34e6750e8287a3a7bbc65/OneSignal-3.10.5/AndroidManifest.xml:71:18-63
-138        <service
-138-->[com.onesignal:OneSignal:3.10.5] /home/miqueias/.gradle/caches/transforms-2/files-2.1/e997123954b34e6750e8287a3a7bbc65/OneSignal-3.10.5/AndroidManifest.xml:72:9-74:72
-139            android:name="com.onesignal.GcmIntentJobService"
-139-->[com.onesignal:OneSignal:3.10.5] /home/miqueias/.gradle/caches/transforms-2/files-2.1/e997123954b34e6750e8287a3a7bbc65/OneSignal-3.10.5/AndroidManifest.xml:73:13-61
-140            android:permission="android.permission.BIND_JOB_SERVICE" />
-140-->[com.onesignal:OneSignal:3.10.5] /home/miqueias/.gradle/caches/transforms-2/files-2.1/e997123954b34e6750e8287a3a7bbc65/OneSignal-3.10.5/AndroidManifest.xml:74:13-69
-141        <service
-141-->[com.onesignal:OneSignal:3.10.5] /home/miqueias/.gradle/caches/transforms-2/files-2.1/e997123954b34e6750e8287a3a7bbc65/OneSignal-3.10.5/AndroidManifest.xml:75:9-77:72
-142            android:name="com.onesignal.RestoreJobService"
-142-->[com.onesignal:OneSignal:3.10.5] /home/miqueias/.gradle/caches/transforms-2/files-2.1/e997123954b34e6750e8287a3a7bbc65/OneSignal-3.10.5/AndroidManifest.xml:76:13-59
-143            android:permission="android.permission.BIND_JOB_SERVICE" />
-143-->[com.onesignal:OneSignal:3.10.5] /home/miqueias/.gradle/caches/transforms-2/files-2.1/e997123954b34e6750e8287a3a7bbc65/OneSignal-3.10.5/AndroidManifest.xml:77:13-69
-144        <service
-144-->[com.onesignal:OneSignal:3.10.5] /home/miqueias/.gradle/caches/transforms-2/files-2.1/e997123954b34e6750e8287a3a7bbc65/OneSignal-3.10.5/AndroidManifest.xml:78:9-80:72
-145            android:name="com.onesignal.RestoreKickoffJobService"
-145-->[com.onesignal:OneSignal:3.10.5] /home/miqueias/.gradle/caches/transforms-2/files-2.1/e997123954b34e6750e8287a3a7bbc65/OneSignal-3.10.5/AndroidManifest.xml:79:13-66
-146            android:permission="android.permission.BIND_JOB_SERVICE" />
-146-->[com.onesignal:OneSignal:3.10.5] /home/miqueias/.gradle/caches/transforms-2/files-2.1/e997123954b34e6750e8287a3a7bbc65/OneSignal-3.10.5/AndroidManifest.xml:80:13-69
-147        <service
-147-->[com.onesignal:OneSignal:3.10.5] /home/miqueias/.gradle/caches/transforms-2/files-2.1/e997123954b34e6750e8287a3a7bbc65/OneSignal-3.10.5/AndroidManifest.xml:81:9-83:43
-148            android:name="com.onesignal.SyncService"
-148-->[com.onesignal:OneSignal:3.10.5] /home/miqueias/.gradle/caches/transforms-2/files-2.1/e997123954b34e6750e8287a3a7bbc65/OneSignal-3.10.5/AndroidManifest.xml:82:13-53
-149            android:stopWithTask="true" />
-149-->[com.onesignal:OneSignal:3.10.5] /home/miqueias/.gradle/caches/transforms-2/files-2.1/e997123954b34e6750e8287a3a7bbc65/OneSignal-3.10.5/AndroidManifest.xml:83:13-40
-150        <service
-150-->[com.onesignal:OneSignal:3.10.5] /home/miqueias/.gradle/caches/transforms-2/files-2.1/e997123954b34e6750e8287a3a7bbc65/OneSignal-3.10.5/AndroidManifest.xml:84:9-86:72
-151            android:name="com.onesignal.SyncJobService"
-151-->[com.onesignal:OneSignal:3.10.5] /home/miqueias/.gradle/caches/transforms-2/files-2.1/e997123954b34e6750e8287a3a7bbc65/OneSignal-3.10.5/AndroidManifest.xml:85:13-56
-152            android:permission="android.permission.BIND_JOB_SERVICE" />
-152-->[com.onesignal:OneSignal:3.10.5] /home/miqueias/.gradle/caches/transforms-2/files-2.1/e997123954b34e6750e8287a3a7bbc65/OneSignal-3.10.5/AndroidManifest.xml:86:13-69
-153
-154        <activity
-154-->[com.onesignal:OneSignal:3.10.5] /home/miqueias/.gradle/caches/transforms-2/files-2.1/e997123954b34e6750e8287a3a7bbc65/OneSignal-3.10.5/AndroidManifest.xml:88:9-90:75
-155            android:name="com.onesignal.PermissionsActivity"
-155-->[com.onesignal:OneSignal:3.10.5] /home/miqueias/.gradle/caches/transforms-2/files-2.1/e997123954b34e6750e8287a3a7bbc65/OneSignal-3.10.5/AndroidManifest.xml:89:13-61
-156            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
-156-->[com.onesignal:OneSignal:3.10.5] /home/miqueias/.gradle/caches/transforms-2/files-2.1/e997123954b34e6750e8287a3a7bbc65/OneSignal-3.10.5/AndroidManifest.xml:90:13-72
-157
-158        <service android:name="com.onesignal.NotificationRestoreService" />
-158-->[com.onesignal:OneSignal:3.10.5] /home/miqueias/.gradle/caches/transforms-2/files-2.1/e997123954b34e6750e8287a3a7bbc65/OneSignal-3.10.5/AndroidManifest.xml:92:9-76
-158-->[com.onesignal:OneSignal:3.10.5] /home/miqueias/.gradle/caches/transforms-2/files-2.1/e997123954b34e6750e8287a3a7bbc65/OneSignal-3.10.5/AndroidManifest.xml:92:18-73
-159
-160        <receiver android:name="com.onesignal.BootUpReceiver" >
-160-->[com.onesignal:OneSignal:3.10.5] /home/miqueias/.gradle/caches/transforms-2/files-2.1/e997123954b34e6750e8287a3a7bbc65/OneSignal-3.10.5/AndroidManifest.xml:94:9-99:20
-160-->[com.onesignal:OneSignal:3.10.5] /home/miqueias/.gradle/caches/transforms-2/files-2.1/e997123954b34e6750e8287a3a7bbc65/OneSignal-3.10.5/AndroidManifest.xml:94:19-62
-161            <intent-filter>
-161-->[com.onesignal:OneSignal:3.10.5] /home/miqueias/.gradle/caches/transforms-2/files-2.1/e997123954b34e6750e8287a3a7bbc65/OneSignal-3.10.5/AndroidManifest.xml:95:13-98:29
-162                <action android:name="android.intent.action.BOOT_COMPLETED" />
-162-->[com.onesignal:OneSignal:3.10.5] /home/miqueias/.gradle/caches/transforms-2/files-2.1/e997123954b34e6750e8287a3a7bbc65/OneSignal-3.10.5/AndroidManifest.xml:96:17-79
-162-->[com.onesignal:OneSignal:3.10.5] /home/miqueias/.gradle/caches/transforms-2/files-2.1/e997123954b34e6750e8287a3a7bbc65/OneSignal-3.10.5/AndroidManifest.xml:96:25-76
-163                <action android:name="android.intent.action.QUICKBOOT_POWERON" />
-163-->[com.onesignal:OneSignal:3.10.5] /home/miqueias/.gradle/caches/transforms-2/files-2.1/e997123954b34e6750e8287a3a7bbc65/OneSignal-3.10.5/AndroidManifest.xml:97:17-82
-163-->[com.onesignal:OneSignal:3.10.5] /home/miqueias/.gradle/caches/transforms-2/files-2.1/e997123954b34e6750e8287a3a7bbc65/OneSignal-3.10.5/AndroidManifest.xml:97:25-79
-164            </intent-filter>
-165        </receiver>
-166        <receiver android:name="com.onesignal.UpgradeReceiver" >
-166-->[com.onesignal:OneSignal:3.10.5] /home/miqueias/.gradle/caches/transforms-2/files-2.1/e997123954b34e6750e8287a3a7bbc65/OneSignal-3.10.5/AndroidManifest.xml:100:9-104:20
-166-->[com.onesignal:OneSignal:3.10.5] /home/miqueias/.gradle/caches/transforms-2/files-2.1/e997123954b34e6750e8287a3a7bbc65/OneSignal-3.10.5/AndroidManifest.xml:100:19-63
-167            <intent-filter>
-167-->[com.onesignal:OneSignal:3.10.5] /home/miqueias/.gradle/caches/transforms-2/files-2.1/e997123954b34e6750e8287a3a7bbc65/OneSignal-3.10.5/AndroidManifest.xml:101:13-103:29
-168                <action android:name="android.intent.action.MY_PACKAGE_REPLACED" />
-168-->[com.onesignal:OneSignal:3.10.5] /home/miqueias/.gradle/caches/transforms-2/files-2.1/e997123954b34e6750e8287a3a7bbc65/OneSignal-3.10.5/AndroidManifest.xml:102:17-84
-168-->[com.onesignal:OneSignal:3.10.5] /home/miqueias/.gradle/caches/transforms-2/files-2.1/e997123954b34e6750e8287a3a7bbc65/OneSignal-3.10.5/AndroidManifest.xml:102:25-81
-169            </intent-filter>
-170        </receiver>
-171
-172        <activity
-172-->[com.google.android.gms:play-services-base:11.0.4] /home/miqueias/.gradle/caches/transforms-2/files-2.1/6190186c58d59886499335c11ecffecf/play-services-base-11.0.4/AndroidManifest.xml:19:9-172
-173            android:name="com.google.android.gms.common.api.GoogleApiActivity"
-173-->[com.google.android.gms:play-services-base:11.0.4] /home/miqueias/.gradle/caches/transforms-2/files-2.1/6190186c58d59886499335c11ecffecf/play-services-base-11.0.4/AndroidManifest.xml:19:19-85
-174            android:exported="false"
-174-->[com.google.android.gms:play-services-base:11.0.4] /home/miqueias/.gradle/caches/transforms-2/files-2.1/6190186c58d59886499335c11ecffecf/play-services-base-11.0.4/AndroidManifest.xml:19:146-170
-175            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
-175-->[com.google.android.gms:play-services-base:11.0.4] /home/miqueias/.gradle/caches/transforms-2/files-2.1/6190186c58d59886499335c11ecffecf/play-services-base-11.0.4/AndroidManifest.xml:19:86-145
-176        <!--
-177 FirebaseMessagingService performs security checks at runtime,
-178             no need for explicit permissions despite exported="true"
-179        -->
-180        <service
-180-->[com.google.firebase:firebase-messaging:11.0.4] /home/miqueias/.gradle/caches/transforms-2/files-2.1/0c637fb11b452c4972efcab7856c82cd/firebase-messaging-11.0.4/AndroidManifest.xml:23:9-27:19
-181            android:name="com.google.firebase.messaging.FirebaseMessagingService"
-181-->[com.google.firebase:firebase-messaging:11.0.4] /home/miqueias/.gradle/caches/transforms-2/files-2.1/0c637fb11b452c4972efcab7856c82cd/firebase-messaging-11.0.4/AndroidManifest.xml:23:18-87
-182            android:exported="true" >
-182-->[com.google.firebase:firebase-messaging:11.0.4] /home/miqueias/.gradle/caches/transforms-2/files-2.1/0c637fb11b452c4972efcab7856c82cd/firebase-messaging-11.0.4/AndroidManifest.xml:23:88-111
-183            <intent-filter android:priority="-500" >
-183-->[com.google.firebase:firebase-messaging:11.0.4] /home/miqueias/.gradle/caches/transforms-2/files-2.1/0c637fb11b452c4972efcab7856c82cd/firebase-messaging-11.0.4/AndroidManifest.xml:24:13-26:29
-183-->[com.google.firebase:firebase-messaging:11.0.4] /home/miqueias/.gradle/caches/transforms-2/files-2.1/0c637fb11b452c4972efcab7856c82cd/firebase-messaging-11.0.4/AndroidManifest.xml:24:28-51
-184                <action android:name="com.google.firebase.MESSAGING_EVENT" />
-184-->[com.google.firebase:firebase-messaging:11.0.4] /home/miqueias/.gradle/caches/transforms-2/files-2.1/0c637fb11b452c4972efcab7856c82cd/firebase-messaging-11.0.4/AndroidManifest.xml:25:17-77
-184-->[com.google.firebase:firebase-messaging:11.0.4] /home/miqueias/.gradle/caches/transforms-2/files-2.1/0c637fb11b452c4972efcab7856c82cd/firebase-messaging-11.0.4/AndroidManifest.xml:25:25-75
-185            </intent-filter>
-186        </service>
-187
-188        <receiver
-188-->[com.google.firebase:firebase-iid:11.0.4] /home/miqueias/.gradle/caches/transforms-2/files-2.1/85f297de3449739baf9588898b2546e8/firebase-iid-11.0.4/AndroidManifest.xml:30:9-35:20
-189            android:name="com.google.firebase.iid.FirebaseInstanceIdReceiver"
-189-->[com.google.firebase:firebase-iid:11.0.4] /home/miqueias/.gradle/caches/transforms-2/files-2.1/85f297de3449739baf9588898b2546e8/firebase-iid-11.0.4/AndroidManifest.xml:30:19-84
-190            android:exported="true"
-190-->[com.google.firebase:firebase-iid:11.0.4] /home/miqueias/.gradle/caches/transforms-2/files-2.1/85f297de3449739baf9588898b2546e8/firebase-iid-11.0.4/AndroidManifest.xml:30:85-108
-191            android:permission="com.google.android.c2dm.permission.SEND" >
-191-->[com.google.firebase:firebase-iid:11.0.4] /home/miqueias/.gradle/caches/transforms-2/files-2.1/85f297de3449739baf9588898b2546e8/firebase-iid-11.0.4/AndroidManifest.xml:30:109-169
-192            <intent-filter>
-192-->[com.onesignal:OneSignal:3.10.5] /home/miqueias/.gradle/caches/transforms-2/files-2.1/e997123954b34e6750e8287a3a7bbc65/OneSignal-3.10.5/AndroidManifest.xml:63:13-67:29
-193                <action android:name="com.google.android.c2dm.intent.RECEIVE" />
-193-->[com.onesignal:OneSignal:3.10.5] /home/miqueias/.gradle/caches/transforms-2/files-2.1/e997123954b34e6750e8287a3a7bbc65/OneSignal-3.10.5/AndroidManifest.xml:64:17-81
-193-->[com.onesignal:OneSignal:3.10.5] /home/miqueias/.gradle/caches/transforms-2/files-2.1/e997123954b34e6750e8287a3a7bbc65/OneSignal-3.10.5/AndroidManifest.xml:64:25-78
-194
-195                <category android:name="br.com.innovatesof.quizbiblico" />
-195-->/var/www/app/quizbiblico/platforms/android/app/src/main/AndroidManifest.xml:20:17-75
-195-->/var/www/app/quizbiblico/platforms/android/app/src/main/AndroidManifest.xml:20:27-72
-196            </intent-filter>
-197        </receiver>
-198        <!--
-199 Internal (not exported) receiver used by the app to start its own exported services
-200             without risk of being spoofed.
-201        -->
-202        <receiver
-202-->[com.google.firebase:firebase-iid:11.0.4] /home/miqueias/.gradle/caches/transforms-2/files-2.1/85f297de3449739baf9588898b2546e8/firebase-iid-11.0.4/AndroidManifest.xml:39:9-119
-203            android:name="com.google.firebase.iid.FirebaseInstanceIdInternalReceiver"
-203-->[com.google.firebase:firebase-iid:11.0.4] /home/miqueias/.gradle/caches/transforms-2/files-2.1/85f297de3449739baf9588898b2546e8/firebase-iid-11.0.4/AndroidManifest.xml:39:19-92
-204            android:exported="false" />
-204-->[com.google.firebase:firebase-iid:11.0.4] /home/miqueias/.gradle/caches/transforms-2/files-2.1/85f297de3449739baf9588898b2546e8/firebase-iid-11.0.4/AndroidManifest.xml:39:93-117
-205        <!--
-206 FirebaseInstanceIdService performs security checks at runtime,
-207             no need for explicit permissions despite exported="true"
-208        -->
-209        <service
-209-->[com.google.firebase:firebase-iid:11.0.4] /home/miqueias/.gradle/caches/transforms-2/files-2.1/85f297de3449739baf9588898b2546e8/firebase-iid-11.0.4/AndroidManifest.xml:43:9-47:19
-210            android:name="com.google.firebase.iid.FirebaseInstanceIdService"
-210-->[com.google.firebase:firebase-iid:11.0.4] /home/miqueias/.gradle/caches/transforms-2/files-2.1/85f297de3449739baf9588898b2546e8/firebase-iid-11.0.4/AndroidManifest.xml:43:18-82
-211            android:exported="true" >
-211-->[com.google.firebase:firebase-iid:11.0.4] /home/miqueias/.gradle/caches/transforms-2/files-2.1/85f297de3449739baf9588898b2546e8/firebase-iid-11.0.4/AndroidManifest.xml:43:83-106
-212            <intent-filter android:priority="-500" >
-212-->[com.google.firebase:firebase-iid:11.0.4] /home/miqueias/.gradle/caches/transforms-2/files-2.1/85f297de3449739baf9588898b2546e8/firebase-iid-11.0.4/AndroidManifest.xml:44:13-46:29
-212-->[com.google.firebase:firebase-iid:11.0.4] /home/miqueias/.gradle/caches/transforms-2/files-2.1/85f297de3449739baf9588898b2546e8/firebase-iid-11.0.4/AndroidManifest.xml:44:28-51
-213                <action android:name="com.google.firebase.INSTANCE_ID_EVENT" />
-213-->[com.google.firebase:firebase-iid:11.0.4] /home/miqueias/.gradle/caches/transforms-2/files-2.1/85f297de3449739baf9588898b2546e8/firebase-iid-11.0.4/AndroidManifest.xml:45:17-79
-213-->[com.google.firebase:firebase-iid:11.0.4] /home/miqueias/.gradle/caches/transforms-2/files-2.1/85f297de3449739baf9588898b2546e8/firebase-iid-11.0.4/AndroidManifest.xml:45:25-77
-214            </intent-filter>
-215        </service>
-216
-217        <provider
-217-->[com.google.firebase:firebase-common:11.0.4] /home/miqueias/.gradle/caches/transforms-2/files-2.1/70c9b75874dcfa327bc3c54a8a02853c/firebase-common-11.0.4/AndroidManifest.xml:6:9-194
-218            android:name="com.google.firebase.provider.FirebaseInitProvider"
-218-->[com.google.firebase:firebase-common:11.0.4] /home/miqueias/.gradle/caches/transforms-2/files-2.1/70c9b75874dcfa327bc3c54a8a02853c/firebase-common-11.0.4/AndroidManifest.xml:6:79-143
-219            android:authorities="br.com.innovatesof.quizbiblico.firebaseinitprovider"
-219-->[com.google.firebase:firebase-common:11.0.4] /home/miqueias/.gradle/caches/transforms-2/files-2.1/70c9b75874dcfa327bc3c54a8a02853c/firebase-common-11.0.4/AndroidManifest.xml:6:19-78
-220            android:exported="false"
-220-->[com.google.firebase:firebase-common:11.0.4] /home/miqueias/.gradle/caches/transforms-2/files-2.1/70c9b75874dcfa327bc3c54a8a02853c/firebase-common-11.0.4/AndroidManifest.xml:6:144-168
-221            android:initOrder="100" />
-221-->[com.google.firebase:firebase-common:11.0.4] /home/miqueias/.gradle/caches/transforms-2/files-2.1/70c9b75874dcfa327bc3c54a8a02853c/firebase-common-11.0.4/AndroidManifest.xml:6:169-192
-222
-223        <meta-data
-223-->[com.google.android.gms:play-services-basement:11.0.4] /home/miqueias/.gradle/caches/transforms-2/files-2.1/5bddbffea062ec858fe0545538432c3c/play-services-basement-11.0.4/AndroidManifest.xml:20:9-121
-224            android:name="com.google.android.gms.version"
-224-->[com.google.android.gms:play-services-basement:11.0.4] /home/miqueias/.gradle/caches/transforms-2/files-2.1/5bddbffea062ec858fe0545538432c3c/play-services-basement-11.0.4/AndroidManifest.xml:20:20-65
-225            android:value="@integer/google_play_services_version" />
-225-->[com.google.android.gms:play-services-basement:11.0.4] /home/miqueias/.gradle/caches/transforms-2/files-2.1/5bddbffea062ec858fe0545538432c3c/play-services-basement-11.0.4/AndroidManifest.xml:20:66-119
-226    </application>
-227
-228</manifest>
+72-->/var/www/app/android/quizbiblico/platforms/android/app/src/main/AndroidManifest.xml:5:81-113
+73        android:supportsRtl="true"
+73-->/var/www/app/android/quizbiblico/platforms/android/app/src/main/AndroidManifest.xml:5:114-140
+74        android:testOnly="true" >
+75        <activity
+75-->/var/www/app/android/quizbiblico/platforms/android/app/src/main/AndroidManifest.xml:6:9-11:20
+76            android:name="br.com.innovatesof.quizbiblico.MainActivity"
+76-->/var/www/app/android/quizbiblico/platforms/android/app/src/main/AndroidManifest.xml:6:166-193
+77            android:configChanges="orientation|keyboardHidden|keyboard|screenSize|locale"
+77-->/var/www/app/android/quizbiblico/platforms/android/app/src/main/AndroidManifest.xml:6:19-96
+78            android:label="@string/activity_name"
+78-->/var/www/app/android/quizbiblico/platforms/android/app/src/main/AndroidManifest.xml:6:97-134
+79            android:launchMode="singleTop"
+79-->/var/www/app/android/quizbiblico/platforms/android/app/src/main/AndroidManifest.xml:6:135-165
+80            android:screenOrientation="portrait"
+80-->/var/www/app/android/quizbiblico/platforms/android/app/src/main/AndroidManifest.xml:6:194-230
+81            android:theme="@android:style/Theme.DeviceDefault.NoActionBar"
+81-->/var/www/app/android/quizbiblico/platforms/android/app/src/main/AndroidManifest.xml:6:231-293
+82            android:windowSoftInputMode="adjustResize" >
+82-->/var/www/app/android/quizbiblico/platforms/android/app/src/main/AndroidManifest.xml:6:294-336
+83            <intent-filter android:label="@string/launcher_name" >
+83-->/var/www/app/android/quizbiblico/platforms/android/app/src/main/AndroidManifest.xml:7:13-10:29
+83-->/var/www/app/android/quizbiblico/platforms/android/app/src/main/AndroidManifest.xml:7:28-65
+84                <action android:name="android.intent.action.MAIN" />
+84-->/var/www/app/android/quizbiblico/platforms/android/app/src/main/AndroidManifest.xml:8:17-69
+84-->/var/www/app/android/quizbiblico/platforms/android/app/src/main/AndroidManifest.xml:8:25-66
+85
+86                <category android:name="android.intent.category.LAUNCHER" />
+86-->/var/www/app/android/quizbiblico/platforms/android/app/src/main/AndroidManifest.xml:9:17-77
+86-->/var/www/app/android/quizbiblico/platforms/android/app/src/main/AndroidManifest.xml:9:27-74
+87            </intent-filter>
+88        </activity>
+89        <activity
+89-->/var/www/app/android/quizbiblico/platforms/android/app/src/main/AndroidManifest.xml:12:9-233
+90            android:name="com.google.android.gms.ads.AdActivity"
+90-->/var/www/app/android/quizbiblico/platforms/android/app/src/main/AndroidManifest.xml:12:129-181
+91            android:configChanges="keyboard|keyboardHidden|orientation|screenLayout|uiMode|screenSize|smallestScreenSize"
+91-->/var/www/app/android/quizbiblico/platforms/android/app/src/main/AndroidManifest.xml:12:19-128
+92            android:theme="@android:style/Theme.Translucent" />
+92-->/var/www/app/android/quizbiblico/platforms/android/app/src/main/AndroidManifest.xml:12:182-230
+93
+94        <meta-data
+94-->/var/www/app/android/quizbiblico/platforms/android/app/src/main/AndroidManifest.xml:13:9-134
+95            android:name="com.google.android.gms.ads.APPLICATION_ID"
+95-->/var/www/app/android/quizbiblico/platforms/android/app/src/main/AndroidManifest.xml:13:20-76
+96            android:value="ca-app-pub-7091486462236476~6864040020" />
+96-->/var/www/app/android/quizbiblico/platforms/android/app/src/main/AndroidManifest.xml:13:77-131
+97
+98        <amazon:enable-feature
+98-->/var/www/app/android/quizbiblico/platforms/android/app/src/main/AndroidManifest.xml:14:9-159
+99            xmlns:amazon="http://schemas.amazon.com/apk/res/android"
+99-->/var/www/app/android/quizbiblico/platforms/android/app/src/main/AndroidManifest.xml:14:100-156
+100            android:name="com.amazon.device.messaging"
+100-->/var/www/app/android/quizbiblico/platforms/android/app/src/main/AndroidManifest.xml:14:32-74
+101            android:required="false" />
+101-->/var/www/app/android/quizbiblico/platforms/android/app/src/main/AndroidManifest.xml:14:75-99
+102
+103        <service
+103-->/var/www/app/android/quizbiblico/platforms/android/app/src/main/AndroidManifest.xml:15:9-92
+104            android:name="com.onesignal.ADMMessageHandler"
+104-->/var/www/app/android/quizbiblico/platforms/android/app/src/main/AndroidManifest.xml:15:43-89
+105            android:exported="false" />
+105-->/var/www/app/android/quizbiblico/platforms/android/app/src/main/AndroidManifest.xml:15:18-42
+106
+107        <receiver
+107-->/var/www/app/android/quizbiblico/platforms/android/app/src/main/AndroidManifest.xml:16:9-22:20
+108            android:name="com.onesignal.ADMMessageHandler$Receiver"
+108-->/var/www/app/android/quizbiblico/platforms/android/app/src/main/AndroidManifest.xml:16:19-74
+109            android:permission="com.amazon.device.messaging.permission.SEND" >
+109-->/var/www/app/android/quizbiblico/platforms/android/app/src/main/AndroidManifest.xml:16:75-139
+110            <intent-filter>
+110-->/var/www/app/android/quizbiblico/platforms/android/app/src/main/AndroidManifest.xml:17:13-21:29
+111                <action android:name="com.amazon.device.messaging.intent.REGISTRATION" />
+111-->/var/www/app/android/quizbiblico/platforms/android/app/src/main/AndroidManifest.xml:18:17-90
+111-->/var/www/app/android/quizbiblico/platforms/android/app/src/main/AndroidManifest.xml:18:25-87
+112                <action android:name="com.amazon.device.messaging.intent.RECEIVE" />
+112-->/var/www/app/android/quizbiblico/platforms/android/app/src/main/AndroidManifest.xml:19:17-85
+112-->/var/www/app/android/quizbiblico/platforms/android/app/src/main/AndroidManifest.xml:19:25-82
+113
+114                <category android:name="br.com.innovatesof.quizbiblico" />
+114-->/var/www/app/android/quizbiblico/platforms/android/app/src/main/AndroidManifest.xml:20:17-75
+114-->/var/www/app/android/quizbiblico/platforms/android/app/src/main/AndroidManifest.xml:20:27-72
+115            </intent-filter>
+116        </receiver>
+117
+118        <meta-data
+118-->[com.onesignal:OneSignal:3.10.5] /home/miqueias/.gradle/caches/transforms-2/files-2.1/e997123954b34e6750e8287a3a7bbc65/OneSignal-3.10.5/AndroidManifest.xml:50:9-52:51
+119            android:name="onesignal_app_id"
+119-->[com.onesignal:OneSignal:3.10.5] /home/miqueias/.gradle/caches/transforms-2/files-2.1/e997123954b34e6750e8287a3a7bbc65/OneSignal-3.10.5/AndroidManifest.xml:51:13-44
+120            android:value="" /> <!-- Deprecated - Pulled from OneSignal dashboard. -->
+120-->[com.onesignal:OneSignal:3.10.5] /home/miqueias/.gradle/caches/transforms-2/files-2.1/e997123954b34e6750e8287a3a7bbc65/OneSignal-3.10.5/AndroidManifest.xml:52:13-48
+121        <meta-data
+121-->[com.onesignal:OneSignal:3.10.5] /home/miqueias/.gradle/caches/transforms-2/files-2.1/e997123954b34e6750e8287a3a7bbc65/OneSignal-3.10.5/AndroidManifest.xml:54:9-56:70
+122            android:name="onesignal_google_project_number"
+122-->[com.onesignal:OneSignal:3.10.5] /home/miqueias/.gradle/caches/transforms-2/files-2.1/e997123954b34e6750e8287a3a7bbc65/OneSignal-3.10.5/AndroidManifest.xml:55:13-59
+123            android:value="str:REMOTE" />
+123-->[com.onesignal:OneSignal:3.10.5] /home/miqueias/.gradle/caches/transforms-2/files-2.1/e997123954b34e6750e8287a3a7bbc65/OneSignal-3.10.5/AndroidManifest.xml:56:13-67
+124
+125        <receiver
+125-->[com.onesignal:OneSignal:3.10.5] /home/miqueias/.gradle/caches/transforms-2/files-2.1/e997123954b34e6750e8287a3a7bbc65/OneSignal-3.10.5/AndroidManifest.xml:58:9-68:20
+126            android:name="com.onesignal.GcmBroadcastReceiver"
+126-->[com.onesignal:OneSignal:3.10.5] /home/miqueias/.gradle/caches/transforms-2/files-2.1/e997123954b34e6750e8287a3a7bbc65/OneSignal-3.10.5/AndroidManifest.xml:59:13-62
+127            android:permission="com.google.android.c2dm.permission.SEND" >
+127-->[com.onesignal:OneSignal:3.10.5] /home/miqueias/.gradle/caches/transforms-2/files-2.1/e997123954b34e6750e8287a3a7bbc65/OneSignal-3.10.5/AndroidManifest.xml:60:13-73
+128
+129            <!-- High priority so OneSignal payloads can be filtered from other GCM receivers if filterOtherGCMReceivers is enabled. -->
+130            <intent-filter android:priority="999" >
+130-->[com.onesignal:OneSignal:3.10.5] /home/miqueias/.gradle/caches/transforms-2/files-2.1/e997123954b34e6750e8287a3a7bbc65/OneSignal-3.10.5/AndroidManifest.xml:63:13-67:29
+130-->[com.onesignal:OneSignal:3.10.5] /home/miqueias/.gradle/caches/transforms-2/files-2.1/e997123954b34e6750e8287a3a7bbc65/OneSignal-3.10.5/AndroidManifest.xml:63:28-50
+131                <action android:name="com.google.android.c2dm.intent.RECEIVE" />
+131-->[com.onesignal:OneSignal:3.10.5] /home/miqueias/.gradle/caches/transforms-2/files-2.1/e997123954b34e6750e8287a3a7bbc65/OneSignal-3.10.5/AndroidManifest.xml:64:17-81
+131-->[com.onesignal:OneSignal:3.10.5] /home/miqueias/.gradle/caches/transforms-2/files-2.1/e997123954b34e6750e8287a3a7bbc65/OneSignal-3.10.5/AndroidManifest.xml:64:25-78
+132
+133                <category android:name="br.com.innovatesof.quizbiblico" />
+133-->/var/www/app/android/quizbiblico/platforms/android/app/src/main/AndroidManifest.xml:20:17-75
+133-->/var/www/app/android/quizbiblico/platforms/android/app/src/main/AndroidManifest.xml:20:27-72
+134            </intent-filter>
+135        </receiver>
+136        <receiver android:name="com.onesignal.NotificationOpenedReceiver" />
+136-->[com.onesignal:OneSignal:3.10.5] /home/miqueias/.gradle/caches/transforms-2/files-2.1/e997123954b34e6750e8287a3a7bbc65/OneSignal-3.10.5/AndroidManifest.xml:69:9-77
+136-->[com.onesignal:OneSignal:3.10.5] /home/miqueias/.gradle/caches/transforms-2/files-2.1/e997123954b34e6750e8287a3a7bbc65/OneSignal-3.10.5/AndroidManifest.xml:69:19-74
+137
+138        <service android:name="com.onesignal.GcmIntentService" />
+138-->[com.onesignal:OneSignal:3.10.5] /home/miqueias/.gradle/caches/transforms-2/files-2.1/e997123954b34e6750e8287a3a7bbc65/OneSignal-3.10.5/AndroidManifest.xml:71:9-66
+138-->[com.onesignal:OneSignal:3.10.5] /home/miqueias/.gradle/caches/transforms-2/files-2.1/e997123954b34e6750e8287a3a7bbc65/OneSignal-3.10.5/AndroidManifest.xml:71:18-63
+139        <service
+139-->[com.onesignal:OneSignal:3.10.5] /home/miqueias/.gradle/caches/transforms-2/files-2.1/e997123954b34e6750e8287a3a7bbc65/OneSignal-3.10.5/AndroidManifest.xml:72:9-74:72
+140            android:name="com.onesignal.GcmIntentJobService"
+140-->[com.onesignal:OneSignal:3.10.5] /home/miqueias/.gradle/caches/transforms-2/files-2.1/e997123954b34e6750e8287a3a7bbc65/OneSignal-3.10.5/AndroidManifest.xml:73:13-61
+141            android:permission="android.permission.BIND_JOB_SERVICE" />
+141-->[com.onesignal:OneSignal:3.10.5] /home/miqueias/.gradle/caches/transforms-2/files-2.1/e997123954b34e6750e8287a3a7bbc65/OneSignal-3.10.5/AndroidManifest.xml:74:13-69
+142        <service
+142-->[com.onesignal:OneSignal:3.10.5] /home/miqueias/.gradle/caches/transforms-2/files-2.1/e997123954b34e6750e8287a3a7bbc65/OneSignal-3.10.5/AndroidManifest.xml:75:9-77:72
+143            android:name="com.onesignal.RestoreJobService"
+143-->[com.onesignal:OneSignal:3.10.5] /home/miqueias/.gradle/caches/transforms-2/files-2.1/e997123954b34e6750e8287a3a7bbc65/OneSignal-3.10.5/AndroidManifest.xml:76:13-59
+144            android:permission="android.permission.BIND_JOB_SERVICE" />
+144-->[com.onesignal:OneSignal:3.10.5] /home/miqueias/.gradle/caches/transforms-2/files-2.1/e997123954b34e6750e8287a3a7bbc65/OneSignal-3.10.5/AndroidManifest.xml:77:13-69
+145        <service
+145-->[com.onesignal:OneSignal:3.10.5] /home/miqueias/.gradle/caches/transforms-2/files-2.1/e997123954b34e6750e8287a3a7bbc65/OneSignal-3.10.5/AndroidManifest.xml:78:9-80:72
+146            android:name="com.onesignal.RestoreKickoffJobService"
+146-->[com.onesignal:OneSignal:3.10.5] /home/miqueias/.gradle/caches/transforms-2/files-2.1/e997123954b34e6750e8287a3a7bbc65/OneSignal-3.10.5/AndroidManifest.xml:79:13-66
+147            android:permission="android.permission.BIND_JOB_SERVICE" />
+147-->[com.onesignal:OneSignal:3.10.5] /home/miqueias/.gradle/caches/transforms-2/files-2.1/e997123954b34e6750e8287a3a7bbc65/OneSignal-3.10.5/AndroidManifest.xml:80:13-69
+148        <service
+148-->[com.onesignal:OneSignal:3.10.5] /home/miqueias/.gradle/caches/transforms-2/files-2.1/e997123954b34e6750e8287a3a7bbc65/OneSignal-3.10.5/AndroidManifest.xml:81:9-83:43
+149            android:name="com.onesignal.SyncService"
+149-->[com.onesignal:OneSignal:3.10.5] /home/miqueias/.gradle/caches/transforms-2/files-2.1/e997123954b34e6750e8287a3a7bbc65/OneSignal-3.10.5/AndroidManifest.xml:82:13-53
+150            android:stopWithTask="true" />
+150-->[com.onesignal:OneSignal:3.10.5] /home/miqueias/.gradle/caches/transforms-2/files-2.1/e997123954b34e6750e8287a3a7bbc65/OneSignal-3.10.5/AndroidManifest.xml:83:13-40
+151        <service
+151-->[com.onesignal:OneSignal:3.10.5] /home/miqueias/.gradle/caches/transforms-2/files-2.1/e997123954b34e6750e8287a3a7bbc65/OneSignal-3.10.5/AndroidManifest.xml:84:9-86:72
+152            android:name="com.onesignal.SyncJobService"
+152-->[com.onesignal:OneSignal:3.10.5] /home/miqueias/.gradle/caches/transforms-2/files-2.1/e997123954b34e6750e8287a3a7bbc65/OneSignal-3.10.5/AndroidManifest.xml:85:13-56
+153            android:permission="android.permission.BIND_JOB_SERVICE" />
+153-->[com.onesignal:OneSignal:3.10.5] /home/miqueias/.gradle/caches/transforms-2/files-2.1/e997123954b34e6750e8287a3a7bbc65/OneSignal-3.10.5/AndroidManifest.xml:86:13-69
+154
+155        <activity
+155-->[com.onesignal:OneSignal:3.10.5] /home/miqueias/.gradle/caches/transforms-2/files-2.1/e997123954b34e6750e8287a3a7bbc65/OneSignal-3.10.5/AndroidManifest.xml:88:9-90:75
+156            android:name="com.onesignal.PermissionsActivity"
+156-->[com.onesignal:OneSignal:3.10.5] /home/miqueias/.gradle/caches/transforms-2/files-2.1/e997123954b34e6750e8287a3a7bbc65/OneSignal-3.10.5/AndroidManifest.xml:89:13-61
+157            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+157-->[com.onesignal:OneSignal:3.10.5] /home/miqueias/.gradle/caches/transforms-2/files-2.1/e997123954b34e6750e8287a3a7bbc65/OneSignal-3.10.5/AndroidManifest.xml:90:13-72
+158
+159        <service android:name="com.onesignal.NotificationRestoreService" />
+159-->[com.onesignal:OneSignal:3.10.5] /home/miqueias/.gradle/caches/transforms-2/files-2.1/e997123954b34e6750e8287a3a7bbc65/OneSignal-3.10.5/AndroidManifest.xml:92:9-76
+159-->[com.onesignal:OneSignal:3.10.5] /home/miqueias/.gradle/caches/transforms-2/files-2.1/e997123954b34e6750e8287a3a7bbc65/OneSignal-3.10.5/AndroidManifest.xml:92:18-73
+160
+161        <receiver android:name="com.onesignal.BootUpReceiver" >
+161-->[com.onesignal:OneSignal:3.10.5] /home/miqueias/.gradle/caches/transforms-2/files-2.1/e997123954b34e6750e8287a3a7bbc65/OneSignal-3.10.5/AndroidManifest.xml:94:9-99:20
+161-->[com.onesignal:OneSignal:3.10.5] /home/miqueias/.gradle/caches/transforms-2/files-2.1/e997123954b34e6750e8287a3a7bbc65/OneSignal-3.10.5/AndroidManifest.xml:94:19-62
+162            <intent-filter>
+162-->[com.onesignal:OneSignal:3.10.5] /home/miqueias/.gradle/caches/transforms-2/files-2.1/e997123954b34e6750e8287a3a7bbc65/OneSignal-3.10.5/AndroidManifest.xml:95:13-98:29
+163                <action android:name="android.intent.action.BOOT_COMPLETED" />
+163-->[com.onesignal:OneSignal:3.10.5] /home/miqueias/.gradle/caches/transforms-2/files-2.1/e997123954b34e6750e8287a3a7bbc65/OneSignal-3.10.5/AndroidManifest.xml:96:17-79
+163-->[com.onesignal:OneSignal:3.10.5] /home/miqueias/.gradle/caches/transforms-2/files-2.1/e997123954b34e6750e8287a3a7bbc65/OneSignal-3.10.5/AndroidManifest.xml:96:25-76
+164                <action android:name="android.intent.action.QUICKBOOT_POWERON" />
+164-->[com.onesignal:OneSignal:3.10.5] /home/miqueias/.gradle/caches/transforms-2/files-2.1/e997123954b34e6750e8287a3a7bbc65/OneSignal-3.10.5/AndroidManifest.xml:97:17-82
+164-->[com.onesignal:OneSignal:3.10.5] /home/miqueias/.gradle/caches/transforms-2/files-2.1/e997123954b34e6750e8287a3a7bbc65/OneSignal-3.10.5/AndroidManifest.xml:97:25-79
+165            </intent-filter>
+166        </receiver>
+167        <receiver android:name="com.onesignal.UpgradeReceiver" >
+167-->[com.onesignal:OneSignal:3.10.5] /home/miqueias/.gradle/caches/transforms-2/files-2.1/e997123954b34e6750e8287a3a7bbc65/OneSignal-3.10.5/AndroidManifest.xml:100:9-104:20
+167-->[com.onesignal:OneSignal:3.10.5] /home/miqueias/.gradle/caches/transforms-2/files-2.1/e997123954b34e6750e8287a3a7bbc65/OneSignal-3.10.5/AndroidManifest.xml:100:19-63
+168            <intent-filter>
+168-->[com.onesignal:OneSignal:3.10.5] /home/miqueias/.gradle/caches/transforms-2/files-2.1/e997123954b34e6750e8287a3a7bbc65/OneSignal-3.10.5/AndroidManifest.xml:101:13-103:29
+169                <action android:name="android.intent.action.MY_PACKAGE_REPLACED" />
+169-->[com.onesignal:OneSignal:3.10.5] /home/miqueias/.gradle/caches/transforms-2/files-2.1/e997123954b34e6750e8287a3a7bbc65/OneSignal-3.10.5/AndroidManifest.xml:102:17-84
+169-->[com.onesignal:OneSignal:3.10.5] /home/miqueias/.gradle/caches/transforms-2/files-2.1/e997123954b34e6750e8287a3a7bbc65/OneSignal-3.10.5/AndroidManifest.xml:102:25-81
+170            </intent-filter>
+171        </receiver>
+172
+173        <activity
+173-->[com.google.android.gms:play-services-base:11.0.4] /home/miqueias/.gradle/caches/transforms-2/files-2.1/6190186c58d59886499335c11ecffecf/play-services-base-11.0.4/AndroidManifest.xml:19:9-172
+174            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+174-->[com.google.android.gms:play-services-base:11.0.4] /home/miqueias/.gradle/caches/transforms-2/files-2.1/6190186c58d59886499335c11ecffecf/play-services-base-11.0.4/AndroidManifest.xml:19:19-85
+175            android:exported="false"
+175-->[com.google.android.gms:play-services-base:11.0.4] /home/miqueias/.gradle/caches/transforms-2/files-2.1/6190186c58d59886499335c11ecffecf/play-services-base-11.0.4/AndroidManifest.xml:19:146-170
+176            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+176-->[com.google.android.gms:play-services-base:11.0.4] /home/miqueias/.gradle/caches/transforms-2/files-2.1/6190186c58d59886499335c11ecffecf/play-services-base-11.0.4/AndroidManifest.xml:19:86-145
+177        <!--
+178 FirebaseMessagingService performs security checks at runtime,
+179             no need for explicit permissions despite exported="true"
+180        -->
+181        <service
+181-->[com.google.firebase:firebase-messaging:11.0.4] /home/miqueias/.gradle/caches/transforms-2/files-2.1/0c637fb11b452c4972efcab7856c82cd/firebase-messaging-11.0.4/AndroidManifest.xml:23:9-27:19
+182            android:name="com.google.firebase.messaging.FirebaseMessagingService"
+182-->[com.google.firebase:firebase-messaging:11.0.4] /home/miqueias/.gradle/caches/transforms-2/files-2.1/0c637fb11b452c4972efcab7856c82cd/firebase-messaging-11.0.4/AndroidManifest.xml:23:18-87
+183            android:exported="true" >
+183-->[com.google.firebase:firebase-messaging:11.0.4] /home/miqueias/.gradle/caches/transforms-2/files-2.1/0c637fb11b452c4972efcab7856c82cd/firebase-messaging-11.0.4/AndroidManifest.xml:23:88-111
+184            <intent-filter android:priority="-500" >
+184-->[com.google.firebase:firebase-messaging:11.0.4] /home/miqueias/.gradle/caches/transforms-2/files-2.1/0c637fb11b452c4972efcab7856c82cd/firebase-messaging-11.0.4/AndroidManifest.xml:24:13-26:29
+184-->[com.google.firebase:firebase-messaging:11.0.4] /home/miqueias/.gradle/caches/transforms-2/files-2.1/0c637fb11b452c4972efcab7856c82cd/firebase-messaging-11.0.4/AndroidManifest.xml:24:28-51
+185                <action android:name="com.google.firebase.MESSAGING_EVENT" />
+185-->[com.google.firebase:firebase-messaging:11.0.4] /home/miqueias/.gradle/caches/transforms-2/files-2.1/0c637fb11b452c4972efcab7856c82cd/firebase-messaging-11.0.4/AndroidManifest.xml:25:17-77
+185-->[com.google.firebase:firebase-messaging:11.0.4] /home/miqueias/.gradle/caches/transforms-2/files-2.1/0c637fb11b452c4972efcab7856c82cd/firebase-messaging-11.0.4/AndroidManifest.xml:25:25-75
+186            </intent-filter>
+187        </service>
+188
+189        <receiver
+189-->[com.google.firebase:firebase-iid:11.0.4] /home/miqueias/.gradle/caches/transforms-2/files-2.1/85f297de3449739baf9588898b2546e8/firebase-iid-11.0.4/AndroidManifest.xml:30:9-35:20
+190            android:name="com.google.firebase.iid.FirebaseInstanceIdReceiver"
+190-->[com.google.firebase:firebase-iid:11.0.4] /home/miqueias/.gradle/caches/transforms-2/files-2.1/85f297de3449739baf9588898b2546e8/firebase-iid-11.0.4/AndroidManifest.xml:30:19-84
+191            android:exported="true"
+191-->[com.google.firebase:firebase-iid:11.0.4] /home/miqueias/.gradle/caches/transforms-2/files-2.1/85f297de3449739baf9588898b2546e8/firebase-iid-11.0.4/AndroidManifest.xml:30:85-108
+192            android:permission="com.google.android.c2dm.permission.SEND" >
+192-->[com.google.firebase:firebase-iid:11.0.4] /home/miqueias/.gradle/caches/transforms-2/files-2.1/85f297de3449739baf9588898b2546e8/firebase-iid-11.0.4/AndroidManifest.xml:30:109-169
+193            <intent-filter>
+193-->[com.onesignal:OneSignal:3.10.5] /home/miqueias/.gradle/caches/transforms-2/files-2.1/e997123954b34e6750e8287a3a7bbc65/OneSignal-3.10.5/AndroidManifest.xml:63:13-67:29
+194                <action android:name="com.google.android.c2dm.intent.RECEIVE" />
+194-->[com.onesignal:OneSignal:3.10.5] /home/miqueias/.gradle/caches/transforms-2/files-2.1/e997123954b34e6750e8287a3a7bbc65/OneSignal-3.10.5/AndroidManifest.xml:64:17-81
+194-->[com.onesignal:OneSignal:3.10.5] /home/miqueias/.gradle/caches/transforms-2/files-2.1/e997123954b34e6750e8287a3a7bbc65/OneSignal-3.10.5/AndroidManifest.xml:64:25-78
+195
+196                <category android:name="br.com.innovatesof.quizbiblico" />
+196-->/var/www/app/android/quizbiblico/platforms/android/app/src/main/AndroidManifest.xml:20:17-75
+196-->/var/www/app/android/quizbiblico/platforms/android/app/src/main/AndroidManifest.xml:20:27-72
+197            </intent-filter>
+198        </receiver>
+199        <!--
+200 Internal (not exported) receiver used by the app to start its own exported services
+201             without risk of being spoofed.
+202        -->
+203        <receiver
+203-->[com.google.firebase:firebase-iid:11.0.4] /home/miqueias/.gradle/caches/transforms-2/files-2.1/85f297de3449739baf9588898b2546e8/firebase-iid-11.0.4/AndroidManifest.xml:39:9-119
+204            android:name="com.google.firebase.iid.FirebaseInstanceIdInternalReceiver"
+204-->[com.google.firebase:firebase-iid:11.0.4] /home/miqueias/.gradle/caches/transforms-2/files-2.1/85f297de3449739baf9588898b2546e8/firebase-iid-11.0.4/AndroidManifest.xml:39:19-92
+205            android:exported="false" />
+205-->[com.google.firebase:firebase-iid:11.0.4] /home/miqueias/.gradle/caches/transforms-2/files-2.1/85f297de3449739baf9588898b2546e8/firebase-iid-11.0.4/AndroidManifest.xml:39:93-117
+206        <!--
+207 FirebaseInstanceIdService performs security checks at runtime,
+208             no need for explicit permissions despite exported="true"
+209        -->
+210        <service
+210-->[com.google.firebase:firebase-iid:11.0.4] /home/miqueias/.gradle/caches/transforms-2/files-2.1/85f297de3449739baf9588898b2546e8/firebase-iid-11.0.4/AndroidManifest.xml:43:9-47:19
+211            android:name="com.google.firebase.iid.FirebaseInstanceIdService"
+211-->[com.google.firebase:firebase-iid:11.0.4] /home/miqueias/.gradle/caches/transforms-2/files-2.1/85f297de3449739baf9588898b2546e8/firebase-iid-11.0.4/AndroidManifest.xml:43:18-82
+212            android:exported="true" >
+212-->[com.google.firebase:firebase-iid:11.0.4] /home/miqueias/.gradle/caches/transforms-2/files-2.1/85f297de3449739baf9588898b2546e8/firebase-iid-11.0.4/AndroidManifest.xml:43:83-106
+213            <intent-filter android:priority="-500" >
+213-->[com.google.firebase:firebase-iid:11.0.4] /home/miqueias/.gradle/caches/transforms-2/files-2.1/85f297de3449739baf9588898b2546e8/firebase-iid-11.0.4/AndroidManifest.xml:44:13-46:29
+213-->[com.google.firebase:firebase-iid:11.0.4] /home/miqueias/.gradle/caches/transforms-2/files-2.1/85f297de3449739baf9588898b2546e8/firebase-iid-11.0.4/AndroidManifest.xml:44:28-51
+214                <action android:name="com.google.firebase.INSTANCE_ID_EVENT" />
+214-->[com.google.firebase:firebase-iid:11.0.4] /home/miqueias/.gradle/caches/transforms-2/files-2.1/85f297de3449739baf9588898b2546e8/firebase-iid-11.0.4/AndroidManifest.xml:45:17-79
+214-->[com.google.firebase:firebase-iid:11.0.4] /home/miqueias/.gradle/caches/transforms-2/files-2.1/85f297de3449739baf9588898b2546e8/firebase-iid-11.0.4/AndroidManifest.xml:45:25-77
+215            </intent-filter>
+216        </service>
+217
+218        <provider
+218-->[com.google.firebase:firebase-common:11.0.4] /home/miqueias/.gradle/caches/transforms-2/files-2.1/70c9b75874dcfa327bc3c54a8a02853c/firebase-common-11.0.4/AndroidManifest.xml:6:9-194
+219            android:name="com.google.firebase.provider.FirebaseInitProvider"
+219-->[com.google.firebase:firebase-common:11.0.4] /home/miqueias/.gradle/caches/transforms-2/files-2.1/70c9b75874dcfa327bc3c54a8a02853c/firebase-common-11.0.4/AndroidManifest.xml:6:79-143
+220            android:authorities="br.com.innovatesof.quizbiblico.firebaseinitprovider"
+220-->[com.google.firebase:firebase-common:11.0.4] /home/miqueias/.gradle/caches/transforms-2/files-2.1/70c9b75874dcfa327bc3c54a8a02853c/firebase-common-11.0.4/AndroidManifest.xml:6:19-78
+221            android:exported="false"
+221-->[com.google.firebase:firebase-common:11.0.4] /home/miqueias/.gradle/caches/transforms-2/files-2.1/70c9b75874dcfa327bc3c54a8a02853c/firebase-common-11.0.4/AndroidManifest.xml:6:144-168
+222            android:initOrder="100" />
+222-->[com.google.firebase:firebase-common:11.0.4] /home/miqueias/.gradle/caches/transforms-2/files-2.1/70c9b75874dcfa327bc3c54a8a02853c/firebase-common-11.0.4/AndroidManifest.xml:6:169-192
+223
+224        <meta-data
+224-->[com.google.android.gms:play-services-basement:11.0.4] /home/miqueias/.gradle/caches/transforms-2/files-2.1/5bddbffea062ec858fe0545538432c3c/play-services-basement-11.0.4/AndroidManifest.xml:20:9-121
+225            android:name="com.google.android.gms.version"
+225-->[com.google.android.gms:play-services-basement:11.0.4] /home/miqueias/.gradle/caches/transforms-2/files-2.1/5bddbffea062ec858fe0545538432c3c/play-services-basement-11.0.4/AndroidManifest.xml:20:20-65
+226            android:value="@integer/google_play_services_version" />
+226-->[com.google.android.gms:play-services-basement:11.0.4] /home/miqueias/.gradle/caches/transforms-2/files-2.1/5bddbffea062ec858fe0545538432c3c/play-services-basement-11.0.4/AndroidManifest.xml:20:66-119
+227    </application>
+228
+229</manifest>

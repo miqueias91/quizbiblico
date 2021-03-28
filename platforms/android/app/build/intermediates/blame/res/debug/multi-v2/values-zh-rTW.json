@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/var/www/app/quizbiblico/platforms/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-zh-rTW/values-zh-rTW.xml",
+            "outputFile": "/var/www/app/android/quizbiblico/platforms/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-zh-rTW/values-zh-rTW.xml",
             "map": [
                 {
                     "source": "/home/miqueias/.gradle/caches/transforms-2/files-2.1/6190186c58d59886499335c11ecffecf/play-services-base-11.0.4/res/values-zh-rTW/values.xml",

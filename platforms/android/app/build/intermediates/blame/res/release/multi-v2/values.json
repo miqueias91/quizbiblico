@@ -1,25 +1,8 @@
 {
     "logs": [
         {
-            "outputFile": "/var/www/app/quizbiblico/platforms/android/app/build/intermediates/incremental/mergeReleaseResources/merged.dir/values/values.xml",
+            "outputFile": "/var/www/app/android/quizbiblico/platforms/android/app/build/intermediates/incremental/mergeReleaseResources/merged.dir/values/values.xml",
             "map": [
-                {
-                    "source": "/var/www/app/quizbiblico/platforms/android/app/src/main/res/values/strings.xml",
-                    "from": {
-                        "startLines": "4,2,3",
-                        "startColumns": "4,4,4",
-                        "startOffsets": "164,55,105",
-                        "endColumns": "63,49,58",
-                        "endOffsets": "223,100,159"
-                    },
-                    "to": {
-                        "startLines": "55,56,75",
-                        "startColumns": "4,4,4",
-                        "startOffsets": "3615,3679,6028",
-                        "endColumns": "63,49,58",
-                        "endOffsets": "3674,3724,6082"
-                    }
-                },
                 {
                     "source": "/home/miqueias/.gradle/caches/transforms-2/files-2.1/861055886904d4b0b4bb37c0de00ecee/support-media-compat-27.1.1/res/values/values.xml",
                     "from": {
@@ -71,6 +54,23 @@
                         "startOffsets": "3477,4653",
                         "endColumns": "67,166",
                         "endOffsets": "3540,4815"
+                    }
+                },
+                {
+                    "source": "/var/www/app/android/quizbiblico/platforms/android/app/src/main/res/values/strings.xml",
+                    "from": {
+                        "startLines": "4,2,3",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "164,55,105",
+                        "endColumns": "63,49,58",
+                        "endOffsets": "223,100,159"
+                    },
+                    "to": {
+                        "startLines": "55,56,75",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "3615,3679,6028",
+                        "endColumns": "63,49,58",
+                        "endOffsets": "3674,3724,6082"
                     }
                 },
                 {

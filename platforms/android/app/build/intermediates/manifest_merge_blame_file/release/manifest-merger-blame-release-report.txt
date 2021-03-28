@@ -2,51 +2,51 @@
 2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
 3    package="br.com.innovatesof.quizbiblico"
 4    android:hardwareAccelerated="true"
-5    android:versionCode="10003"
-6    android:versionName="1.0.3" >
+5    android:versionCode="10004"
+6    android:versionName="1.0.4" >
 7
 8    <uses-sdk
-8-->/var/www/app/quizbiblico/platforms/android/app/src/main/AndroidManifest.xml:24:5-47
+8-->/var/www/app/android/quizbiblico/platforms/android/app/src/main/AndroidManifest.xml:24:5-47
 9        android:minSdkVersion="19"
-9-->/var/www/app/quizbiblico/platforms/android/app/src/main/AndroidManifest.xml:24:5-47
+9-->/var/www/app/android/quizbiblico/platforms/android/app/src/main/AndroidManifest.xml:24:5-47
 10        android:targetSdkVersion="29" />
-10-->/var/www/app/quizbiblico/platforms/android/app/src/main/AndroidManifest.xml:24:15-44
+10-->/var/www/app/android/quizbiblico/platforms/android/app/src/main/AndroidManifest.xml:24:15-44
 11
 12    <supports-screens
-12-->/var/www/app/quizbiblico/platforms/android/app/src/main/AndroidManifest.xml:3:5-191
+12-->/var/www/app/android/quizbiblico/platforms/android/app/src/main/AndroidManifest.xml:3:5-191
 13        android:anyDensity="true"
-13-->/var/www/app/quizbiblico/platforms/android/app/src/main/AndroidManifest.xml:3:23-48
+13-->/var/www/app/android/quizbiblico/platforms/android/app/src/main/AndroidManifest.xml:3:23-48
 14        android:largeScreens="true"
-14-->/var/www/app/quizbiblico/platforms/android/app/src/main/AndroidManifest.xml:3:49-76
+14-->/var/www/app/android/quizbiblico/platforms/android/app/src/main/AndroidManifest.xml:3:49-76
 15        android:normalScreens="true"
-15-->/var/www/app/quizbiblico/platforms/android/app/src/main/AndroidManifest.xml:3:77-105
+15-->/var/www/app/android/quizbiblico/platforms/android/app/src/main/AndroidManifest.xml:3:77-105
 16        android:resizeable="true"
-16-->/var/www/app/quizbiblico/platforms/android/app/src/main/AndroidManifest.xml:3:106-131
+16-->/var/www/app/android/quizbiblico/platforms/android/app/src/main/AndroidManifest.xml:3:106-131
 17        android:smallScreens="true"
-17-->/var/www/app/quizbiblico/platforms/android/app/src/main/AndroidManifest.xml:3:132-159
+17-->/var/www/app/android/quizbiblico/platforms/android/app/src/main/AndroidManifest.xml:3:132-159
 18        android:xlargeScreens="true" />
-18-->/var/www/app/quizbiblico/platforms/android/app/src/main/AndroidManifest.xml:3:160-188
+18-->/var/www/app/android/quizbiblico/platforms/android/app/src/main/AndroidManifest.xml:3:160-188
 19
 20    <uses-permission android:name="android.permission.INTERNET" />
-20-->/var/www/app/quizbiblico/platforms/android/app/src/main/AndroidManifest.xml:4:5-67
-20-->/var/www/app/quizbiblico/platforms/android/app/src/main/AndroidManifest.xml:4:22-64
+20-->/var/www/app/android/quizbiblico/platforms/android/app/src/main/AndroidManifest.xml:4:5-67
+20-->/var/www/app/android/quizbiblico/platforms/android/app/src/main/AndroidManifest.xml:4:22-64
 21    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
-21-->/var/www/app/quizbiblico/platforms/android/app/src/main/AndroidManifest.xml:25:5-79
-21-->/var/www/app/quizbiblico/platforms/android/app/src/main/AndroidManifest.xml:25:22-76
+21-->/var/www/app/android/quizbiblico/platforms/android/app/src/main/AndroidManifest.xml:25:5-79
+21-->/var/www/app/android/quizbiblico/platforms/android/app/src/main/AndroidManifest.xml:25:22-76
 22    <uses-permission android:name="com.amazon.device.messaging.permission.RECEIVE" />
-22-->/var/www/app/quizbiblico/platforms/android/app/src/main/AndroidManifest.xml:26:5-86
-22-->/var/www/app/quizbiblico/platforms/android/app/src/main/AndroidManifest.xml:26:22-83
+22-->/var/www/app/android/quizbiblico/platforms/android/app/src/main/AndroidManifest.xml:26:5-86
+22-->/var/www/app/android/quizbiblico/platforms/android/app/src/main/AndroidManifest.xml:26:22-83
 23
 24    <permission
-24-->/var/www/app/quizbiblico/platforms/android/app/src/main/AndroidManifest.xml:27:5-132
+24-->/var/www/app/android/quizbiblico/platforms/android/app/src/main/AndroidManifest.xml:27:5-132
 25        android:name="br.com.innovatesof.quizbiblico.permission.RECEIVE_ADM_MESSAGE"
-25-->/var/www/app/quizbiblico/platforms/android/app/src/main/AndroidManifest.xml:27:17-93
+25-->/var/www/app/android/quizbiblico/platforms/android/app/src/main/AndroidManifest.xml:27:17-93
 26        android:protectionLevel="signature" />
-26-->/var/www/app/quizbiblico/platforms/android/app/src/main/AndroidManifest.xml:27:94-129
+26-->/var/www/app/android/quizbiblico/platforms/android/app/src/main/AndroidManifest.xml:27:94-129
 27
 28    <uses-permission android:name="br.com.innovatesof.quizbiblico.permission.RECEIVE_ADM_MESSAGE" />
-28-->/var/www/app/quizbiblico/platforms/android/app/src/main/AndroidManifest.xml:28:5-101
-28-->/var/www/app/quizbiblico/platforms/android/app/src/main/AndroidManifest.xml:28:22-98
+28-->/var/www/app/android/quizbiblico/platforms/android/app/src/main/AndroidManifest.xml:28:5-101
+28-->/var/www/app/android/quizbiblico/platforms/android/app/src/main/AndroidManifest.xml:28:22-98
 29    <!-- Create a unique permission for your app and use it so only your app can receive your OneSignal messages. -->
 30    <permission
 30-->[com.onesignal:OneSignal:3.10.5] /home/miqueias/.gradle/caches/transforms-2/files-2.1/e997123954b34e6750e8287a3a7bbc65/OneSignal-3.10.5/AndroidManifest.xml:8:5-10:47
@@ -132,93 +132,93 @@
 66    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
 67
 68    <application
-68-->/var/www/app/quizbiblico/platforms/android/app/src/main/AndroidManifest.xml:5:5-23:19
+68-->/var/www/app/android/quizbiblico/platforms/android/app/src/main/AndroidManifest.xml:5:5-23:19
 69        android:hardwareAccelerated="true"
-69-->/var/www/app/quizbiblico/platforms/android/app/src/main/AndroidManifest.xml:5:18-52
+69-->/var/www/app/android/quizbiblico/platforms/android/app/src/main/AndroidManifest.xml:5:18-52
 70        android:icon="@mipmap/icon"
-70-->/var/www/app/quizbiblico/platforms/android/app/src/main/AndroidManifest.xml:5:53-80
+70-->/var/www/app/android/quizbiblico/platforms/android/app/src/main/AndroidManifest.xml:5:53-80
 71        android:label="@string/app_name"
-71-->/var/www/app/quizbiblico/platforms/android/app/src/main/AndroidManifest.xml:5:81-113
+71-->/var/www/app/android/quizbiblico/platforms/android/app/src/main/AndroidManifest.xml:5:81-113
 72        android:supportsRtl="true" >
-72-->/var/www/app/quizbiblico/platforms/android/app/src/main/AndroidManifest.xml:5:114-140
+72-->/var/www/app/android/quizbiblico/platforms/android/app/src/main/AndroidManifest.xml:5:114-140
 73        <activity
-73-->/var/www/app/quizbiblico/platforms/android/app/src/main/AndroidManifest.xml:6:9-11:20
+73-->/var/www/app/android/quizbiblico/platforms/android/app/src/main/AndroidManifest.xml:6:9-11:20
 74            android:name="br.com.innovatesof.quizbiblico.MainActivity"
-74-->/var/www/app/quizbiblico/platforms/android/app/src/main/AndroidManifest.xml:6:166-193
+74-->/var/www/app/android/quizbiblico/platforms/android/app/src/main/AndroidManifest.xml:6:166-193
 75            android:configChanges="orientation|keyboardHidden|keyboard|screenSize|locale"
-75-->/var/www/app/quizbiblico/platforms/android/app/src/main/AndroidManifest.xml:6:19-96
+75-->/var/www/app/android/quizbiblico/platforms/android/app/src/main/AndroidManifest.xml:6:19-96
 76            android:label="@string/activity_name"
-76-->/var/www/app/quizbiblico/platforms/android/app/src/main/AndroidManifest.xml:6:97-134
+76-->/var/www/app/android/quizbiblico/platforms/android/app/src/main/AndroidManifest.xml:6:97-134
 77            android:launchMode="singleTop"
-77-->/var/www/app/quizbiblico/platforms/android/app/src/main/AndroidManifest.xml:6:135-165
+77-->/var/www/app/android/quizbiblico/platforms/android/app/src/main/AndroidManifest.xml:6:135-165
 78            android:screenOrientation="portrait"
-78-->/var/www/app/quizbiblico/platforms/android/app/src/main/AndroidManifest.xml:6:194-230
+78-->/var/www/app/android/quizbiblico/platforms/android/app/src/main/AndroidManifest.xml:6:194-230
 79            android:theme="@android:style/Theme.DeviceDefault.NoActionBar"
-79-->/var/www/app/quizbiblico/platforms/android/app/src/main/AndroidManifest.xml:6:231-293
+79-->/var/www/app/android/quizbiblico/platforms/android/app/src/main/AndroidManifest.xml:6:231-293
 80            android:windowSoftInputMode="adjustResize" >
-80-->/var/www/app/quizbiblico/platforms/android/app/src/main/AndroidManifest.xml:6:294-336
+80-->/var/www/app/android/quizbiblico/platforms/android/app/src/main/AndroidManifest.xml:6:294-336
 81            <intent-filter android:label="@string/launcher_name" >
-81-->/var/www/app/quizbiblico/platforms/android/app/src/main/AndroidManifest.xml:7:13-10:29
-81-->/var/www/app/quizbiblico/platforms/android/app/src/main/AndroidManifest.xml:7:28-65
+81-->/var/www/app/android/quizbiblico/platforms/android/app/src/main/AndroidManifest.xml:7:13-10:29
+81-->/var/www/app/android/quizbiblico/platforms/android/app/src/main/AndroidManifest.xml:7:28-65
 82                <action android:name="android.intent.action.MAIN" />
-82-->/var/www/app/quizbiblico/platforms/android/app/src/main/AndroidManifest.xml:8:17-69
-82-->/var/www/app/quizbiblico/platforms/android/app/src/main/AndroidManifest.xml:8:25-66
+82-->/var/www/app/android/quizbiblico/platforms/android/app/src/main/AndroidManifest.xml:8:17-69
+82-->/var/www/app/android/quizbiblico/platforms/android/app/src/main/AndroidManifest.xml:8:25-66
 83
 84                <category android:name="android.intent.category.LAUNCHER" />
-84-->/var/www/app/quizbiblico/platforms/android/app/src/main/AndroidManifest.xml:9:17-77
-84-->/var/www/app/quizbiblico/platforms/android/app/src/main/AndroidManifest.xml:9:27-74
+84-->/var/www/app/android/quizbiblico/platforms/android/app/src/main/AndroidManifest.xml:9:17-77
+84-->/var/www/app/android/quizbiblico/platforms/android/app/src/main/AndroidManifest.xml:9:27-74
 85            </intent-filter>
 86        </activity>
 87        <activity
-87-->/var/www/app/quizbiblico/platforms/android/app/src/main/AndroidManifest.xml:12:9-233
+87-->/var/www/app/android/quizbiblico/platforms/android/app/src/main/AndroidManifest.xml:12:9-233
 88            android:name="com.google.android.gms.ads.AdActivity"
-88-->/var/www/app/quizbiblico/platforms/android/app/src/main/AndroidManifest.xml:12:129-181
+88-->/var/www/app/android/quizbiblico/platforms/android/app/src/main/AndroidManifest.xml:12:129-181
 89            android:configChanges="keyboard|keyboardHidden|orientation|screenLayout|uiMode|screenSize|smallestScreenSize"
-89-->/var/www/app/quizbiblico/platforms/android/app/src/main/AndroidManifest.xml:12:19-128
+89-->/var/www/app/android/quizbiblico/platforms/android/app/src/main/AndroidManifest.xml:12:19-128
 90            android:theme="@android:style/Theme.Translucent" />
-90-->/var/www/app/quizbiblico/platforms/android/app/src/main/AndroidManifest.xml:12:182-230
+90-->/var/www/app/android/quizbiblico/platforms/android/app/src/main/AndroidManifest.xml:12:182-230
 91
 92        <meta-data
-92-->/var/www/app/quizbiblico/platforms/android/app/src/main/AndroidManifest.xml:13:9-134
+92-->/var/www/app/android/quizbiblico/platforms/android/app/src/main/AndroidManifest.xml:13:9-134
 93            android:name="com.google.android.gms.ads.APPLICATION_ID"
-93-->/var/www/app/quizbiblico/platforms/android/app/src/main/AndroidManifest.xml:13:20-76
+93-->/var/www/app/android/quizbiblico/platforms/android/app/src/main/AndroidManifest.xml:13:20-76
 94            android:value="ca-app-pub-7091486462236476~6864040020" />
-94-->/var/www/app/quizbiblico/platforms/android/app/src/main/AndroidManifest.xml:13:77-131
+94-->/var/www/app/android/quizbiblico/platforms/android/app/src/main/AndroidManifest.xml:13:77-131
 95
 96        <amazon:enable-feature
-96-->/var/www/app/quizbiblico/platforms/android/app/src/main/AndroidManifest.xml:14:9-159
+96-->/var/www/app/android/quizbiblico/platforms/android/app/src/main/AndroidManifest.xml:14:9-159
 97            xmlns:amazon="http://schemas.amazon.com/apk/res/android"
-97-->/var/www/app/quizbiblico/platforms/android/app/src/main/AndroidManifest.xml:14:100-156
+97-->/var/www/app/android/quizbiblico/platforms/android/app/src/main/AndroidManifest.xml:14:100-156
 98            android:name="com.amazon.device.messaging"
-98-->/var/www/app/quizbiblico/platforms/android/app/src/main/AndroidManifest.xml:14:32-74
+98-->/var/www/app/android/quizbiblico/platforms/android/app/src/main/AndroidManifest.xml:14:32-74
 99            android:required="false" />
-99-->/var/www/app/quizbiblico/platforms/android/app/src/main/AndroidManifest.xml:14:75-99
+99-->/var/www/app/android/quizbiblico/platforms/android/app/src/main/AndroidManifest.xml:14:75-99
 100
 101        <service
-101-->/var/www/app/quizbiblico/platforms/android/app/src/main/AndroidManifest.xml:15:9-92
+101-->/var/www/app/android/quizbiblico/platforms/android/app/src/main/AndroidManifest.xml:15:9-92
 102            android:name="com.onesignal.ADMMessageHandler"
-102-->/var/www/app/quizbiblico/platforms/android/app/src/main/AndroidManifest.xml:15:43-89
+102-->/var/www/app/android/quizbiblico/platforms/android/app/src/main/AndroidManifest.xml:15:43-89
 103            android:exported="false" />
-103-->/var/www/app/quizbiblico/platforms/android/app/src/main/AndroidManifest.xml:15:18-42
+103-->/var/www/app/android/quizbiblico/platforms/android/app/src/main/AndroidManifest.xml:15:18-42
 104
 105        <receiver
-105-->/var/www/app/quizbiblico/platforms/android/app/src/main/AndroidManifest.xml:16:9-22:20
+105-->/var/www/app/android/quizbiblico/platforms/android/app/src/main/AndroidManifest.xml:16:9-22:20
 106            android:name="com.onesignal.ADMMessageHandler$Receiver"
-106-->/var/www/app/quizbiblico/platforms/android/app/src/main/AndroidManifest.xml:16:19-74
+106-->/var/www/app/android/quizbiblico/platforms/android/app/src/main/AndroidManifest.xml:16:19-74
 107            android:permission="com.amazon.device.messaging.permission.SEND" >
-107-->/var/www/app/quizbiblico/platforms/android/app/src/main/AndroidManifest.xml:16:75-139
+107-->/var/www/app/android/quizbiblico/platforms/android/app/src/main/AndroidManifest.xml:16:75-139
 108            <intent-filter>
-108-->/var/www/app/quizbiblico/platforms/android/app/src/main/AndroidManifest.xml:17:13-21:29
+108-->/var/www/app/android/quizbiblico/platforms/android/app/src/main/AndroidManifest.xml:17:13-21:29
 109                <action android:name="com.amazon.device.messaging.intent.REGISTRATION" />
-109-->/var/www/app/quizbiblico/platforms/android/app/src/main/AndroidManifest.xml:18:17-90
-109-->/var/www/app/quizbiblico/platforms/android/app/src/main/AndroidManifest.xml:18:25-87
+109-->/var/www/app/android/quizbiblico/platforms/android/app/src/main/AndroidManifest.xml:18:17-90
+109-->/var/www/app/android/quizbiblico/platforms/android/app/src/main/AndroidManifest.xml:18:25-87
 110                <action android:name="com.amazon.device.messaging.intent.RECEIVE" />
-110-->/var/www/app/quizbiblico/platforms/android/app/src/main/AndroidManifest.xml:19:17-85
-110-->/var/www/app/quizbiblico/platforms/android/app/src/main/AndroidManifest.xml:19:25-82
+110-->/var/www/app/android/quizbiblico/platforms/android/app/src/main/AndroidManifest.xml:19:17-85
+110-->/var/www/app/android/quizbiblico/platforms/android/app/src/main/AndroidManifest.xml:19:25-82
 111
 112                <category android:name="br.com.innovatesof.quizbiblico" />
-112-->/var/www/app/quizbiblico/platforms/android/app/src/main/AndroidManifest.xml:20:17-75
-112-->/var/www/app/quizbiblico/platforms/android/app/src/main/AndroidManifest.xml:20:27-72
+112-->/var/www/app/android/quizbiblico/platforms/android/app/src/main/AndroidManifest.xml:20:17-75
+112-->/var/www/app/android/quizbiblico/platforms/android/app/src/main/AndroidManifest.xml:20:27-72
 113            </intent-filter>
 114        </receiver>
 115
@@ -251,8 +251,8 @@
 129-->[com.onesignal:OneSignal:3.10.5] /home/miqueias/.gradle/caches/transforms-2/files-2.1/e997123954b34e6750e8287a3a7bbc65/OneSignal-3.10.5/AndroidManifest.xml:64:25-78
 130
 131                <category android:name="br.com.innovatesof.quizbiblico" />
-131-->/var/www/app/quizbiblico/platforms/android/app/src/main/AndroidManifest.xml:20:17-75
-131-->/var/www/app/quizbiblico/platforms/android/app/src/main/AndroidManifest.xml:20:27-72
+131-->/var/www/app/android/quizbiblico/platforms/android/app/src/main/AndroidManifest.xml:20:17-75
+131-->/var/www/app/android/quizbiblico/platforms/android/app/src/main/AndroidManifest.xml:20:27-72
 132            </intent-filter>
 133        </receiver>
 134        <receiver android:name="com.onesignal.NotificationOpenedReceiver" />
@@ -370,8 +370,8 @@
 192-->[com.onesignal:OneSignal:3.10.5] /home/miqueias/.gradle/caches/transforms-2/files-2.1/e997123954b34e6750e8287a3a7bbc65/OneSignal-3.10.5/AndroidManifest.xml:64:25-78
 193
 194                <category android:name="br.com.innovatesof.quizbiblico" />
-194-->/var/www/app/quizbiblico/platforms/android/app/src/main/AndroidManifest.xml:20:17-75
-194-->/var/www/app/quizbiblico/platforms/android/app/src/main/AndroidManifest.xml:20:27-72
+194-->/var/www/app/android/quizbiblico/platforms/android/app/src/main/AndroidManifest.xml:20:17-75
+194-->/var/www/app/android/quizbiblico/platforms/android/app/src/main/AndroidManifest.xml:20:27-72
 195            </intent-filter>
 196        </receiver>
 197        <!--

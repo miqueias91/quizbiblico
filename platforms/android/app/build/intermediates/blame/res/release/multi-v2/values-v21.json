@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/var/www/app/quizbiblico/platforms/android/app/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-v21/values-v21.xml",
+            "outputFile": "/var/www/app/android/quizbiblico/platforms/android/app/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-v21/values-v21.xml",
             "map": [
                 {
                     "source": "/home/miqueias/.gradle/caches/transforms-2/files-2.1/861055886904d4b0b4bb37c0de00ecee/support-media-compat-27.1.1/res/values-v21/values-v21.xml",

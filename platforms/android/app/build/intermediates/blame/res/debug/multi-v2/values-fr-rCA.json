@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/var/www/app/quizbiblico/platforms/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-fr-rCA/values-fr-rCA.xml",
+            "outputFile": "/var/www/app/android/quizbiblico/platforms/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-fr-rCA/values-fr-rCA.xml",
             "map": [
                 {
                     "source": "/home/miqueias/.gradle/caches/transforms-2/files-2.1/97ada37cb2fc45718d7cd58b64385912/play-services-ads-11.0.4/res/values-fr-rCA/values.xml",
