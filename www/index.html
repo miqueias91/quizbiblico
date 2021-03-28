@@ -15,38 +15,161 @@
 </head>
 
 <body>
+
 <ons-navigator id="appNavigator" swipeable swipe-target-width="80px">
-    <ons-page>
-        <ons-splitter id="appSplitter">
-            <ons-splitter-content page="tabbar.html"></ons-splitter-content>
-        </ons-splitter>
-    </ons-page>
+  <ons-page>
+    <ons-splitter id="appSplitter">
+      <ons-splitter-side id="sidemenu" page="sidemenu.html" swipeable side="left" collapse="" width="260px"></ons-splitter-side>
+      <ons-splitter-content page="tabbar.html"></ons-splitter-content>
+    </ons-splitter>
+  </ons-page>
 </ons-navigator>
 
-<template id="tabbar.html">
-    <ons-page id="tabbar-page" class="">
-        <ons-toolbar id="tabbar_">
-          <div class="toolbar__center toolbar--material__center">
-            <center>
-                Quiz Bíblico 
-            </center>
-          </div>
-        </ons-toolbar>
-        <ons-tabbar swipeable id="appTabbar" position="auto">
-            <ons-tab label="Versão 1.0.3" page="home.html" active></ons-tab>
-        </ons-tabbar>
+<template id="sidemenu.html">
+  <ons-page>
+    <div class="profile-pic">
+      <img src="img/logo.png">
+    </div>
 
-        <script>
-          ons.getScriptPage().addEventListener('prechange', function(event) {
-            if (event.target.matches('#appTabbar')) {
-              if (window.localStorage.getItem("versao_pro") === 'NAO') {
-                admob.interstitial.show();
-              }
+    <ons-list>
+      <ons-list-item onclick="fn.pushPage({'id': 'quiz.html', 'title': 'Conhecimentos Gerais Bíblicos||quiz'})">
+        <div class="left">
+          <i class="fas fa-play"></i>
+        </div>
+        <div class="center">
+          Jogar
+        </div>
+        <div class="right">
+          <ons-icon icon="fa-link"></ons-icon>
+        </div>
+      </ons-list-item>
+
+      <ons-list-item onclick="fn.pushPage({'id': 'score.html', 'title': 'Score'})">
+        <div class="left">
+          <i class="fas fa-tachometer-alt"></i>
+        </div>
+        <div class="center">
+          Score
+        </div>
+        <div class="right">
+          <ons-icon icon="fa-link"></ons-icon>
+        </div>
+      </ons-list-item>
+
+      <ons-list-item onclick="fn.pushPage({'id': 'minhaConfiguracao.html', 'title': 'Minha Configuração'})">
+        <div class="left">
+          <i class="fas fa-user"></i>
+        </div>
+        <div class="center">
+          Minha Configuração
+        </div>
+        <div class="right">
+          <ons-icon icon="fa-link"></ons-icon>
+        </div>
+      </ons-list-item>
+
+      <ons-list-item onclick="fn.loadLink('https://www.innovatesoft.com.br/contato.php')">
+        <div class="left">
+          <i class="fas fa-comment"></i>
+        </div>
+        <div class="center">
+          Fale Conosco
+        </div>
+        <div class="right">
+          <ons-icon icon="fa-external-link"></ons-icon>
+        </div>
+      </ons-list-item>
+
+      <ons-list-item onclick="fn.loadLink('https://cristaonarede.com.br/loja')">
+        <div class="left">
+          <i class="fas fa-store"></i>
+        </div>
+        <div class="center">
+          Livraria
+        </div>
+        <div class="right">
+          <ons-icon icon="fa-external-link"></ons-icon>
+        </div>
+      </ons-list-item>
+
+      <ons-list-item onclick="fn.loadLink('https://www.instagram.com/innovatesoft/')">
+        <div class="left">
+            <i class="fab fa-instagram"></i>
+        </div>
+        <div class="center">
+          Instagram
+        </div>
+        <div class="right">
+          <ons-icon icon="fa-external-link"></ons-icon>
+        </div>
+      </ons-list-item>
+
+      <ons-list-item onclick="fn.loadLink('https://bit.ly/3l9zjYi')">
+        <div class="left">
+          <i class="fab fa-google-play"></i>
+        </div>
+        <div class="center">
+          Outros app's
+        </div>
+        <div class="right">
+          <ons-icon icon="fa-external-link"></ons-icon>
+        </div>
+      </ons-list-item>
+    </ons-list>
+
+    <script>
+      ons.getScriptPage().onInit = function() {
+        // Set ons-splitter-side animation
+        this.parentElement.setAttribute('animation', ons.platform.isAndroid() ? 'overlay' : 'reveal');
+      };
+    </script>
+
+    <style>
+      .profile-pic {
+        width: 100%;
+        background-color: #757575;
+        margin: 0 auto;
+      }
+
+      .profile-pic > img {
+          width: 50px;
+          /* height: 80px; */
+          display: block;
+          max-width: 100%;
+          margin: 0 auto;
+          padding: 10px;
+      }
+
+      ons-list-item {
+        color: #444;
+        font-size: 15px!important;
+      }
+    </style>
+  </ons-page>
+</template>
+
+<template id="tabbar.html">
+  <ons-page id="tabbar-page">
+    <ons-toolbar id="tabbar_">
+        <div class="center"><center>Quiz Bíblico</center></div>
+      <div class="left">
+        <ons-toolbar-button onclick="fn.toggleMenu()">
+          <ons-icon style="color: #f5f5f5" icon="ion-navicon, material:md-menu"></ons-icon>
+        </ons-toolbar-button>
+      </div>
+    </ons-toolbar>
+    <ons-tabbar swipeable id="appTabbar" position="bottom">
+        <ons-tab label="Versão 1.0.4" page="home.html" active></ons-tab>
+    </ons-tabbar>
+
+    <script>
+      ons.getScriptPage().addEventListener('prechange', function(event) {
+        if (event.target.matches('#appTabbar')) {
               event.currentTarget.querySelector('#tabbar_ .center center').innerHTML = 'Quiz Bíblico';
-            }
-          });
-        </script>
-    </ons-page>
+        }
+      });
+    </script>
+  </ons-page>
 </template>
 
 <!-- MODAL DE AGUARDE -->
@@ -78,7 +201,7 @@
             </ons-card>
         </ons-col>
     </ons-row>
-    <ons-card onclick="fn.pushPage({'id': 'help.html', 'title': 'Ajuda'})">
+    <ons-card onclick="fn.pushPage({'id': 'help.html', 'title': 'AJUDA'})">
       <div class="title titulo_menu"><i class="fas fa-question-circle"></i><br>AJUDA</div>
     </ons-card>
 
@@ -108,7 +231,7 @@
             <div class="left">
                 <ons-back-button>Score</ons-back-button>
             </div>
-            <div class="center"></div>
+            <div  style="font-size: 20px" class="center"></div>
         </ons-toolbar>
         <ons-list-header style="font-size: 30px;" id="">
             <div class="left">
@@ -121,7 +244,7 @@
     <script>
         ons.getScriptPage().onInit = function () {
             if (window.localStorage.getItem("versao_pro") === 'NAO') {
-              admob.interstitial.show();
+              //admob.interstitial.show();
             }
             this.querySelector('#score_ div.center').textContent = 'Max Score';
             var arr = localStorage.getItem('lista-score');
@@ -184,7 +307,7 @@
     <script>
         ons.getScriptPage().onInit = function () {
             if (window.localStorage.getItem("versao_pro") === 'NAO') {
-              admob.interstitial.show();
+              //admob.interstitial.show();
             }
             this.querySelector('#score_ div.center').textContent = 'Ajuda';
             var arr = localStorage.getItem('lista-score');
@@ -240,7 +363,7 @@
     <script>
         ons.getScriptPage().onInit = function () {
             if (window.localStorage.getItem("versao_pro") === 'NAO') {
-              admob.interstitial.show();
+              //admob.interstitial.show();
             }
             var dados = this.data.title.split('||'); 
             this.querySelector('#quiz_ div.center').textContent = dados[0];
@@ -262,6 +385,131 @@
       ons-card {
         cursor: pointer;
         color: #549A7D;
+      }
+
+      .card__title,
+      .card--material__title {
+        font-size: 20px;
+      }
+    </style>
+  </ons-page>
+</template>
+
+<template id="minhaConfiguracao.html">
+  <ons-page>
+    <ons-toolbar id="minhasInformacoes_">
+        <div class="left">
+            <ons-back-button>Minha Configuração</ons-back-button>
+        </div>
+        <div style="font-size: 20px" class="center"></div>
+    </ons-toolbar>
+    <div style="text-align: center; margin-top: 30px;">
+      <span id="mensagemMinhasInformacoes"><p class="intro">Você está usando a versão FREE.</p></span>
+      <br><br>
+      <p><ons-input style="width: 90%;margin-bottom: 20px;" id="token" placeholder="Token:" modifier="underbar" type="text" float disabled></ons-input></p>
+      <p><ons-input style="width: 90%;margin-bottom: 20px;" id="nome" placeholder="Seu Nome:" modifier="underbar" type="text" float></ons-input></p>
+      <p><ons-input style="width: 90%;margin-bottom: 20px;" id="usuario" placeholder="Seu Usuário:" modifier="underbar" float></ons-input></p>
+      <p><ons-input style="width: 90%;margin-bottom: 20px;" id="email" placeholder="Seu E-mail:" modifier="underbar" type="email" float></ons-input></p>
+      <p><ons-input style="width: 90%;margin-bottom: 20px;" id="celular" placeholder="Seu Celular:" modifier="underbar" type="number" float></ons-input></p>
+      <p>
+        <ons-select style="width: 90%;margin-bottom: 20px;" id="religiao">
+          <option value="">Sua Religião:</option>
+          <option value="evangelico">Evangélico</option>
+          <option value="catolico">Católico</option>
+          <option value="outro">Outro</option>
+          <option value="sem_religiao">Sem Religião</option>
+        </ons-select>
+      </p>
+      <br>
+      <br>
+      <section style="margin: 16px">
+        <ons-button modifier="large" class="button-margin" id="salvar_minhas_informacoes">Ok</ons-button>
+      </section>
+      <br><br>
+    </div>
+    <script>
+      ons.getScriptPage().onInit = function () {
+        var token_ = window.localStorage.getItem("playerID") ? window.localStorage.getItem("playerID") : '';
+        var nome_ = window.localStorage.getItem("nome") ? window.localStorage.getItem("nome") : '';
+        var usuario_ = window.localStorage.getItem("usuario") ? window.localStorage.getItem("usuario") : '';
+        var email_ = window.localStorage.getItem("email") ? window.localStorage.getItem("email") : '';
+        var celular_ = window.localStorage.getItem("celular") ? window.localStorage.getItem("celular") : '';
+        var religiao_ = window.localStorage.getItem("religiao") ? window.localStorage.getItem("religiao") : '';
+        
+        $("#token").val(token_);
+        $("#nome").val(nome_);
+        $("#usuario").val(usuario_);
+        $("#email").val(email_);
+        $("#celular").val(celular_);
+        $("#religiao").val(religiao_);
+
+        if (window.localStorage.getItem("versao_pro") === 'NAO') {
+          $("#mensagemMinhasInformacoes").html('<p class="intro">Você está usando a versão FREE.</p>');
+        }
+        else{
+          var datahora_pro = window.localStorage.getItem("versao_pro").replace(/(\d*)-(\d*)-(\d*).*/, '$3-$2-$1');
+          $("#mensagemMinhasInformacoes").html('<p class="intro">Você está usando a versão PRO, válida até '+datahora_pro+'.</p>');
+        }
+
+        this.querySelector('#minhasInformacoes_ div.center').textContent = 'Minha Configuração';
+
+          $( "#salvar_minhas_informacoes" ).click(function() {
+            var nome = $("#nome").val();
+            var usuario = $("#usuario").val();
+            var email = $("#email").val();
+            var celular = $("#celular").val();
+            var religiao = $("#religiao").val();
+
+            if (nome == "") {
+              ons.notification.alert(
+                'Informe o seu nome!',
+                {title: 'Erro'}
+              );
+            }
+            else if (usuario == "") {
+              ons.notification.alert(
+                'Informe um usuário!',
+                {title: 'Erro'}
+              );
+            }
+            else if (email == "") {
+              ons.notification.alert(
+                'Informe seu e-mail!',
+                {title: 'Erro'}
+              );
+            }
+            else if (celular == "") {
+              ons.notification.alert(
+                'Informe seu n° de celular!',
+                {title: 'Erro'}
+              );
+            }
+            else if (religiao == "") {
+              ons.notification.alert(
+                'Informe sua religião!',
+                {title: 'Erro'}
+              );
+            }
+            else{
+              app.verificaExistenciaUsuario(usuario, religiao, nome, email, celular);
+            }
+          });
+      }
+    </script>
+    <style>
+        .button-margin {
+            margin: 6px 0;
+        }
+
+      .intro {
+        text-align: center;
+        padding: 0 20px;
+        margin-top: 40px;
+      }
+
+      ons-card {
+        cursor: pointer;
+        color: #333;
       }
 
       .card__title,

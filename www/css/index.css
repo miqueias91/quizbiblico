@@ -12,7 +12,7 @@ body {
     background-color:#F5F5F5;
     background-attachment:fixed;
     font-family:'BurbankBigCondensed-Black', 'HelveticaNeue-Light', 'HelveticaNeue', Helvetica, Arial, sans-serif!important;
-    font-size:12px;
+    font-size:15px;
     height:100%;
     margin:0px;
     padding:0px;
@@ -84,6 +84,19 @@ ons-fab.fab--material{
 
 .alert-dialog-title--material {
     font-size: 30px;
+}
+.alert-dialog {
+    width: 100%;
+}
+:checked + .switch__toggle {
+    box-shadow: inset 0 0 0 2px #333!important;
+    background-color: #333!important;
+}
+.text-input--material__label--active {
+    color: #333!important;
+}
+.text-input--material:focus {
+    background-image: linear-gradient(#333, #333), linear-gradient(to top, transparent 1px, #afafaf 1px)!important;
 }
 .alert-dialog {
     width: 100%;
