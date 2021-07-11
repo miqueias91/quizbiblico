@@ -4,7 +4,24 @@
             "outputFile": "/var/www/app/android/quizbiblico/platforms/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-it/values-it.xml",
             "map": [
                 {
-                    "source": "/home/miqueias/.gradle/caches/transforms-2/files-2.1/6190186c58d59886499335c11ecffecf/play-services-base-11.0.4/res/values-it/values.xml",
+                    "source": "/home/miqueias/.gradle/caches/transforms-2/files-2.1/338e0e4e7f4755b45a34ac7f5c74c44a/play-services-ads-11.0.4/res/values-it/values.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8,9",
+                        "startColumns": "0,0,0,0,0,0",
+                        "startOffsets": "237,308,437,502,567,650",
+                        "endColumns": "70,128,64,64,82,111",
+                        "endOffsets": "307,436,501,566,649,761"
+                    },
+                    "to": {
+                        "startLines": "19,20,21,22,23,24",
+                        "startColumns": "4,4,4,4,4,4",
+                        "startOffsets": "2666,2741,2874,2943,3012,3099",
+                        "endColumns": "74,132,68,68,86,115",
+                        "endOffsets": "2736,2869,2938,3007,3094,3210"
+                    }
+                },
+                {
+                    "source": "/home/miqueias/.gradle/caches/transforms-2/files-2.1/b22be4d14f5854987b736d0ff605eabd/play-services-base-11.0.4/res/values-it/values.xml",
                     "from": {
                         "startLines": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19",
                         "startColumns": "0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0",
@@ -21,7 +38,7 @@
                     }
                 },
                 {
-                    "source": "/home/miqueias/.gradle/caches/transforms-2/files-2.1/ea0ee35f22a88ff9d8bac691cda371e2/support-compat-27.1.1/res/values-it/values-it.xml",
+                    "source": "/home/miqueias/.gradle/caches/transforms-2/files-2.1/442c10f2caabfe74085c7c306694e15c/support-compat-27.1.1/res/values-it/values-it.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -38,7 +55,7 @@
                     }
                 },
                 {
-                    "source": "/home/miqueias/.gradle/caches/transforms-2/files-2.1/5bddbffea062ec858fe0545538432c3c/play-services-basement-11.0.4/res/values-it/values.xml",
+                    "source": "/home/miqueias/.gradle/caches/transforms-2/files-2.1/71f004e41b64fcc49fa4c5a256772ab8/play-services-basement-11.0.4/res/values-it/values.xml",
                     "from": {
                         "startLines": "4",
                         "startColumns": "0",
@@ -52,23 +69,6 @@
                         "startOffsets": "1112",
                         "endColumns": "194",
                         "endOffsets": "1302"
-                    }
-                },
-                {
-                    "source": "/home/miqueias/.gradle/caches/transforms-2/files-2.1/97ada37cb2fc45718d7cd58b64385912/play-services-ads-11.0.4/res/values-it/values.xml",
-                    "from": {
-                        "startLines": "4,5,6,7,8,9",
-                        "startColumns": "0,0,0,0,0,0",
-                        "startOffsets": "237,308,437,502,567,650",
-                        "endColumns": "70,128,64,64,82,111",
-                        "endOffsets": "307,436,501,566,649,761"
-                    },
-                    "to": {
-                        "startLines": "19,20,21,22,23,24",
-                        "startColumns": "4,4,4,4,4,4",
-                        "startOffsets": "2666,2741,2874,2943,3012,3099",
-                        "endColumns": "74,132,68,68,86,115",
-                        "endOffsets": "2736,2869,2938,3007,3094,3210"
                     }
                 }
             ]

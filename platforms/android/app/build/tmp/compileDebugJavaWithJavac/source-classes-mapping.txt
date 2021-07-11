@@ -1,0 +1,99 @@
+org/apache/cordova/whitelist/WhitelistPlugin.java
+ org.apache.cordova.whitelist.WhitelistPlugin
+ org.apache.cordova.whitelist.WhitelistPlugin$1
+ org.apache.cordova.whitelist.WhitelistPlugin$CustomConfigXmlParser
+org/apache/cordova/splashscreen/SplashScreen.java
+ org.apache.cordova.splashscreen.SplashScreen
+ org.apache.cordova.splashscreen.SplashScreen$1
+ org.apache.cordova.splashscreen.SplashScreen$2
+ org.apache.cordova.splashscreen.SplashScreen$3
+ org.apache.cordova.splashscreen.SplashScreen$4
+ org.apache.cordova.splashscreen.SplashScreen$4$1
+ org.apache.cordova.splashscreen.SplashScreen$5
+ org.apache.cordova.splashscreen.SplashScreen$5$1
+ org.apache.cordova.splashscreen.SplashScreen$6
+ org.apache.cordova.splashscreen.SplashScreen$6$1
+ org.apache.cordova.splashscreen.SplashScreen$7
+name/ratson/cordova/admob/AdMob.java
+ name.ratson.cordova.admob.AdMob
+name/ratson/cordova/admob/banner/BannerExecutor.java
+ name.ratson.cordova.admob.banner.BannerExecutor
+ name.ratson.cordova.admob.banner.BannerExecutor$1
+ name.ratson.cordova.admob.banner.BannerExecutor$2
+ name.ratson.cordova.admob.banner.BannerExecutor$3
+ name.ratson.cordova.admob.banner.BannerExecutor$4
+name/ratson/cordova/admob/AbstractExecutor.java
+ name.ratson.cordova.admob.AbstractExecutor
+name/ratson/cordova/admob/banner/BannerListener.java
+ name.ratson.cordova.admob.banner.BannerListener
+name/ratson/cordova/admob/Actions.java
+ name.ratson.cordova.admob.Actions
+br/com/innovatesof/quizbiblico/BuildConfig.java
+ br.com.innovatesof.quizbiblico.BuildConfig
+br/com/innovatesof/quizbiblico/MainActivity.java
+ br.com.innovatesof.quizbiblico.MainActivity
+name/ratson/cordova/admob/interstitial/InterstitialExecutor.java
+ name.ratson.cordova.admob.interstitial.InterstitialExecutor
+ name.ratson.cordova.admob.interstitial.InterstitialExecutor$1
+ name.ratson.cordova.admob.interstitial.InterstitialExecutor$2
+ name.ratson.cordova.admob.interstitial.InterstitialExecutor$3
+ name.ratson.cordova.admob.interstitial.InterstitialExecutor$4
+ name.ratson.cordova.admob.interstitial.InterstitialExecutor$5
+nl/xservices/plugins/Insomnia.java
+ nl.xservices.plugins.Insomnia
+ nl.xservices.plugins.Insomnia$1
+ nl.xservices.plugins.Insomnia$2
+name/ratson/cordova/admob/interstitial/InterstitialListener.java
+ name.ratson.cordova.admob.interstitial.InterstitialListener
+org/apache/cordova/dialogs/Notification.java
+ org.apache.cordova.dialogs.Notification
+ org.apache.cordova.dialogs.Notification$1
+ org.apache.cordova.dialogs.Notification$2
+ org.apache.cordova.dialogs.Notification$2$1
+ org.apache.cordova.dialogs.Notification$2$2
+ org.apache.cordova.dialogs.Notification$3
+ org.apache.cordova.dialogs.Notification$3$1
+ org.apache.cordova.dialogs.Notification$3$2
+ org.apache.cordova.dialogs.Notification$3$3
+ org.apache.cordova.dialogs.Notification$3$4
+ org.apache.cordova.dialogs.Notification$4
+ org.apache.cordova.dialogs.Notification$4$1
+ org.apache.cordova.dialogs.Notification$4$2
+ org.apache.cordova.dialogs.Notification$4$3
+ org.apache.cordova.dialogs.Notification$4$4
+ org.apache.cordova.dialogs.Notification$5
+ org.apache.cordova.dialogs.Notification$5$1
+ org.apache.cordova.dialogs.Notification$6
+ org.apache.cordova.dialogs.Notification$6$1
+org/apache/cordova/statusbar/StatusBar.java
+ org.apache.cordova.statusbar.StatusBar
+ org.apache.cordova.statusbar.StatusBar$1
+ org.apache.cordova.statusbar.StatusBar$2
+ org.apache.cordova.statusbar.StatusBar$3
+ org.apache.cordova.statusbar.StatusBar$4
+name/ratson/cordova/admob/AdMobConfig.java
+ name.ratson.cordova.admob.AdMobConfig
+name/ratson/cordova/admob/rewardvideo/RewardVideoListener.java
+ name.ratson.cordova.admob.rewardvideo.RewardVideoListener
+com/plugin/gcm/OneSignalPush.java
+ com.plugin.gcm.OneSignalPush
+ com.plugin.gcm.OneSignalPush$1
+ com.plugin.gcm.OneSignalPush$2
+ com.plugin.gcm.OneSignalPush$3
+ com.plugin.gcm.OneSignalPush$4
+ com.plugin.gcm.OneSignalPush$5
+ com.plugin.gcm.OneSignalPush$6
+ com.plugin.gcm.OneSignalPush$7
+ com.plugin.gcm.OneSignalPush$8
+ com.plugin.gcm.OneSignalPush$9
+ com.plugin.gcm.OneSignalPush$CordovaNotificationOpenedHandler
+ com.plugin.gcm.OneSignalPush$CordovaNotificationReceivedHandler
+name/ratson/cordova/admob/rewardvideo/RewardVideoExecutor.java
+ name.ratson.cordova.admob.rewardvideo.RewardVideoExecutor
+ name.ratson.cordova.admob.rewardvideo.RewardVideoExecutor$1
+ name.ratson.cordova.admob.rewardvideo.RewardVideoExecutor$2
+ name.ratson.cordova.admob.rewardvideo.RewardVideoExecutor$3
+name/ratson/cordova/admob/CordovaEventBuilder.java
+ name.ratson.cordova.admob.CordovaEventBuilder
+kr/co/joycorp/cordova/exitapp/ExitApp.java
+ kr.co.joycorp.cordova.exitapp.ExitApp

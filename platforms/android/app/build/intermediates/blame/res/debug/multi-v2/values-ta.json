@@ -4,24 +4,7 @@
             "outputFile": "/var/www/app/android/quizbiblico/platforms/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ta/values-ta.xml",
             "map": [
                 {
-                    "source": "/home/miqueias/.gradle/caches/transforms-2/files-2.1/6190186c58d59886499335c11ecffecf/play-services-base-11.0.4/res/values-ta/values.xml",
-                    "from": {
-                        "startLines": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19",
-                        "startColumns": "0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0",
-                        "startOffsets": "283,386,570,695,799,1010,1136,1262,1504,1609,1793,1926,2139,2321,2409,2498",
-                        "endColumns": "102,183,124,103,210,125,125,241,104,183,132,212,181,87,88,105",
-                        "endOffsets": "385,569,694,798,1009,1135,1261,1503,1608,1792,1925,2138,2320,2408,2497,2603"
-                    },
-                    "to": {
-                        "startLines": "2,3,4,5,6,7,8,10,11,12,13,14,15,16,17,18",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "105,212,396,525,633,844,974,1329,1571,1680,1864,2001,2214,2400,2492,2585",
-                        "endColumns": "106,183,128,107,210,129,129,241,108,183,136,212,185,91,92,109",
-                        "endOffsets": "207,391,520,628,839,969,1099,1566,1675,1859,1996,2209,2395,2487,2580,2690"
-                    }
-                },
-                {
-                    "source": "/home/miqueias/.gradle/caches/transforms-2/files-2.1/ea0ee35f22a88ff9d8bac691cda371e2/support-compat-27.1.1/res/values-ta/values-ta.xml",
+                    "source": "/home/miqueias/.gradle/caches/transforms-2/files-2.1/442c10f2caabfe74085c7c306694e15c/support-compat-27.1.1/res/values-ta/values-ta.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -38,7 +21,24 @@
                     }
                 },
                 {
-                    "source": "/home/miqueias/.gradle/caches/transforms-2/files-2.1/97ada37cb2fc45718d7cd58b64385912/play-services-ads-11.0.4/res/values-ta/values.xml",
+                    "source": "/home/miqueias/.gradle/caches/transforms-2/files-2.1/b22be4d14f5854987b736d0ff605eabd/play-services-base-11.0.4/res/values-ta/values.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19",
+                        "startColumns": "0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0",
+                        "startOffsets": "283,386,570,695,799,1010,1136,1262,1504,1609,1793,1926,2139,2321,2409,2498",
+                        "endColumns": "102,183,124,103,210,125,125,241,104,183,132,212,181,87,88,105",
+                        "endOffsets": "385,569,694,798,1009,1135,1261,1503,1608,1792,1925,2138,2320,2408,2497,2603"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,10,11,12,13,14,15,16,17,18",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "105,212,396,525,633,844,974,1329,1571,1680,1864,2001,2214,2400,2492,2585",
+                        "endColumns": "106,183,128,107,210,129,129,241,108,183,136,212,185,91,92,109",
+                        "endOffsets": "207,391,520,628,839,969,1099,1566,1675,1859,1996,2209,2395,2487,2580,2690"
+                    }
+                },
+                {
+                    "source": "/home/miqueias/.gradle/caches/transforms-2/files-2.1/338e0e4e7f4755b45a34ac7f5c74c44a/play-services-ads-11.0.4/res/values-ta/values.xml",
                     "from": {
                         "startLines": "4,5,6,7,8,9",
                         "startColumns": "0,0,0,0,0,0",
@@ -55,7 +55,7 @@
                     }
                 },
                 {
-                    "source": "/home/miqueias/.gradle/caches/transforms-2/files-2.1/5bddbffea062ec858fe0545538432c3c/play-services-basement-11.0.4/res/values-ta/values.xml",
+                    "source": "/home/miqueias/.gradle/caches/transforms-2/files-2.1/71f004e41b64fcc49fa4c5a256772ab8/play-services-basement-11.0.4/res/values-ta/values.xml",
                     "from": {
                         "startLines": "4",
                         "startColumns": "0",

@@ -4,31 +4,31 @@ ADDED from /var/www/app/android/quizbiblico/platforms/android/app/src/main/Andro
 INJECTED from /var/www/app/android/quizbiblico/platforms/android/app/src/main/AndroidManifest.xml:2:1-29:12
 INJECTED from /var/www/app/android/quizbiblico/platforms/android/app/src/main/AndroidManifest.xml:2:1-29:12
 INJECTED from /var/www/app/android/quizbiblico/platforms/android/app/src/main/AndroidManifest.xml:2:1-29:12
-MERGED from [com.google.android.gms:play-services-ads:11.0.4] /home/miqueias/.gradle/caches/transforms-2/files-2.1/97ada37cb2fc45718d7cd58b64385912/play-services-ads-11.0.4/AndroidManifest.xml:16:1-18:12
-MERGED from [com.onesignal:OneSignal:3.10.5] /home/miqueias/.gradle/caches/transforms-2/files-2.1/e997123954b34e6750e8287a3a7bbc65/OneSignal-3.10.5/AndroidManifest.xml:2:1-107:12
-MERGED from [com.google.android.gms:play-services-clearcut:11.0.4] /home/miqueias/.gradle/caches/transforms-2/files-2.1/fdf3ad9af1e70bb9120ef27ed75360db/play-services-clearcut-11.0.4/AndroidManifest.xml:16:1-19:12
-MERGED from [com.google.android.gms:play-services-safetynet:11.0.4] /home/miqueias/.gradle/caches/transforms-2/files-2.1/c6d64d2ab458c9b7f62656dd386d7de5/play-services-safetynet-11.0.4/AndroidManifest.xml:16:1-19:12
-MERGED from [com.google.android.gms:play-services-location:11.0.4] /home/miqueias/.gradle/caches/transforms-2/files-2.1/565939ee609506ba0c557c55d186e4a9/play-services-location-11.0.4/AndroidManifest.xml:2:1-5:12
-MERGED from [com.google.android.gms:play-services-base:11.0.4] /home/miqueias/.gradle/caches/transforms-2/files-2.1/6190186c58d59886499335c11ecffecf/play-services-base-11.0.4/AndroidManifest.xml:16:1-21:12
 MERGED from [:CordovaLib] /var/www/app/android/quizbiblico/platforms/android/CordovaLib/build/intermediates/library_manifest/debug/AndroidManifest.xml:20:1-27:12
-MERGED from [com.google.firebase:firebase-messaging:11.0.4] /home/miqueias/.gradle/caches/transforms-2/files-2.1/0c637fb11b452c4972efcab7856c82cd/firebase-messaging-11.0.4/AndroidManifest.xml:16:1-30:12
-MERGED from [com.google.firebase:firebase-iid:11.0.4] /home/miqueias/.gradle/caches/transforms-2/files-2.1/85f297de3449739baf9588898b2546e8/firebase-iid-11.0.4/AndroidManifest.xml:16:1-50:12
-MERGED from [com.google.firebase:firebase-common:11.0.4] /home/miqueias/.gradle/caches/transforms-2/files-2.1/70c9b75874dcfa327bc3c54a8a02853c/firebase-common-11.0.4/AndroidManifest.xml:2:1-8:12
-MERGED from [com.google.android.gms:play-services-tasks:11.0.4] /home/miqueias/.gradle/caches/transforms-2/files-2.1/5c7f8735400f8b11f8ede8e94cf96316/play-services-tasks-11.0.4/AndroidManifest.xml:2:1-5:12
-MERGED from [com.google.android.gms:play-services-ads-lite:11.0.4] /home/miqueias/.gradle/caches/transforms-2/files-2.1/28b8987becfeb51e27f7d4b3045ef0ab/play-services-ads-lite-11.0.4/AndroidManifest.xml:16:1-27:12
-MERGED from [com.google.android.gms:play-services-gass:11.0.4] /home/miqueias/.gradle/caches/transforms-2/files-2.1/815eb385cffac3670d1826459ad120d6/play-services-gass-11.0.4/AndroidManifest.xml:2:1-5:12
-MERGED from [com.google.android.gms:play-services-basement:11.0.4] /home/miqueias/.gradle/caches/transforms-2/files-2.1/5bddbffea062ec858fe0545538432c3c/play-services-basement-11.0.4/AndroidManifest.xml:16:1-23:12
-MERGED from [com.android.support:support-v4:27.1.1] /home/miqueias/.gradle/caches/transforms-2/files-2.1/213722f93bdc988bd32109642b64ecd1/support-v4-27.1.1/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:customtabs:27.1.1] /home/miqueias/.gradle/caches/transforms-2/files-2.1/47d6c9a2fce949d2c3030517d2720b50/customtabs-27.1.1/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-media-compat:27.1.1] /home/miqueias/.gradle/caches/transforms-2/files-2.1/861055886904d4b0b4bb37c0de00ecee/support-media-compat-27.1.1/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-fragment:27.1.1] /home/miqueias/.gradle/caches/transforms-2/files-2.1/af44a2020543186d4e4449c2c57f9562/support-fragment-27.1.1/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-core-ui:27.1.1] /home/miqueias/.gradle/caches/transforms-2/files-2.1/737391e76ecd5748c55f71a982c2dc3e/support-core-ui-27.1.1/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-core-utils:27.1.1] /home/miqueias/.gradle/caches/transforms-2/files-2.1/ec9a9e48e73878aaa31602796e8d1fcf/support-core-utils-27.1.1/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-compat:27.1.1] /home/miqueias/.gradle/caches/transforms-2/files-2.1/ea0ee35f22a88ff9d8bac691cda371e2/support-compat-27.1.1/AndroidManifest.xml:17:1-22:12
-MERGED from [android.arch.lifecycle:runtime:1.1.0] /home/miqueias/.gradle/caches/transforms-2/files-2.1/c06d85bc43379e950603fd5693ef4696/runtime-1.1.0/AndroidManifest.xml:17:1-22:12
-MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /home/miqueias/.gradle/caches/transforms-2/files-2.1/92a577ba1cbf7d21b00d35b3ea7a240d/livedata-core-1.1.0/AndroidManifest.xml:17:1-22:12
-MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /home/miqueias/.gradle/caches/transforms-2/files-2.1/ef6843ea5770e504c24b448e1bb8a0a9/viewmodel-1.1.0/AndroidManifest.xml:17:1-22:12
-MERGED from [android.arch.core:runtime:1.1.0] /home/miqueias/.gradle/caches/transforms-2/files-2.1/0a2bdce0da8cfd5c768a5af1598d6c65/runtime-1.1.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-ads:11.0.4] /home/miqueias/.gradle/caches/transforms-2/files-2.1/338e0e4e7f4755b45a34ac7f5c74c44a/play-services-ads-11.0.4/AndroidManifest.xml:16:1-18:12
+MERGED from [com.onesignal:OneSignal:3.10.5] /home/miqueias/.gradle/caches/transforms-2/files-2.1/30baf4a912c5fa785338ce2725f0e55e/OneSignal-3.10.5/AndroidManifest.xml:2:1-107:12
+MERGED from [com.google.android.gms:play-services-clearcut:11.0.4] /home/miqueias/.gradle/caches/transforms-2/files-2.1/4c9dc0781c05e0a65b965e7872b8ffbe/play-services-clearcut-11.0.4/AndroidManifest.xml:16:1-19:12
+MERGED from [com.google.android.gms:play-services-safetynet:11.0.4] /home/miqueias/.gradle/caches/transforms-2/files-2.1/80c65b60cb02e522bf3633013f2742e3/play-services-safetynet-11.0.4/AndroidManifest.xml:16:1-19:12
+MERGED from [com.google.android.gms:play-services-location:11.0.4] /home/miqueias/.gradle/caches/transforms-2/files-2.1/23cb4e01b0177bee3e26e72b4801f235/play-services-location-11.0.4/AndroidManifest.xml:2:1-5:12
+MERGED from [com.google.android.gms:play-services-base:11.0.4] /home/miqueias/.gradle/caches/transforms-2/files-2.1/b22be4d14f5854987b736d0ff605eabd/play-services-base-11.0.4/AndroidManifest.xml:16:1-21:12
+MERGED from [com.google.firebase:firebase-messaging:11.0.4] /home/miqueias/.gradle/caches/transforms-2/files-2.1/bc098fe9c72a0e268c21c899057a317a/firebase-messaging-11.0.4/AndroidManifest.xml:16:1-30:12
+MERGED from [com.google.firebase:firebase-iid:11.0.4] /home/miqueias/.gradle/caches/transforms-2/files-2.1/1d8c6735365941dce0544e80145dda02/firebase-iid-11.0.4/AndroidManifest.xml:16:1-50:12
+MERGED from [com.google.firebase:firebase-common:11.0.4] /home/miqueias/.gradle/caches/transforms-2/files-2.1/17a6af3a16b000a8806e2ef35b661818/firebase-common-11.0.4/AndroidManifest.xml:2:1-8:12
+MERGED from [com.google.android.gms:play-services-tasks:11.0.4] /home/miqueias/.gradle/caches/transforms-2/files-2.1/9e775cf1f47a391c854e1477740b910a/play-services-tasks-11.0.4/AndroidManifest.xml:2:1-5:12
+MERGED from [com.google.android.gms:play-services-ads-lite:11.0.4] /home/miqueias/.gradle/caches/transforms-2/files-2.1/21b8d91983c9ec9d7b5722baf8ae112f/play-services-ads-lite-11.0.4/AndroidManifest.xml:16:1-27:12
+MERGED from [com.google.android.gms:play-services-gass:11.0.4] /home/miqueias/.gradle/caches/transforms-2/files-2.1/e58930dae46a93dd7a5117d2cca7b89e/play-services-gass-11.0.4/AndroidManifest.xml:2:1-5:12
+MERGED from [com.google.android.gms:play-services-basement:11.0.4] /home/miqueias/.gradle/caches/transforms-2/files-2.1/71f004e41b64fcc49fa4c5a256772ab8/play-services-basement-11.0.4/AndroidManifest.xml:16:1-23:12
+MERGED from [com.android.support:support-v4:27.1.1] /home/miqueias/.gradle/caches/transforms-2/files-2.1/00020ede939b7e89eba83bb116e7b4e7/support-v4-27.1.1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customtabs:27.1.1] /home/miqueias/.gradle/caches/transforms-2/files-2.1/ac93924b0caf08043c600eb2de79a75e/customtabs-27.1.1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.1.1] /home/miqueias/.gradle/caches/transforms-2/files-2.1/2fa52196cbd1ee8b935a5b336d66eb62/support-media-compat-27.1.1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.1] /home/miqueias/.gradle/caches/transforms-2/files-2.1/5e7c654db875661b56e04477386d9e0c/support-fragment-27.1.1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] /home/miqueias/.gradle/caches/transforms-2/files-2.1/e5256074088f33ae6abcf502630c0cc6/support-core-ui-27.1.1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] /home/miqueias/.gradle/caches/transforms-2/files-2.1/70dcc177c7847c05596192ee32f74766/support-core-utils-27.1.1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] /home/miqueias/.gradle/caches/transforms-2/files-2.1/442c10f2caabfe74085c7c306694e15c/support-compat-27.1.1/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /home/miqueias/.gradle/caches/transforms-2/files-2.1/c6266fbff592b9e85dd2d17a02da0f9c/runtime-1.1.0/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /home/miqueias/.gradle/caches/transforms-2/files-2.1/7842aaba7cd2588eb96c3ec0b932ae34/livedata-core-1.1.0/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /home/miqueias/.gradle/caches/transforms-2/files-2.1/358a94b9e0d2d25e785efb9f0742068b/viewmodel-1.1.0/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] /home/miqueias/.gradle/caches/transforms-2/files-2.1/2e4e45f7fce4f74671317e601d26b0aa/runtime-1.1.0/AndroidManifest.xml:17:1-22:12
 INJECTED from /var/www/app/android/quizbiblico/platforms/android/app/src/main/AndroidManifest.xml:2:1-29:12
 INJECTED from /var/www/app/android/quizbiblico/platforms/android/app/src/main/AndroidManifest.xml:2:1-29:12
 INJECTED from /var/www/app/android/quizbiblico/platforms/android/app/src/main/AndroidManifest.xml:2:1-29:12
@@ -64,40 +64,40 @@ ADDED from /var/www/app/android/quizbiblico/platforms/android/app/src/main/Andro
 		ADDED from /var/www/app/android/quizbiblico/platforms/android/app/src/main/AndroidManifest.xml:3:23-48
 uses-permission#android.permission.INTERNET
 ADDED from /var/www/app/android/quizbiblico/platforms/android/app/src/main/AndroidManifest.xml:4:5-67
-MERGED from [com.onesignal:OneSignal:3.10.5] /home/miqueias/.gradle/caches/transforms-2/files-2.1/e997123954b34e6750e8287a3a7bbc65/OneSignal-3.10.5/AndroidManifest.xml:17:5-67
-MERGED from [com.onesignal:OneSignal:3.10.5] /home/miqueias/.gradle/caches/transforms-2/files-2.1/e997123954b34e6750e8287a3a7bbc65/OneSignal-3.10.5/AndroidManifest.xml:17:5-67
-MERGED from [com.google.firebase:firebase-iid:11.0.4] /home/miqueias/.gradle/caches/transforms-2/files-2.1/85f297de3449739baf9588898b2546e8/firebase-iid-11.0.4/AndroidManifest.xml:20:5-66
-MERGED from [com.google.firebase:firebase-iid:11.0.4] /home/miqueias/.gradle/caches/transforms-2/files-2.1/85f297de3449739baf9588898b2546e8/firebase-iid-11.0.4/AndroidManifest.xml:20:5-66
-MERGED from [com.google.android.gms:play-services-ads-lite:11.0.4] /home/miqueias/.gradle/caches/transforms-2/files-2.1/28b8987becfeb51e27f7d4b3045ef0ab/play-services-ads-lite-11.0.4/AndroidManifest.xml:19:5-66
-MERGED from [com.google.android.gms:play-services-ads-lite:11.0.4] /home/miqueias/.gradle/caches/transforms-2/files-2.1/28b8987becfeb51e27f7d4b3045ef0ab/play-services-ads-lite-11.0.4/AndroidManifest.xml:19:5-66
+MERGED from [com.onesignal:OneSignal:3.10.5] /home/miqueias/.gradle/caches/transforms-2/files-2.1/30baf4a912c5fa785338ce2725f0e55e/OneSignal-3.10.5/AndroidManifest.xml:17:5-67
+MERGED from [com.onesignal:OneSignal:3.10.5] /home/miqueias/.gradle/caches/transforms-2/files-2.1/30baf4a912c5fa785338ce2725f0e55e/OneSignal-3.10.5/AndroidManifest.xml:17:5-67
+MERGED from [com.google.firebase:firebase-iid:11.0.4] /home/miqueias/.gradle/caches/transforms-2/files-2.1/1d8c6735365941dce0544e80145dda02/firebase-iid-11.0.4/AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-iid:11.0.4] /home/miqueias/.gradle/caches/transforms-2/files-2.1/1d8c6735365941dce0544e80145dda02/firebase-iid-11.0.4/AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-ads-lite:11.0.4] /home/miqueias/.gradle/caches/transforms-2/files-2.1/21b8d91983c9ec9d7b5722baf8ae112f/play-services-ads-lite-11.0.4/AndroidManifest.xml:19:5-66
+MERGED from [com.google.android.gms:play-services-ads-lite:11.0.4] /home/miqueias/.gradle/caches/transforms-2/files-2.1/21b8d91983c9ec9d7b5722baf8ae112f/play-services-ads-lite-11.0.4/AndroidManifest.xml:19:5-66
 	android:name
 		ADDED from /var/www/app/android/quizbiblico/platforms/android/app/src/main/AndroidManifest.xml:4:22-64
 application
 ADDED from /var/www/app/android/quizbiblico/platforms/android/app/src/main/AndroidManifest.xml:5:5-23:19
-MERGED from [com.onesignal:OneSignal:3.10.5] /home/miqueias/.gradle/caches/transforms-2/files-2.1/e997123954b34e6750e8287a3a7bbc65/OneSignal-3.10.5/AndroidManifest.xml:49:5-105:19
-MERGED from [com.onesignal:OneSignal:3.10.5] /home/miqueias/.gradle/caches/transforms-2/files-2.1/e997123954b34e6750e8287a3a7bbc65/OneSignal-3.10.5/AndroidManifest.xml:49:5-105:19
-MERGED from [com.google.android.gms:play-services-clearcut:11.0.4] /home/miqueias/.gradle/caches/transforms-2/files-2.1/fdf3ad9af1e70bb9120ef27ed75360db/play-services-clearcut-11.0.4/AndroidManifest.xml:18:5-19
-MERGED from [com.google.android.gms:play-services-clearcut:11.0.4] /home/miqueias/.gradle/caches/transforms-2/files-2.1/fdf3ad9af1e70bb9120ef27ed75360db/play-services-clearcut-11.0.4/AndroidManifest.xml:18:5-19
-MERGED from [com.google.android.gms:play-services-safetynet:11.0.4] /home/miqueias/.gradle/caches/transforms-2/files-2.1/c6d64d2ab458c9b7f62656dd386d7de5/play-services-safetynet-11.0.4/AndroidManifest.xml:18:5-19
-MERGED from [com.google.android.gms:play-services-safetynet:11.0.4] /home/miqueias/.gradle/caches/transforms-2/files-2.1/c6d64d2ab458c9b7f62656dd386d7de5/play-services-safetynet-11.0.4/AndroidManifest.xml:18:5-19
-MERGED from [com.google.android.gms:play-services-location:11.0.4] /home/miqueias/.gradle/caches/transforms-2/files-2.1/565939ee609506ba0c557c55d186e4a9/play-services-location-11.0.4/AndroidManifest.xml:4:5-19
-MERGED from [com.google.android.gms:play-services-location:11.0.4] /home/miqueias/.gradle/caches/transforms-2/files-2.1/565939ee609506ba0c557c55d186e4a9/play-services-location-11.0.4/AndroidManifest.xml:4:5-19
-MERGED from [com.google.android.gms:play-services-base:11.0.4] /home/miqueias/.gradle/caches/transforms-2/files-2.1/6190186c58d59886499335c11ecffecf/play-services-base-11.0.4/AndroidManifest.xml:18:5-20:19
-MERGED from [com.google.android.gms:play-services-base:11.0.4] /home/miqueias/.gradle/caches/transforms-2/files-2.1/6190186c58d59886499335c11ecffecf/play-services-base-11.0.4/AndroidManifest.xml:18:5-20:19
-MERGED from [com.google.firebase:firebase-messaging:11.0.4] /home/miqueias/.gradle/caches/transforms-2/files-2.1/0c637fb11b452c4972efcab7856c82cd/firebase-messaging-11.0.4/AndroidManifest.xml:19:5-29:19
-MERGED from [com.google.firebase:firebase-messaging:11.0.4] /home/miqueias/.gradle/caches/transforms-2/files-2.1/0c637fb11b452c4972efcab7856c82cd/firebase-messaging-11.0.4/AndroidManifest.xml:19:5-29:19
-MERGED from [com.google.firebase:firebase-iid:11.0.4] /home/miqueias/.gradle/caches/transforms-2/files-2.1/85f297de3449739baf9588898b2546e8/firebase-iid-11.0.4/AndroidManifest.xml:28:5-49:19
-MERGED from [com.google.firebase:firebase-iid:11.0.4] /home/miqueias/.gradle/caches/transforms-2/files-2.1/85f297de3449739baf9588898b2546e8/firebase-iid-11.0.4/AndroidManifest.xml:28:5-49:19
-MERGED from [com.google.firebase:firebase-common:11.0.4] /home/miqueias/.gradle/caches/transforms-2/files-2.1/70c9b75874dcfa327bc3c54a8a02853c/firebase-common-11.0.4/AndroidManifest.xml:4:5-7:19
-MERGED from [com.google.firebase:firebase-common:11.0.4] /home/miqueias/.gradle/caches/transforms-2/files-2.1/70c9b75874dcfa327bc3c54a8a02853c/firebase-common-11.0.4/AndroidManifest.xml:4:5-7:19
-MERGED from [com.google.android.gms:play-services-tasks:11.0.4] /home/miqueias/.gradle/caches/transforms-2/files-2.1/5c7f8735400f8b11f8ede8e94cf96316/play-services-tasks-11.0.4/AndroidManifest.xml:4:5-19
-MERGED from [com.google.android.gms:play-services-tasks:11.0.4] /home/miqueias/.gradle/caches/transforms-2/files-2.1/5c7f8735400f8b11f8ede8e94cf96316/play-services-tasks-11.0.4/AndroidManifest.xml:4:5-19
-MERGED from [com.google.android.gms:play-services-ads-lite:11.0.4] /home/miqueias/.gradle/caches/transforms-2/files-2.1/28b8987becfeb51e27f7d4b3045ef0ab/play-services-ads-lite-11.0.4/AndroidManifest.xml:23:5-26:19
-MERGED from [com.google.android.gms:play-services-ads-lite:11.0.4] /home/miqueias/.gradle/caches/transforms-2/files-2.1/28b8987becfeb51e27f7d4b3045ef0ab/play-services-ads-lite-11.0.4/AndroidManifest.xml:23:5-26:19
-MERGED from [com.google.android.gms:play-services-gass:11.0.4] /home/miqueias/.gradle/caches/transforms-2/files-2.1/815eb385cffac3670d1826459ad120d6/play-services-gass-11.0.4/AndroidManifest.xml:4:5-19
-MERGED from [com.google.android.gms:play-services-gass:11.0.4] /home/miqueias/.gradle/caches/transforms-2/files-2.1/815eb385cffac3670d1826459ad120d6/play-services-gass-11.0.4/AndroidManifest.xml:4:5-19
-MERGED from [com.google.android.gms:play-services-basement:11.0.4] /home/miqueias/.gradle/caches/transforms-2/files-2.1/5bddbffea062ec858fe0545538432c3c/play-services-basement-11.0.4/AndroidManifest.xml:19:5-21:19
-MERGED from [com.google.android.gms:play-services-basement:11.0.4] /home/miqueias/.gradle/caches/transforms-2/files-2.1/5bddbffea062ec858fe0545538432c3c/play-services-basement-11.0.4/AndroidManifest.xml:19:5-21:19
+MERGED from [com.onesignal:OneSignal:3.10.5] /home/miqueias/.gradle/caches/transforms-2/files-2.1/30baf4a912c5fa785338ce2725f0e55e/OneSignal-3.10.5/AndroidManifest.xml:49:5-105:19
+MERGED from [com.onesignal:OneSignal:3.10.5] /home/miqueias/.gradle/caches/transforms-2/files-2.1/30baf4a912c5fa785338ce2725f0e55e/OneSignal-3.10.5/AndroidManifest.xml:49:5-105:19
+MERGED from [com.google.android.gms:play-services-clearcut:11.0.4] /home/miqueias/.gradle/caches/transforms-2/files-2.1/4c9dc0781c05e0a65b965e7872b8ffbe/play-services-clearcut-11.0.4/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-clearcut:11.0.4] /home/miqueias/.gradle/caches/transforms-2/files-2.1/4c9dc0781c05e0a65b965e7872b8ffbe/play-services-clearcut-11.0.4/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-safetynet:11.0.4] /home/miqueias/.gradle/caches/transforms-2/files-2.1/80c65b60cb02e522bf3633013f2742e3/play-services-safetynet-11.0.4/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-safetynet:11.0.4] /home/miqueias/.gradle/caches/transforms-2/files-2.1/80c65b60cb02e522bf3633013f2742e3/play-services-safetynet-11.0.4/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-location:11.0.4] /home/miqueias/.gradle/caches/transforms-2/files-2.1/23cb4e01b0177bee3e26e72b4801f235/play-services-location-11.0.4/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-location:11.0.4] /home/miqueias/.gradle/caches/transforms-2/files-2.1/23cb4e01b0177bee3e26e72b4801f235/play-services-location-11.0.4/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-base:11.0.4] /home/miqueias/.gradle/caches/transforms-2/files-2.1/b22be4d14f5854987b736d0ff605eabd/play-services-base-11.0.4/AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.android.gms:play-services-base:11.0.4] /home/miqueias/.gradle/caches/transforms-2/files-2.1/b22be4d14f5854987b736d0ff605eabd/play-services-base-11.0.4/AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.firebase:firebase-messaging:11.0.4] /home/miqueias/.gradle/caches/transforms-2/files-2.1/bc098fe9c72a0e268c21c899057a317a/firebase-messaging-11.0.4/AndroidManifest.xml:19:5-29:19
+MERGED from [com.google.firebase:firebase-messaging:11.0.4] /home/miqueias/.gradle/caches/transforms-2/files-2.1/bc098fe9c72a0e268c21c899057a317a/firebase-messaging-11.0.4/AndroidManifest.xml:19:5-29:19
+MERGED from [com.google.firebase:firebase-iid:11.0.4] /home/miqueias/.gradle/caches/transforms-2/files-2.1/1d8c6735365941dce0544e80145dda02/firebase-iid-11.0.4/AndroidManifest.xml:28:5-49:19
+MERGED from [com.google.firebase:firebase-iid:11.0.4] /home/miqueias/.gradle/caches/transforms-2/files-2.1/1d8c6735365941dce0544e80145dda02/firebase-iid-11.0.4/AndroidManifest.xml:28:5-49:19
+MERGED from [com.google.firebase:firebase-common:11.0.4] /home/miqueias/.gradle/caches/transforms-2/files-2.1/17a6af3a16b000a8806e2ef35b661818/firebase-common-11.0.4/AndroidManifest.xml:4:5-7:19
+MERGED from [com.google.firebase:firebase-common:11.0.4] /home/miqueias/.gradle/caches/transforms-2/files-2.1/17a6af3a16b000a8806e2ef35b661818/firebase-common-11.0.4/AndroidManifest.xml:4:5-7:19
+MERGED from [com.google.android.gms:play-services-tasks:11.0.4] /home/miqueias/.gradle/caches/transforms-2/files-2.1/9e775cf1f47a391c854e1477740b910a/play-services-tasks-11.0.4/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-tasks:11.0.4] /home/miqueias/.gradle/caches/transforms-2/files-2.1/9e775cf1f47a391c854e1477740b910a/play-services-tasks-11.0.4/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-ads-lite:11.0.4] /home/miqueias/.gradle/caches/transforms-2/files-2.1/21b8d91983c9ec9d7b5722baf8ae112f/play-services-ads-lite-11.0.4/AndroidManifest.xml:23:5-26:19
+MERGED from [com.google.android.gms:play-services-ads-lite:11.0.4] /home/miqueias/.gradle/caches/transforms-2/files-2.1/21b8d91983c9ec9d7b5722baf8ae112f/play-services-ads-lite-11.0.4/AndroidManifest.xml:23:5-26:19
+MERGED from [com.google.android.gms:play-services-gass:11.0.4] /home/miqueias/.gradle/caches/transforms-2/files-2.1/e58930dae46a93dd7a5117d2cca7b89e/play-services-gass-11.0.4/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-gass:11.0.4] /home/miqueias/.gradle/caches/transforms-2/files-2.1/e58930dae46a93dd7a5117d2cca7b89e/play-services-gass-11.0.4/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-basement:11.0.4] /home/miqueias/.gradle/caches/transforms-2/files-2.1/71f004e41b64fcc49fa4c5a256772ab8/play-services-basement-11.0.4/AndroidManifest.xml:19:5-21:19
+MERGED from [com.google.android.gms:play-services-basement:11.0.4] /home/miqueias/.gradle/caches/transforms-2/files-2.1/71f004e41b64fcc49fa4c5a256772ab8/play-services-basement-11.0.4/AndroidManifest.xml:19:5-21:19
 	android:supportsRtl
 		ADDED from /var/www/app/android/quizbiblico/platforms/android/app/src/main/AndroidManifest.xml:5:114-140
 	android:label
@@ -136,8 +136,8 @@ ADDED from /var/www/app/android/quizbiblico/platforms/android/app/src/main/Andro
 		ADDED from /var/www/app/android/quizbiblico/platforms/android/app/src/main/AndroidManifest.xml:9:27-74
 activity#com.google.android.gms.ads.AdActivity
 ADDED from /var/www/app/android/quizbiblico/platforms/android/app/src/main/AndroidManifest.xml:12:9-233
-MERGED from [com.google.android.gms:play-services-ads-lite:11.0.4] /home/miqueias/.gradle/caches/transforms-2/files-2.1/28b8987becfeb51e27f7d4b3045ef0ab/play-services-ads-lite-11.0.4/AndroidManifest.xml:25:9-232
-MERGED from [com.google.android.gms:play-services-ads-lite:11.0.4] /home/miqueias/.gradle/caches/transforms-2/files-2.1/28b8987becfeb51e27f7d4b3045ef0ab/play-services-ads-lite-11.0.4/AndroidManifest.xml:25:9-232
+MERGED from [com.google.android.gms:play-services-ads-lite:11.0.4] /home/miqueias/.gradle/caches/transforms-2/files-2.1/21b8d91983c9ec9d7b5722baf8ae112f/play-services-ads-lite-11.0.4/AndroidManifest.xml:25:9-232
+MERGED from [com.google.android.gms:play-services-ads-lite:11.0.4] /home/miqueias/.gradle/caches/transforms-2/files-2.1/21b8d91983c9ec9d7b5722baf8ae112f/play-services-ads-lite-11.0.4/AndroidManifest.xml:25:9-232
 	android:configChanges
 		ADDED from /var/www/app/android/quizbiblico/platforms/android/app/src/main/AndroidManifest.xml:12:19-128
 	android:theme
@@ -184,74 +184,14 @@ category#br.com.innovatesof.quizbiblico
 ADDED from /var/www/app/android/quizbiblico/platforms/android/app/src/main/AndroidManifest.xml:20:17-75
 	android:name
 		ADDED from /var/www/app/android/quizbiblico/platforms/android/app/src/main/AndroidManifest.xml:20:27-72
-uses-sdk
-ADDED from /var/www/app/android/quizbiblico/platforms/android/app/src/main/AndroidManifest.xml:24:5-47
-INJECTED from /var/www/app/android/quizbiblico/platforms/android/app/src/main/AndroidManifest.xml:24:5-47
-MERGED from [com.google.android.gms:play-services-ads:11.0.4] /home/miqueias/.gradle/caches/transforms-2/files-2.1/97ada37cb2fc45718d7cd58b64385912/play-services-ads-11.0.4/AndroidManifest.xml:17:5-43
-MERGED from [com.google.android.gms:play-services-ads:11.0.4] /home/miqueias/.gradle/caches/transforms-2/files-2.1/97ada37cb2fc45718d7cd58b64385912/play-services-ads-11.0.4/AndroidManifest.xml:17:5-43
-MERGED from [com.onesignal:OneSignal:3.10.5] /home/miqueias/.gradle/caches/transforms-2/files-2.1/e997123954b34e6750e8287a3a7bbc65/OneSignal-3.10.5/AndroidManifest.xml:5:5-44
-MERGED from [com.onesignal:OneSignal:3.10.5] /home/miqueias/.gradle/caches/transforms-2/files-2.1/e997123954b34e6750e8287a3a7bbc65/OneSignal-3.10.5/AndroidManifest.xml:5:5-44
-MERGED from [com.google.android.gms:play-services-clearcut:11.0.4] /home/miqueias/.gradle/caches/transforms-2/files-2.1/fdf3ad9af1e70bb9120ef27ed75360db/play-services-clearcut-11.0.4/AndroidManifest.xml:17:5-43
-MERGED from [com.google.android.gms:play-services-clearcut:11.0.4] /home/miqueias/.gradle/caches/transforms-2/files-2.1/fdf3ad9af1e70bb9120ef27ed75360db/play-services-clearcut-11.0.4/AndroidManifest.xml:17:5-43
-MERGED from [com.google.android.gms:play-services-safetynet:11.0.4] /home/miqueias/.gradle/caches/transforms-2/files-2.1/c6d64d2ab458c9b7f62656dd386d7de5/play-services-safetynet-11.0.4/AndroidManifest.xml:17:5-43
-MERGED from [com.google.android.gms:play-services-safetynet:11.0.4] /home/miqueias/.gradle/caches/transforms-2/files-2.1/c6d64d2ab458c9b7f62656dd386d7de5/play-services-safetynet-11.0.4/AndroidManifest.xml:17:5-43
-MERGED from [com.google.android.gms:play-services-location:11.0.4] /home/miqueias/.gradle/caches/transforms-2/files-2.1/565939ee609506ba0c557c55d186e4a9/play-services-location-11.0.4/AndroidManifest.xml:3:5-43
-MERGED from [com.google.android.gms:play-services-location:11.0.4] /home/miqueias/.gradle/caches/transforms-2/files-2.1/565939ee609506ba0c557c55d186e4a9/play-services-location-11.0.4/AndroidManifest.xml:3:5-43
-MERGED from [com.google.android.gms:play-services-base:11.0.4] /home/miqueias/.gradle/caches/transforms-2/files-2.1/6190186c58d59886499335c11ecffecf/play-services-base-11.0.4/AndroidManifest.xml:17:5-43
-MERGED from [com.google.android.gms:play-services-base:11.0.4] /home/miqueias/.gradle/caches/transforms-2/files-2.1/6190186c58d59886499335c11ecffecf/play-services-base-11.0.4/AndroidManifest.xml:17:5-43
-MERGED from [:CordovaLib] /var/www/app/android/quizbiblico/platforms/android/CordovaLib/build/intermediates/library_manifest/debug/AndroidManifest.xml:25:5-43
-MERGED from [:CordovaLib] /var/www/app/android/quizbiblico/platforms/android/CordovaLib/build/intermediates/library_manifest/debug/AndroidManifest.xml:25:5-43
-MERGED from [com.google.firebase:firebase-messaging:11.0.4] /home/miqueias/.gradle/caches/transforms-2/files-2.1/0c637fb11b452c4972efcab7856c82cd/firebase-messaging-11.0.4/AndroidManifest.xml:17:5-43
-MERGED from [com.google.firebase:firebase-messaging:11.0.4] /home/miqueias/.gradle/caches/transforms-2/files-2.1/0c637fb11b452c4972efcab7856c82cd/firebase-messaging-11.0.4/AndroidManifest.xml:17:5-43
-MERGED from [com.google.firebase:firebase-iid:11.0.4] /home/miqueias/.gradle/caches/transforms-2/files-2.1/85f297de3449739baf9588898b2546e8/firebase-iid-11.0.4/AndroidManifest.xml:17:5-43
-MERGED from [com.google.firebase:firebase-iid:11.0.4] /home/miqueias/.gradle/caches/transforms-2/files-2.1/85f297de3449739baf9588898b2546e8/firebase-iid-11.0.4/AndroidManifest.xml:17:5-43
-MERGED from [com.google.firebase:firebase-common:11.0.4] /home/miqueias/.gradle/caches/transforms-2/files-2.1/70c9b75874dcfa327bc3c54a8a02853c/firebase-common-11.0.4/AndroidManifest.xml:3:5-43
-MERGED from [com.google.firebase:firebase-common:11.0.4] /home/miqueias/.gradle/caches/transforms-2/files-2.1/70c9b75874dcfa327bc3c54a8a02853c/firebase-common-11.0.4/AndroidManifest.xml:3:5-43
-MERGED from [com.google.android.gms:play-services-tasks:11.0.4] /home/miqueias/.gradle/caches/transforms-2/files-2.1/5c7f8735400f8b11f8ede8e94cf96316/play-services-tasks-11.0.4/AndroidManifest.xml:3:5-43
-MERGED from [com.google.android.gms:play-services-tasks:11.0.4] /home/miqueias/.gradle/caches/transforms-2/files-2.1/5c7f8735400f8b11f8ede8e94cf96316/play-services-tasks-11.0.4/AndroidManifest.xml:3:5-43
-MERGED from [com.google.android.gms:play-services-ads-lite:11.0.4] /home/miqueias/.gradle/caches/transforms-2/files-2.1/28b8987becfeb51e27f7d4b3045ef0ab/play-services-ads-lite-11.0.4/AndroidManifest.xml:22:5-43
-MERGED from [com.google.android.gms:play-services-ads-lite:11.0.4] /home/miqueias/.gradle/caches/transforms-2/files-2.1/28b8987becfeb51e27f7d4b3045ef0ab/play-services-ads-lite-11.0.4/AndroidManifest.xml:22:5-43
-MERGED from [com.google.android.gms:play-services-gass:11.0.4] /home/miqueias/.gradle/caches/transforms-2/files-2.1/815eb385cffac3670d1826459ad120d6/play-services-gass-11.0.4/AndroidManifest.xml:3:5-43
-MERGED from [com.google.android.gms:play-services-gass:11.0.4] /home/miqueias/.gradle/caches/transforms-2/files-2.1/815eb385cffac3670d1826459ad120d6/play-services-gass-11.0.4/AndroidManifest.xml:3:5-43
-MERGED from [com.google.android.gms:play-services-basement:11.0.4] /home/miqueias/.gradle/caches/transforms-2/files-2.1/5bddbffea062ec858fe0545538432c3c/play-services-basement-11.0.4/AndroidManifest.xml:17:5-43
-MERGED from [com.google.android.gms:play-services-basement:11.0.4] /home/miqueias/.gradle/caches/transforms-2/files-2.1/5bddbffea062ec858fe0545538432c3c/play-services-basement-11.0.4/AndroidManifest.xml:17:5-43
-MERGED from [com.android.support:support-v4:27.1.1] /home/miqueias/.gradle/caches/transforms-2/files-2.1/213722f93bdc988bd32109642b64ecd1/support-v4-27.1.1/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-v4:27.1.1] /home/miqueias/.gradle/caches/transforms-2/files-2.1/213722f93bdc988bd32109642b64ecd1/support-v4-27.1.1/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:customtabs:27.1.1] /home/miqueias/.gradle/caches/transforms-2/files-2.1/47d6c9a2fce949d2c3030517d2720b50/customtabs-27.1.1/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:customtabs:27.1.1] /home/miqueias/.gradle/caches/transforms-2/files-2.1/47d6c9a2fce949d2c3030517d2720b50/customtabs-27.1.1/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-media-compat:27.1.1] /home/miqueias/.gradle/caches/transforms-2/files-2.1/861055886904d4b0b4bb37c0de00ecee/support-media-compat-27.1.1/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-media-compat:27.1.1] /home/miqueias/.gradle/caches/transforms-2/files-2.1/861055886904d4b0b4bb37c0de00ecee/support-media-compat-27.1.1/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-fragment:27.1.1] /home/miqueias/.gradle/caches/transforms-2/files-2.1/af44a2020543186d4e4449c2c57f9562/support-fragment-27.1.1/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-fragment:27.1.1] /home/miqueias/.gradle/caches/transforms-2/files-2.1/af44a2020543186d4e4449c2c57f9562/support-fragment-27.1.1/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-core-ui:27.1.1] /home/miqueias/.gradle/caches/transforms-2/files-2.1/737391e76ecd5748c55f71a982c2dc3e/support-core-ui-27.1.1/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-core-ui:27.1.1] /home/miqueias/.gradle/caches/transforms-2/files-2.1/737391e76ecd5748c55f71a982c2dc3e/support-core-ui-27.1.1/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-core-utils:27.1.1] /home/miqueias/.gradle/caches/transforms-2/files-2.1/ec9a9e48e73878aaa31602796e8d1fcf/support-core-utils-27.1.1/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-core-utils:27.1.1] /home/miqueias/.gradle/caches/transforms-2/files-2.1/ec9a9e48e73878aaa31602796e8d1fcf/support-core-utils-27.1.1/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-compat:27.1.1] /home/miqueias/.gradle/caches/transforms-2/files-2.1/ea0ee35f22a88ff9d8bac691cda371e2/support-compat-27.1.1/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-compat:27.1.1] /home/miqueias/.gradle/caches/transforms-2/files-2.1/ea0ee35f22a88ff9d8bac691cda371e2/support-compat-27.1.1/AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:runtime:1.1.0] /home/miqueias/.gradle/caches/transforms-2/files-2.1/c06d85bc43379e950603fd5693ef4696/runtime-1.1.0/AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:runtime:1.1.0] /home/miqueias/.gradle/caches/transforms-2/files-2.1/c06d85bc43379e950603fd5693ef4696/runtime-1.1.0/AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /home/miqueias/.gradle/caches/transforms-2/files-2.1/92a577ba1cbf7d21b00d35b3ea7a240d/livedata-core-1.1.0/AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /home/miqueias/.gradle/caches/transforms-2/files-2.1/92a577ba1cbf7d21b00d35b3ea7a240d/livedata-core-1.1.0/AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /home/miqueias/.gradle/caches/transforms-2/files-2.1/ef6843ea5770e504c24b448e1bb8a0a9/viewmodel-1.1.0/AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /home/miqueias/.gradle/caches/transforms-2/files-2.1/ef6843ea5770e504c24b448e1bb8a0a9/viewmodel-1.1.0/AndroidManifest.xml:20:5-44
-MERGED from [android.arch.core:runtime:1.1.0] /home/miqueias/.gradle/caches/transforms-2/files-2.1/0a2bdce0da8cfd5c768a5af1598d6c65/runtime-1.1.0/AndroidManifest.xml:20:5-44
-MERGED from [android.arch.core:runtime:1.1.0] /home/miqueias/.gradle/caches/transforms-2/files-2.1/0a2bdce0da8cfd5c768a5af1598d6c65/runtime-1.1.0/AndroidManifest.xml:20:5-44
-INJECTED from /var/www/app/android/quizbiblico/platforms/android/app/src/main/AndroidManifest.xml:24:5-47
-	android:targetSdkVersion
-		ADDED from /var/www/app/android/quizbiblico/platforms/android/app/src/main/AndroidManifest.xml:24:15-44
-	android:minSdkVersion
-		INJECTED from /var/www/app/android/quizbiblico/platforms/android/app/src/main/AndroidManifest.xml
-		ADDED from /var/www/app/android/quizbiblico/platforms/android/app/src/main/AndroidManifest.xml:24:5-47
-		INJECTED from /var/www/app/android/quizbiblico/platforms/android/app/src/main/AndroidManifest.xml
 uses-permission#android.permission.ACCESS_NETWORK_STATE
 ADDED from /var/www/app/android/quizbiblico/platforms/android/app/src/main/AndroidManifest.xml:25:5-79
-MERGED from [com.onesignal:OneSignal:3.10.5] /home/miqueias/.gradle/caches/transforms-2/files-2.1/e997123954b34e6750e8287a3a7bbc65/OneSignal-3.10.5/AndroidManifest.xml:25:5-79
-MERGED from [com.onesignal:OneSignal:3.10.5] /home/miqueias/.gradle/caches/transforms-2/files-2.1/e997123954b34e6750e8287a3a7bbc65/OneSignal-3.10.5/AndroidManifest.xml:25:5-79
-MERGED from [com.google.firebase:firebase-iid:11.0.4] /home/miqueias/.gradle/caches/transforms-2/files-2.1/85f297de3449739baf9588898b2546e8/firebase-iid-11.0.4/AndroidManifest.xml:19:5-78
-MERGED from [com.google.firebase:firebase-iid:11.0.4] /home/miqueias/.gradle/caches/transforms-2/files-2.1/85f297de3449739baf9588898b2546e8/firebase-iid-11.0.4/AndroidManifest.xml:19:5-78
-MERGED from [com.google.android.gms:play-services-ads-lite:11.0.4] /home/miqueias/.gradle/caches/transforms-2/files-2.1/28b8987becfeb51e27f7d4b3045ef0ab/play-services-ads-lite-11.0.4/AndroidManifest.xml:20:5-78
-MERGED from [com.google.android.gms:play-services-ads-lite:11.0.4] /home/miqueias/.gradle/caches/transforms-2/files-2.1/28b8987becfeb51e27f7d4b3045ef0ab/play-services-ads-lite-11.0.4/AndroidManifest.xml:20:5-78
+MERGED from [com.onesignal:OneSignal:3.10.5] /home/miqueias/.gradle/caches/transforms-2/files-2.1/30baf4a912c5fa785338ce2725f0e55e/OneSignal-3.10.5/AndroidManifest.xml:25:5-79
+MERGED from [com.onesignal:OneSignal:3.10.5] /home/miqueias/.gradle/caches/transforms-2/files-2.1/30baf4a912c5fa785338ce2725f0e55e/OneSignal-3.10.5/AndroidManifest.xml:25:5-79
+MERGED from [com.google.firebase:firebase-iid:11.0.4] /home/miqueias/.gradle/caches/transforms-2/files-2.1/1d8c6735365941dce0544e80145dda02/firebase-iid-11.0.4/AndroidManifest.xml:19:5-78
+MERGED from [com.google.firebase:firebase-iid:11.0.4] /home/miqueias/.gradle/caches/transforms-2/files-2.1/1d8c6735365941dce0544e80145dda02/firebase-iid-11.0.4/AndroidManifest.xml:19:5-78
+MERGED from [com.google.android.gms:play-services-ads-lite:11.0.4] /home/miqueias/.gradle/caches/transforms-2/files-2.1/21b8d91983c9ec9d7b5722baf8ae112f/play-services-ads-lite-11.0.4/AndroidManifest.xml:20:5-78
+MERGED from [com.google.android.gms:play-services-ads-lite:11.0.4] /home/miqueias/.gradle/caches/transforms-2/files-2.1/21b8d91983c9ec9d7b5722baf8ae112f/play-services-ads-lite-11.0.4/AndroidManifest.xml:20:5-78
 	android:name
 		ADDED from /var/www/app/android/quizbiblico/platforms/android/app/src/main/AndroidManifest.xml:25:22-76
 uses-permission#com.amazon.device.messaging.permission.RECEIVE
@@ -268,293 +208,357 @@ uses-permission#br.com.innovatesof.quizbiblico.permission.RECEIVE_ADM_MESSAGE
 ADDED from /var/www/app/android/quizbiblico/platforms/android/app/src/main/AndroidManifest.xml:28:5-101
 	android:name
 		ADDED from /var/www/app/android/quizbiblico/platforms/android/app/src/main/AndroidManifest.xml:28:22-98
-permission#${applicationId}.permission.C2D_MESSAGE
-ADDED from [com.onesignal:OneSignal:3.10.5] /home/miqueias/.gradle/caches/transforms-2/files-2.1/e997123954b34e6750e8287a3a7bbc65/OneSignal-3.10.5/AndroidManifest.xml:8:5-10:47
-MERGED from [com.google.firebase:firebase-iid:11.0.4] /home/miqueias/.gradle/caches/transforms-2/files-2.1/85f297de3449739baf9588898b2546e8/firebase-iid-11.0.4/AndroidManifest.xml:24:5-109
-MERGED from [com.google.firebase:firebase-iid:11.0.4] /home/miqueias/.gradle/caches/transforms-2/files-2.1/85f297de3449739baf9588898b2546e8/firebase-iid-11.0.4/AndroidManifest.xml:24:5-109
-	android:protectionLevel
-		ADDED from [com.onesignal:OneSignal:3.10.5] /home/miqueias/.gradle/caches/transforms-2/files-2.1/e997123954b34e6750e8287a3a7bbc65/OneSignal-3.10.5/AndroidManifest.xml:10:9-44
-	android:name
-		ADDED from [com.onesignal:OneSignal:3.10.5] /home/miqueias/.gradle/caches/transforms-2/files-2.1/e997123954b34e6750e8287a3a7bbc65/OneSignal-3.10.5/AndroidManifest.xml:9:9-63
-permission#br.com.innovatesof.quizbiblico.permission.C2D_MESSAGE
-ADDED from [com.onesignal:OneSignal:3.10.5] /home/miqueias/.gradle/caches/transforms-2/files-2.1/e997123954b34e6750e8287a3a7bbc65/OneSignal-3.10.5/AndroidManifest.xml:8:5-10:47
-MERGED from [com.google.firebase:firebase-iid:11.0.4] /home/miqueias/.gradle/caches/transforms-2/files-2.1/85f297de3449739baf9588898b2546e8/firebase-iid-11.0.4/AndroidManifest.xml:24:5-109
-MERGED from [com.google.firebase:firebase-iid:11.0.4] /home/miqueias/.gradle/caches/transforms-2/files-2.1/85f297de3449739baf9588898b2546e8/firebase-iid-11.0.4/AndroidManifest.xml:24:5-109
-	android:protectionLevel
-		ADDED from [com.onesignal:OneSignal:3.10.5] /home/miqueias/.gradle/caches/transforms-2/files-2.1/e997123954b34e6750e8287a3a7bbc65/OneSignal-3.10.5/AndroidManifest.xml:10:9-44
-	android:name
-		ADDED from [com.onesignal:OneSignal:3.10.5] /home/miqueias/.gradle/caches/transforms-2/files-2.1/e997123954b34e6750e8287a3a7bbc65/OneSignal-3.10.5/AndroidManifest.xml:9:9-63
-uses-permission#${applicationId}.permission.C2D_MESSAGE
-ADDED from [com.onesignal:OneSignal:3.10.5] /home/miqueias/.gradle/caches/transforms-2/files-2.1/e997123954b34e6750e8287a3a7bbc65/OneSignal-3.10.5/AndroidManifest.xml:12:5-79
-MERGED from [com.google.firebase:firebase-iid:11.0.4] /home/miqueias/.gradle/caches/transforms-2/files-2.1/85f297de3449739baf9588898b2546e8/firebase-iid-11.0.4/AndroidManifest.xml:26:5-78
-MERGED from [com.google.firebase:firebase-iid:11.0.4] /home/miqueias/.gradle/caches/transforms-2/files-2.1/85f297de3449739baf9588898b2546e8/firebase-iid-11.0.4/AndroidManifest.xml:26:5-78
-	android:name
-		ADDED from [com.onesignal:OneSignal:3.10.5] /home/miqueias/.gradle/caches/transforms-2/files-2.1/e997123954b34e6750e8287a3a7bbc65/OneSignal-3.10.5/AndroidManifest.xml:12:22-76
-uses-permission#br.com.innovatesof.quizbiblico.permission.C2D_MESSAGE
-ADDED from [com.onesignal:OneSignal:3.10.5] /home/miqueias/.gradle/caches/transforms-2/files-2.1/e997123954b34e6750e8287a3a7bbc65/OneSignal-3.10.5/AndroidManifest.xml:12:5-79
-MERGED from [com.google.firebase:firebase-iid:11.0.4] /home/miqueias/.gradle/caches/transforms-2/files-2.1/85f297de3449739baf9588898b2546e8/firebase-iid-11.0.4/AndroidManifest.xml:26:5-78
-MERGED from [com.google.firebase:firebase-iid:11.0.4] /home/miqueias/.gradle/caches/transforms-2/files-2.1/85f297de3449739baf9588898b2546e8/firebase-iid-11.0.4/AndroidManifest.xml:26:5-78
-	android:name
-		ADDED from [com.onesignal:OneSignal:3.10.5] /home/miqueias/.gradle/caches/transforms-2/files-2.1/e997123954b34e6750e8287a3a7bbc65/OneSignal-3.10.5/AndroidManifest.xml:12:22-76
-uses-permission#com.google.android.c2dm.permission.RECEIVE
-ADDED from [com.onesignal:OneSignal:3.10.5] /home/miqueias/.gradle/caches/transforms-2/files-2.1/e997123954b34e6750e8287a3a7bbc65/OneSignal-3.10.5/AndroidManifest.xml:18:5-82
-MERGED from [com.google.firebase:firebase-iid:11.0.4] /home/miqueias/.gradle/caches/transforms-2/files-2.1/85f297de3449739baf9588898b2546e8/firebase-iid-11.0.4/AndroidManifest.xml:22:5-81
-MERGED from [com.google.firebase:firebase-iid:11.0.4] /home/miqueias/.gradle/caches/transforms-2/files-2.1/85f297de3449739baf9588898b2546e8/firebase-iid-11.0.4/AndroidManifest.xml:22:5-81
-	android:name
-		ADDED from [com.onesignal:OneSignal:3.10.5] /home/miqueias/.gradle/caches/transforms-2/files-2.1/e997123954b34e6750e8287a3a7bbc65/OneSignal-3.10.5/AndroidManifest.xml:18:22-79
-uses-permission#android.permission.WAKE_LOCK
-ADDED from [com.onesignal:OneSignal:3.10.5] /home/miqueias/.gradle/caches/transforms-2/files-2.1/e997123954b34e6750e8287a3a7bbc65/OneSignal-3.10.5/AndroidManifest.xml:19:5-68
-MERGED from [com.google.firebase:firebase-iid:11.0.4] /home/miqueias/.gradle/caches/transforms-2/files-2.1/85f297de3449739baf9588898b2546e8/firebase-iid-11.0.4/AndroidManifest.xml:21:5-67
-MERGED from [com.google.firebase:firebase-iid:11.0.4] /home/miqueias/.gradle/caches/transforms-2/files-2.1/85f297de3449739baf9588898b2546e8/firebase-iid-11.0.4/AndroidManifest.xml:21:5-67
-	android:name
-		ADDED from [com.onesignal:OneSignal:3.10.5] /home/miqueias/.gradle/caches/transforms-2/files-2.1/e997123954b34e6750e8287a3a7bbc65/OneSignal-3.10.5/AndroidManifest.xml:19:22-65
-uses-permission#android.permission.VIBRATE
-ADDED from [com.onesignal:OneSignal:3.10.5] /home/miqueias/.gradle/caches/transforms-2/files-2.1/e997123954b34e6750e8287a3a7bbc65/OneSignal-3.10.5/AndroidManifest.xml:24:5-66
-	android:name
-		ADDED from [com.onesignal:OneSignal:3.10.5] /home/miqueias/.gradle/caches/transforms-2/files-2.1/e997123954b34e6750e8287a3a7bbc65/OneSignal-3.10.5/AndroidManifest.xml:24:22-63
-uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
-ADDED from [com.onesignal:OneSignal:3.10.5] /home/miqueias/.gradle/caches/transforms-2/files-2.1/e997123954b34e6750e8287a3a7bbc65/OneSignal-3.10.5/AndroidManifest.xml:30:5-81
-	android:name
-		ADDED from [com.onesignal:OneSignal:3.10.5] /home/miqueias/.gradle/caches/transforms-2/files-2.1/e997123954b34e6750e8287a3a7bbc65/OneSignal-3.10.5/AndroidManifest.xml:30:22-78
-uses-permission#com.sec.android.provider.badge.permission.READ
-ADDED from [com.onesignal:OneSignal:3.10.5] /home/miqueias/.gradle/caches/transforms-2/files-2.1/e997123954b34e6750e8287a3a7bbc65/OneSignal-3.10.5/AndroidManifest.xml:32:5-86
-	android:name
-		ADDED from [com.onesignal:OneSignal:3.10.5] /home/miqueias/.gradle/caches/transforms-2/files-2.1/e997123954b34e6750e8287a3a7bbc65/OneSignal-3.10.5/AndroidManifest.xml:32:22-83
-uses-permission#com.sec.android.provider.badge.permission.WRITE
-ADDED from [com.onesignal:OneSignal:3.10.5] /home/miqueias/.gradle/caches/transforms-2/files-2.1/e997123954b34e6750e8287a3a7bbc65/OneSignal-3.10.5/AndroidManifest.xml:33:5-87
-	android:name
-		ADDED from [com.onesignal:OneSignal:3.10.5] /home/miqueias/.gradle/caches/transforms-2/files-2.1/e997123954b34e6750e8287a3a7bbc65/OneSignal-3.10.5/AndroidManifest.xml:33:22-84
-uses-permission#com.htc.launcher.permission.READ_SETTINGS
-ADDED from [com.onesignal:OneSignal:3.10.5] /home/miqueias/.gradle/caches/transforms-2/files-2.1/e997123954b34e6750e8287a3a7bbc65/OneSignal-3.10.5/AndroidManifest.xml:34:5-81
-	android:name
-		ADDED from [com.onesignal:OneSignal:3.10.5] /home/miqueias/.gradle/caches/transforms-2/files-2.1/e997123954b34e6750e8287a3a7bbc65/OneSignal-3.10.5/AndroidManifest.xml:34:22-78
-uses-permission#com.htc.launcher.permission.UPDATE_SHORTCUT
-ADDED from [com.onesignal:OneSignal:3.10.5] /home/miqueias/.gradle/caches/transforms-2/files-2.1/e997123954b34e6750e8287a3a7bbc65/OneSignal-3.10.5/AndroidManifest.xml:35:5-83
-	android:name
-		ADDED from [com.onesignal:OneSignal:3.10.5] /home/miqueias/.gradle/caches/transforms-2/files-2.1/e997123954b34e6750e8287a3a7bbc65/OneSignal-3.10.5/AndroidManifest.xml:35:22-80
-uses-permission#com.sonyericsson.home.permission.BROADCAST_BADGE
-ADDED from [com.onesignal:OneSignal:3.10.5] /home/miqueias/.gradle/caches/transforms-2/files-2.1/e997123954b34e6750e8287a3a7bbc65/OneSignal-3.10.5/AndroidManifest.xml:36:5-88
-	android:name
-		ADDED from [com.onesignal:OneSignal:3.10.5] /home/miqueias/.gradle/caches/transforms-2/files-2.1/e997123954b34e6750e8287a3a7bbc65/OneSignal-3.10.5/AndroidManifest.xml:36:22-85
-uses-permission#com.sonymobile.home.permission.PROVIDER_INSERT_BADGE
-ADDED from [com.onesignal:OneSignal:3.10.5] /home/miqueias/.gradle/caches/transforms-2/files-2.1/e997123954b34e6750e8287a3a7bbc65/OneSignal-3.10.5/AndroidManifest.xml:37:5-92
-	android:name
-		ADDED from [com.onesignal:OneSignal:3.10.5] /home/miqueias/.gradle/caches/transforms-2/files-2.1/e997123954b34e6750e8287a3a7bbc65/OneSignal-3.10.5/AndroidManifest.xml:37:22-89
-uses-permission#com.anddoes.launcher.permission.UPDATE_COUNT
-ADDED from [com.onesignal:OneSignal:3.10.5] /home/miqueias/.gradle/caches/transforms-2/files-2.1/e997123954b34e6750e8287a3a7bbc65/OneSignal-3.10.5/AndroidManifest.xml:38:5-84
-	android:name
-		ADDED from [com.onesignal:OneSignal:3.10.5] /home/miqueias/.gradle/caches/transforms-2/files-2.1/e997123954b34e6750e8287a3a7bbc65/OneSignal-3.10.5/AndroidManifest.xml:38:22-81
-uses-permission#com.majeur.launcher.permission.UPDATE_BADGE
-ADDED from [com.onesignal:OneSignal:3.10.5] /home/miqueias/.gradle/caches/transforms-2/files-2.1/e997123954b34e6750e8287a3a7bbc65/OneSignal-3.10.5/AndroidManifest.xml:39:5-83
-	android:name
-		ADDED from [com.onesignal:OneSignal:3.10.5] /home/miqueias/.gradle/caches/transforms-2/files-2.1/e997123954b34e6750e8287a3a7bbc65/OneSignal-3.10.5/AndroidManifest.xml:39:22-80
-uses-permission#com.huawei.android.launcher.permission.CHANGE_BADGE
-ADDED from [com.onesignal:OneSignal:3.10.5] /home/miqueias/.gradle/caches/transforms-2/files-2.1/e997123954b34e6750e8287a3a7bbc65/OneSignal-3.10.5/AndroidManifest.xml:40:5-91
-	android:name
-		ADDED from [com.onesignal:OneSignal:3.10.5] /home/miqueias/.gradle/caches/transforms-2/files-2.1/e997123954b34e6750e8287a3a7bbc65/OneSignal-3.10.5/AndroidManifest.xml:40:22-88
-uses-permission#com.huawei.android.launcher.permission.READ_SETTINGS
-ADDED from [com.onesignal:OneSignal:3.10.5] /home/miqueias/.gradle/caches/transforms-2/files-2.1/e997123954b34e6750e8287a3a7bbc65/OneSignal-3.10.5/AndroidManifest.xml:41:5-92
-	android:name
-		ADDED from [com.onesignal:OneSignal:3.10.5] /home/miqueias/.gradle/caches/transforms-2/files-2.1/e997123954b34e6750e8287a3a7bbc65/OneSignal-3.10.5/AndroidManifest.xml:41:22-89
-uses-permission#com.huawei.android.launcher.permission.WRITE_SETTINGS
-ADDED from [com.onesignal:OneSignal:3.10.5] /home/miqueias/.gradle/caches/transforms-2/files-2.1/e997123954b34e6750e8287a3a7bbc65/OneSignal-3.10.5/AndroidManifest.xml:42:5-93
-	android:name
-		ADDED from [com.onesignal:OneSignal:3.10.5] /home/miqueias/.gradle/caches/transforms-2/files-2.1/e997123954b34e6750e8287a3a7bbc65/OneSignal-3.10.5/AndroidManifest.xml:42:22-90
-uses-permission#android.permission.READ_APP_BADGE
-ADDED from [com.onesignal:OneSignal:3.10.5] /home/miqueias/.gradle/caches/transforms-2/files-2.1/e997123954b34e6750e8287a3a7bbc65/OneSignal-3.10.5/AndroidManifest.xml:43:5-73
-	android:name
-		ADDED from [com.onesignal:OneSignal:3.10.5] /home/miqueias/.gradle/caches/transforms-2/files-2.1/e997123954b34e6750e8287a3a7bbc65/OneSignal-3.10.5/AndroidManifest.xml:43:22-70
-uses-permission#com.oppo.launcher.permission.READ_SETTINGS
-ADDED from [com.onesignal:OneSignal:3.10.5] /home/miqueias/.gradle/caches/transforms-2/files-2.1/e997123954b34e6750e8287a3a7bbc65/OneSignal-3.10.5/AndroidManifest.xml:44:5-82
-	android:name
-		ADDED from [com.onesignal:OneSignal:3.10.5] /home/miqueias/.gradle/caches/transforms-2/files-2.1/e997123954b34e6750e8287a3a7bbc65/OneSignal-3.10.5/AndroidManifest.xml:44:22-79
-uses-permission#com.oppo.launcher.permission.WRITE_SETTINGS
-ADDED from [com.onesignal:OneSignal:3.10.5] /home/miqueias/.gradle/caches/transforms-2/files-2.1/e997123954b34e6750e8287a3a7bbc65/OneSignal-3.10.5/AndroidManifest.xml:45:5-83
-	android:name
-		ADDED from [com.onesignal:OneSignal:3.10.5] /home/miqueias/.gradle/caches/transforms-2/files-2.1/e997123954b34e6750e8287a3a7bbc65/OneSignal-3.10.5/AndroidManifest.xml:45:22-80
-uses-permission#me.everything.badger.permission.BADGE_COUNT_READ
-ADDED from [com.onesignal:OneSignal:3.10.5] /home/miqueias/.gradle/caches/transforms-2/files-2.1/e997123954b34e6750e8287a3a7bbc65/OneSignal-3.10.5/AndroidManifest.xml:46:5-88
-	android:name
-		ADDED from [com.onesignal:OneSignal:3.10.5] /home/miqueias/.gradle/caches/transforms-2/files-2.1/e997123954b34e6750e8287a3a7bbc65/OneSignal-3.10.5/AndroidManifest.xml:46:22-85
-uses-permission#me.everything.badger.permission.BADGE_COUNT_WRITE
-ADDED from [com.onesignal:OneSignal:3.10.5] /home/miqueias/.gradle/caches/transforms-2/files-2.1/e997123954b34e6750e8287a3a7bbc65/OneSignal-3.10.5/AndroidManifest.xml:47:5-89
-	android:name
-		ADDED from [com.onesignal:OneSignal:3.10.5] /home/miqueias/.gradle/caches/transforms-2/files-2.1/e997123954b34e6750e8287a3a7bbc65/OneSignal-3.10.5/AndroidManifest.xml:47:22-86
-meta-data#onesignal_app_id
-ADDED from [com.onesignal:OneSignal:3.10.5] /home/miqueias/.gradle/caches/transforms-2/files-2.1/e997123954b34e6750e8287a3a7bbc65/OneSignal-3.10.5/AndroidManifest.xml:50:9-52:51
-	android:value
-		ADDED from [com.onesignal:OneSignal:3.10.5] /home/miqueias/.gradle/caches/transforms-2/files-2.1/e997123954b34e6750e8287a3a7bbc65/OneSignal-3.10.5/AndroidManifest.xml:52:13-48
-	android:name
-		ADDED from [com.onesignal:OneSignal:3.10.5] /home/miqueias/.gradle/caches/transforms-2/files-2.1/e997123954b34e6750e8287a3a7bbc65/OneSignal-3.10.5/AndroidManifest.xml:51:13-44
-meta-data#onesignal_google_project_number
-ADDED from [com.onesignal:OneSignal:3.10.5] /home/miqueias/.gradle/caches/transforms-2/files-2.1/e997123954b34e6750e8287a3a7bbc65/OneSignal-3.10.5/AndroidManifest.xml:54:9-56:70
-	android:value
-		ADDED from [com.onesignal:OneSignal:3.10.5] /home/miqueias/.gradle/caches/transforms-2/files-2.1/e997123954b34e6750e8287a3a7bbc65/OneSignal-3.10.5/AndroidManifest.xml:56:13-67
-	android:name
-		ADDED from [com.onesignal:OneSignal:3.10.5] /home/miqueias/.gradle/caches/transforms-2/files-2.1/e997123954b34e6750e8287a3a7bbc65/OneSignal-3.10.5/AndroidManifest.xml:55:13-59
-receiver#com.onesignal.GcmBroadcastReceiver
-ADDED from [com.onesignal:OneSignal:3.10.5] /home/miqueias/.gradle/caches/transforms-2/files-2.1/e997123954b34e6750e8287a3a7bbc65/OneSignal-3.10.5/AndroidManifest.xml:58:9-68:20
-	android:permission
-		ADDED from [com.onesignal:OneSignal:3.10.5] /home/miqueias/.gradle/caches/transforms-2/files-2.1/e997123954b34e6750e8287a3a7bbc65/OneSignal-3.10.5/AndroidManifest.xml:60:13-73
-	android:name
-		ADDED from [com.onesignal:OneSignal:3.10.5] /home/miqueias/.gradle/caches/transforms-2/files-2.1/e997123954b34e6750e8287a3a7bbc65/OneSignal-3.10.5/AndroidManifest.xml:59:13-62
-intent-filter#action:name:com.google.android.c2dm.intent.RECEIVE+category:name:${applicationId}
-ADDED from [com.onesignal:OneSignal:3.10.5] /home/miqueias/.gradle/caches/transforms-2/files-2.1/e997123954b34e6750e8287a3a7bbc65/OneSignal-3.10.5/AndroidManifest.xml:63:13-67:29
-	android:priority
-		ADDED from [com.onesignal:OneSignal:3.10.5] /home/miqueias/.gradle/caches/transforms-2/files-2.1/e997123954b34e6750e8287a3a7bbc65/OneSignal-3.10.5/AndroidManifest.xml:63:28-50
-intent-filter#action:name:com.google.android.c2dm.intent.RECEIVE+category:name:br.com.innovatesof.quizbiblico
-ADDED from [com.onesignal:OneSignal:3.10.5] /home/miqueias/.gradle/caches/transforms-2/files-2.1/e997123954b34e6750e8287a3a7bbc65/OneSignal-3.10.5/AndroidManifest.xml:63:13-67:29
-	android:priority
-		ADDED from [com.onesignal:OneSignal:3.10.5] /home/miqueias/.gradle/caches/transforms-2/files-2.1/e997123954b34e6750e8287a3a7bbc65/OneSignal-3.10.5/AndroidManifest.xml:63:28-50
-action#com.google.android.c2dm.intent.RECEIVE
-ADDED from [com.onesignal:OneSignal:3.10.5] /home/miqueias/.gradle/caches/transforms-2/files-2.1/e997123954b34e6750e8287a3a7bbc65/OneSignal-3.10.5/AndroidManifest.xml:64:17-81
-	android:name
-		ADDED from [com.onesignal:OneSignal:3.10.5] /home/miqueias/.gradle/caches/transforms-2/files-2.1/e997123954b34e6750e8287a3a7bbc65/OneSignal-3.10.5/AndroidManifest.xml:64:25-78
-category#${applicationId}
-ADDED from [com.onesignal:OneSignal:3.10.5] /home/miqueias/.gradle/caches/transforms-2/files-2.1/e997123954b34e6750e8287a3a7bbc65/OneSignal-3.10.5/AndroidManifest.xml:66:17-61
-	android:name
-		ADDED from [com.onesignal:OneSignal:3.10.5] /home/miqueias/.gradle/caches/transforms-2/files-2.1/e997123954b34e6750e8287a3a7bbc65/OneSignal-3.10.5/AndroidManifest.xml:66:27-58
-receiver#com.onesignal.NotificationOpenedReceiver
-ADDED from [com.onesignal:OneSignal:3.10.5] /home/miqueias/.gradle/caches/transforms-2/files-2.1/e997123954b34e6750e8287a3a7bbc65/OneSignal-3.10.5/AndroidManifest.xml:69:9-77
-	android:name
-		ADDED from [com.onesignal:OneSignal:3.10.5] /home/miqueias/.gradle/caches/transforms-2/files-2.1/e997123954b34e6750e8287a3a7bbc65/OneSignal-3.10.5/AndroidManifest.xml:69:19-74
-service#com.onesignal.GcmIntentService
-ADDED from [com.onesignal:OneSignal:3.10.5] /home/miqueias/.gradle/caches/transforms-2/files-2.1/e997123954b34e6750e8287a3a7bbc65/OneSignal-3.10.5/AndroidManifest.xml:71:9-66
-	android:name
-		ADDED from [com.onesignal:OneSignal:3.10.5] /home/miqueias/.gradle/caches/transforms-2/files-2.1/e997123954b34e6750e8287a3a7bbc65/OneSignal-3.10.5/AndroidManifest.xml:71:18-63
-service#com.onesignal.GcmIntentJobService
-ADDED from [com.onesignal:OneSignal:3.10.5] /home/miqueias/.gradle/caches/transforms-2/files-2.1/e997123954b34e6750e8287a3a7bbc65/OneSignal-3.10.5/AndroidManifest.xml:72:9-74:72
-	android:permission
-		ADDED from [com.onesignal:OneSignal:3.10.5] /home/miqueias/.gradle/caches/transforms-2/files-2.1/e997123954b34e6750e8287a3a7bbc65/OneSignal-3.10.5/AndroidManifest.xml:74:13-69
-	android:name
-		ADDED from [com.onesignal:OneSignal:3.10.5] /home/miqueias/.gradle/caches/transforms-2/files-2.1/e997123954b34e6750e8287a3a7bbc65/OneSignal-3.10.5/AndroidManifest.xml:73:13-61
-service#com.onesignal.RestoreJobService
-ADDED from [com.onesignal:OneSignal:3.10.5] /home/miqueias/.gradle/caches/transforms-2/files-2.1/e997123954b34e6750e8287a3a7bbc65/OneSignal-3.10.5/AndroidManifest.xml:75:9-77:72
-	android:permission
-		ADDED from [com.onesignal:OneSignal:3.10.5] /home/miqueias/.gradle/caches/transforms-2/files-2.1/e997123954b34e6750e8287a3a7bbc65/OneSignal-3.10.5/AndroidManifest.xml:77:13-69
-	android:name
-		ADDED from [com.onesignal:OneSignal:3.10.5] /home/miqueias/.gradle/caches/transforms-2/files-2.1/e997123954b34e6750e8287a3a7bbc65/OneSignal-3.10.5/AndroidManifest.xml:76:13-59
-service#com.onesignal.RestoreKickoffJobService
-ADDED from [com.onesignal:OneSignal:3.10.5] /home/miqueias/.gradle/caches/transforms-2/files-2.1/e997123954b34e6750e8287a3a7bbc65/OneSignal-3.10.5/AndroidManifest.xml:78:9-80:72
-	android:permission
-		ADDED from [com.onesignal:OneSignal:3.10.5] /home/miqueias/.gradle/caches/transforms-2/files-2.1/e997123954b34e6750e8287a3a7bbc65/OneSignal-3.10.5/AndroidManifest.xml:80:13-69
-	android:name
-		ADDED from [com.onesignal:OneSignal:3.10.5] /home/miqueias/.gradle/caches/transforms-2/files-2.1/e997123954b34e6750e8287a3a7bbc65/OneSignal-3.10.5/AndroidManifest.xml:79:13-66
-service#com.onesignal.SyncService
-ADDED from [com.onesignal:OneSignal:3.10.5] /home/miqueias/.gradle/caches/transforms-2/files-2.1/e997123954b34e6750e8287a3a7bbc65/OneSignal-3.10.5/AndroidManifest.xml:81:9-83:43
-	android:stopWithTask
-		ADDED from [com.onesignal:OneSignal:3.10.5] /home/miqueias/.gradle/caches/transforms-2/files-2.1/e997123954b34e6750e8287a3a7bbc65/OneSignal-3.10.5/AndroidManifest.xml:83:13-40
-	android:name
-		ADDED from [com.onesignal:OneSignal:3.10.5] /home/miqueias/.gradle/caches/transforms-2/files-2.1/e997123954b34e6750e8287a3a7bbc65/OneSignal-3.10.5/AndroidManifest.xml:82:13-53
-service#com.onesignal.SyncJobService
-ADDED from [com.onesignal:OneSignal:3.10.5] /home/miqueias/.gradle/caches/transforms-2/files-2.1/e997123954b34e6750e8287a3a7bbc65/OneSignal-3.10.5/AndroidManifest.xml:84:9-86:72
-	android:permission
-		ADDED from [com.onesignal:OneSignal:3.10.5] /home/miqueias/.gradle/caches/transforms-2/files-2.1/e997123954b34e6750e8287a3a7bbc65/OneSignal-3.10.5/AndroidManifest.xml:86:13-69
-	android:name
-		ADDED from [com.onesignal:OneSignal:3.10.5] /home/miqueias/.gradle/caches/transforms-2/files-2.1/e997123954b34e6750e8287a3a7bbc65/OneSignal-3.10.5/AndroidManifest.xml:85:13-56
-activity#com.onesignal.PermissionsActivity
-ADDED from [com.onesignal:OneSignal:3.10.5] /home/miqueias/.gradle/caches/transforms-2/files-2.1/e997123954b34e6750e8287a3a7bbc65/OneSignal-3.10.5/AndroidManifest.xml:88:9-90:75
-	android:theme
-		ADDED from [com.onesignal:OneSignal:3.10.5] /home/miqueias/.gradle/caches/transforms-2/files-2.1/e997123954b34e6750e8287a3a7bbc65/OneSignal-3.10.5/AndroidManifest.xml:90:13-72
-	android:name
-		ADDED from [com.onesignal:OneSignal:3.10.5] /home/miqueias/.gradle/caches/transforms-2/files-2.1/e997123954b34e6750e8287a3a7bbc65/OneSignal-3.10.5/AndroidManifest.xml:89:13-61
-service#com.onesignal.NotificationRestoreService
-ADDED from [com.onesignal:OneSignal:3.10.5] /home/miqueias/.gradle/caches/transforms-2/files-2.1/e997123954b34e6750e8287a3a7bbc65/OneSignal-3.10.5/AndroidManifest.xml:92:9-76
-	android:name
-		ADDED from [com.onesignal:OneSignal:3.10.5] /home/miqueias/.gradle/caches/transforms-2/files-2.1/e997123954b34e6750e8287a3a7bbc65/OneSignal-3.10.5/AndroidManifest.xml:92:18-73
-receiver#com.onesignal.BootUpReceiver
-ADDED from [com.onesignal:OneSignal:3.10.5] /home/miqueias/.gradle/caches/transforms-2/files-2.1/e997123954b34e6750e8287a3a7bbc65/OneSignal-3.10.5/AndroidManifest.xml:94:9-99:20
-	android:name
-		ADDED from [com.onesignal:OneSignal:3.10.5] /home/miqueias/.gradle/caches/transforms-2/files-2.1/e997123954b34e6750e8287a3a7bbc65/OneSignal-3.10.5/AndroidManifest.xml:94:19-62
-intent-filter#action:name:android.intent.action.BOOT_COMPLETED+action:name:android.intent.action.QUICKBOOT_POWERON
-ADDED from [com.onesignal:OneSignal:3.10.5] /home/miqueias/.gradle/caches/transforms-2/files-2.1/e997123954b34e6750e8287a3a7bbc65/OneSignal-3.10.5/AndroidManifest.xml:95:13-98:29
-action#android.intent.action.BOOT_COMPLETED
-ADDED from [com.onesignal:OneSignal:3.10.5] /home/miqueias/.gradle/caches/transforms-2/files-2.1/e997123954b34e6750e8287a3a7bbc65/OneSignal-3.10.5/AndroidManifest.xml:96:17-79
-	android:name
-		ADDED from [com.onesignal:OneSignal:3.10.5] /home/miqueias/.gradle/caches/transforms-2/files-2.1/e997123954b34e6750e8287a3a7bbc65/OneSignal-3.10.5/AndroidManifest.xml:96:25-76
-action#android.intent.action.QUICKBOOT_POWERON
-ADDED from [com.onesignal:OneSignal:3.10.5] /home/miqueias/.gradle/caches/transforms-2/files-2.1/e997123954b34e6750e8287a3a7bbc65/OneSignal-3.10.5/AndroidManifest.xml:97:17-82
-	android:name
-		ADDED from [com.onesignal:OneSignal:3.10.5] /home/miqueias/.gradle/caches/transforms-2/files-2.1/e997123954b34e6750e8287a3a7bbc65/OneSignal-3.10.5/AndroidManifest.xml:97:25-79
-receiver#com.onesignal.UpgradeReceiver
-ADDED from [com.onesignal:OneSignal:3.10.5] /home/miqueias/.gradle/caches/transforms-2/files-2.1/e997123954b34e6750e8287a3a7bbc65/OneSignal-3.10.5/AndroidManifest.xml:100:9-104:20
-	android:name
-		ADDED from [com.onesignal:OneSignal:3.10.5] /home/miqueias/.gradle/caches/transforms-2/files-2.1/e997123954b34e6750e8287a3a7bbc65/OneSignal-3.10.5/AndroidManifest.xml:100:19-63
-intent-filter#action:name:android.intent.action.MY_PACKAGE_REPLACED
-ADDED from [com.onesignal:OneSignal:3.10.5] /home/miqueias/.gradle/caches/transforms-2/files-2.1/e997123954b34e6750e8287a3a7bbc65/OneSignal-3.10.5/AndroidManifest.xml:101:13-103:29
-action#android.intent.action.MY_PACKAGE_REPLACED
-ADDED from [com.onesignal:OneSignal:3.10.5] /home/miqueias/.gradle/caches/transforms-2/files-2.1/e997123954b34e6750e8287a3a7bbc65/OneSignal-3.10.5/AndroidManifest.xml:102:17-84
-	android:name
-		ADDED from [com.onesignal:OneSignal:3.10.5] /home/miqueias/.gradle/caches/transforms-2/files-2.1/e997123954b34e6750e8287a3a7bbc65/OneSignal-3.10.5/AndroidManifest.xml:102:25-81
-activity#com.google.android.gms.common.api.GoogleApiActivity
-ADDED from [com.google.android.gms:play-services-base:11.0.4] /home/miqueias/.gradle/caches/transforms-2/files-2.1/6190186c58d59886499335c11ecffecf/play-services-base-11.0.4/AndroidManifest.xml:19:9-172
-	android:exported
-		ADDED from [com.google.android.gms:play-services-base:11.0.4] /home/miqueias/.gradle/caches/transforms-2/files-2.1/6190186c58d59886499335c11ecffecf/play-services-base-11.0.4/AndroidManifest.xml:19:146-170
-	android:theme
-		ADDED from [com.google.android.gms:play-services-base:11.0.4] /home/miqueias/.gradle/caches/transforms-2/files-2.1/6190186c58d59886499335c11ecffecf/play-services-base-11.0.4/AndroidManifest.xml:19:86-145
-	android:name
-		ADDED from [com.google.android.gms:play-services-base:11.0.4] /home/miqueias/.gradle/caches/transforms-2/files-2.1/6190186c58d59886499335c11ecffecf/play-services-base-11.0.4/AndroidManifest.xml:19:19-85
+uses-sdk
+INJECTED from /var/www/app/android/quizbiblico/platforms/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /var/www/app/android/quizbiblico/platforms/android/app/src/main/AndroidManifest.xml
+INJECTED from /var/www/app/android/quizbiblico/platforms/android/app/src/main/AndroidManifest.xml
+MERGED from [:CordovaLib] /var/www/app/android/quizbiblico/platforms/android/CordovaLib/build/intermediates/library_manifest/debug/AndroidManifest.xml:25:5-43
+MERGED from [:CordovaLib] /var/www/app/android/quizbiblico/platforms/android/CordovaLib/build/intermediates/library_manifest/debug/AndroidManifest.xml:25:5-43
+MERGED from [com.google.android.gms:play-services-ads:11.0.4] /home/miqueias/.gradle/caches/transforms-2/files-2.1/338e0e4e7f4755b45a34ac7f5c74c44a/play-services-ads-11.0.4/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-ads:11.0.4] /home/miqueias/.gradle/caches/transforms-2/files-2.1/338e0e4e7f4755b45a34ac7f5c74c44a/play-services-ads-11.0.4/AndroidManifest.xml:17:5-43
+MERGED from [com.onesignal:OneSignal:3.10.5] /home/miqueias/.gradle/caches/transforms-2/files-2.1/30baf4a912c5fa785338ce2725f0e55e/OneSignal-3.10.5/AndroidManifest.xml:5:5-44
+MERGED from [com.onesignal:OneSignal:3.10.5] /home/miqueias/.gradle/caches/transforms-2/files-2.1/30baf4a912c5fa785338ce2725f0e55e/OneSignal-3.10.5/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-clearcut:11.0.4] /home/miqueias/.gradle/caches/transforms-2/files-2.1/4c9dc0781c05e0a65b965e7872b8ffbe/play-services-clearcut-11.0.4/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-clearcut:11.0.4] /home/miqueias/.gradle/caches/transforms-2/files-2.1/4c9dc0781c05e0a65b965e7872b8ffbe/play-services-clearcut-11.0.4/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-safetynet:11.0.4] /home/miqueias/.gradle/caches/transforms-2/files-2.1/80c65b60cb02e522bf3633013f2742e3/play-services-safetynet-11.0.4/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-safetynet:11.0.4] /home/miqueias/.gradle/caches/transforms-2/files-2.1/80c65b60cb02e522bf3633013f2742e3/play-services-safetynet-11.0.4/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-location:11.0.4] /home/miqueias/.gradle/caches/transforms-2/files-2.1/23cb4e01b0177bee3e26e72b4801f235/play-services-location-11.0.4/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-location:11.0.4] /home/miqueias/.gradle/caches/transforms-2/files-2.1/23cb4e01b0177bee3e26e72b4801f235/play-services-location-11.0.4/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-base:11.0.4] /home/miqueias/.gradle/caches/transforms-2/files-2.1/b22be4d14f5854987b736d0ff605eabd/play-services-base-11.0.4/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-base:11.0.4] /home/miqueias/.gradle/caches/transforms-2/files-2.1/b22be4d14f5854987b736d0ff605eabd/play-services-base-11.0.4/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-messaging:11.0.4] /home/miqueias/.gradle/caches/transforms-2/files-2.1/bc098fe9c72a0e268c21c899057a317a/firebase-messaging-11.0.4/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-messaging:11.0.4] /home/miqueias/.gradle/caches/transforms-2/files-2.1/bc098fe9c72a0e268c21c899057a317a/firebase-messaging-11.0.4/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-iid:11.0.4] /home/miqueias/.gradle/caches/transforms-2/files-2.1/1d8c6735365941dce0544e80145dda02/firebase-iid-11.0.4/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-iid:11.0.4] /home/miqueias/.gradle/caches/transforms-2/files-2.1/1d8c6735365941dce0544e80145dda02/firebase-iid-11.0.4/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-common:11.0.4] /home/miqueias/.gradle/caches/transforms-2/files-2.1/17a6af3a16b000a8806e2ef35b661818/firebase-common-11.0.4/AndroidManifest.xml:3:5-43
+MERGED from [com.google.firebase:firebase-common:11.0.4] /home/miqueias/.gradle/caches/transforms-2/files-2.1/17a6af3a16b000a8806e2ef35b661818/firebase-common-11.0.4/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-tasks:11.0.4] /home/miqueias/.gradle/caches/transforms-2/files-2.1/9e775cf1f47a391c854e1477740b910a/play-services-tasks-11.0.4/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-tasks:11.0.4] /home/miqueias/.gradle/caches/transforms-2/files-2.1/9e775cf1f47a391c854e1477740b910a/play-services-tasks-11.0.4/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-ads-lite:11.0.4] /home/miqueias/.gradle/caches/transforms-2/files-2.1/21b8d91983c9ec9d7b5722baf8ae112f/play-services-ads-lite-11.0.4/AndroidManifest.xml:22:5-43
+MERGED from [com.google.android.gms:play-services-ads-lite:11.0.4] /home/miqueias/.gradle/caches/transforms-2/files-2.1/21b8d91983c9ec9d7b5722baf8ae112f/play-services-ads-lite-11.0.4/AndroidManifest.xml:22:5-43
+MERGED from [com.google.android.gms:play-services-gass:11.0.4] /home/miqueias/.gradle/caches/transforms-2/files-2.1/e58930dae46a93dd7a5117d2cca7b89e/play-services-gass-11.0.4/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-gass:11.0.4] /home/miqueias/.gradle/caches/transforms-2/files-2.1/e58930dae46a93dd7a5117d2cca7b89e/play-services-gass-11.0.4/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-basement:11.0.4] /home/miqueias/.gradle/caches/transforms-2/files-2.1/71f004e41b64fcc49fa4c5a256772ab8/play-services-basement-11.0.4/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-basement:11.0.4] /home/miqueias/.gradle/caches/transforms-2/files-2.1/71f004e41b64fcc49fa4c5a256772ab8/play-services-basement-11.0.4/AndroidManifest.xml:17:5-43
+MERGED from [com.android.support:support-v4:27.1.1] /home/miqueias/.gradle/caches/transforms-2/files-2.1/00020ede939b7e89eba83bb116e7b4e7/support-v4-27.1.1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] /home/miqueias/.gradle/caches/transforms-2/files-2.1/00020ede939b7e89eba83bb116e7b4e7/support-v4-27.1.1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customtabs:27.1.1] /home/miqueias/.gradle/caches/transforms-2/files-2.1/ac93924b0caf08043c600eb2de79a75e/customtabs-27.1.1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customtabs:27.1.1] /home/miqueias/.gradle/caches/transforms-2/files-2.1/ac93924b0caf08043c600eb2de79a75e/customtabs-27.1.1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] /home/miqueias/.gradle/caches/transforms-2/files-2.1/2fa52196cbd1ee8b935a5b336d66eb62/support-media-compat-27.1.1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] /home/miqueias/.gradle/caches/transforms-2/files-2.1/2fa52196cbd1ee8b935a5b336d66eb62/support-media-compat-27.1.1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /home/miqueias/.gradle/caches/transforms-2/files-2.1/5e7c654db875661b56e04477386d9e0c/support-fragment-27.1.1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /home/miqueias/.gradle/caches/transforms-2/files-2.1/5e7c654db875661b56e04477386d9e0c/support-fragment-27.1.1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /home/miqueias/.gradle/caches/transforms-2/files-2.1/e5256074088f33ae6abcf502630c0cc6/support-core-ui-27.1.1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /home/miqueias/.gradle/caches/transforms-2/files-2.1/e5256074088f33ae6abcf502630c0cc6/support-core-ui-27.1.1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /home/miqueias/.gradle/caches/transforms-2/files-2.1/70dcc177c7847c05596192ee32f74766/support-core-utils-27.1.1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /home/miqueias/.gradle/caches/transforms-2/files-2.1/70dcc177c7847c05596192ee32f74766/support-core-utils-27.1.1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /home/miqueias/.gradle/caches/transforms-2/files-2.1/442c10f2caabfe74085c7c306694e15c/support-compat-27.1.1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /home/miqueias/.gradle/caches/transforms-2/files-2.1/442c10f2caabfe74085c7c306694e15c/support-compat-27.1.1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /home/miqueias/.gradle/caches/transforms-2/files-2.1/c6266fbff592b9e85dd2d17a02da0f9c/runtime-1.1.0/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /home/miqueias/.gradle/caches/transforms-2/files-2.1/c6266fbff592b9e85dd2d17a02da0f9c/runtime-1.1.0/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /home/miqueias/.gradle/caches/transforms-2/files-2.1/7842aaba7cd2588eb96c3ec0b932ae34/livedata-core-1.1.0/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /home/miqueias/.gradle/caches/transforms-2/files-2.1/7842aaba7cd2588eb96c3ec0b932ae34/livedata-core-1.1.0/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /home/miqueias/.gradle/caches/transforms-2/files-2.1/358a94b9e0d2d25e785efb9f0742068b/viewmodel-1.1.0/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /home/miqueias/.gradle/caches/transforms-2/files-2.1/358a94b9e0d2d25e785efb9f0742068b/viewmodel-1.1.0/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /home/miqueias/.gradle/caches/transforms-2/files-2.1/2e4e45f7fce4f74671317e601d26b0aa/runtime-1.1.0/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /home/miqueias/.gradle/caches/transforms-2/files-2.1/2e4e45f7fce4f74671317e601d26b0aa/runtime-1.1.0/AndroidManifest.xml:20:5-44
+INJECTED from /var/www/app/android/quizbiblico/platforms/android/app/src/main/AndroidManifest.xml
+INJECTED from /var/www/app/android/quizbiblico/platforms/android/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /var/www/app/android/quizbiblico/platforms/android/app/src/main/AndroidManifest.xml
+		ADDED from /var/www/app/android/quizbiblico/platforms/android/app/src/main/AndroidManifest.xml
+		INJECTED from /var/www/app/android/quizbiblico/platforms/android/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /var/www/app/android/quizbiblico/platforms/android/app/src/main/AndroidManifest.xml
+		ADDED from /var/www/app/android/quizbiblico/platforms/android/app/src/main/AndroidManifest.xml
+		INJECTED from /var/www/app/android/quizbiblico/platforms/android/app/src/main/AndroidManifest.xml
 uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
 IMPLIED from /var/www/app/android/quizbiblico/platforms/android/app/src/main/AndroidManifest.xml:2:1-29:12 reason: org.apache.cordova has a targetSdkVersion < 4
 uses-permission#android.permission.READ_PHONE_STATE
 IMPLIED from /var/www/app/android/quizbiblico/platforms/android/app/src/main/AndroidManifest.xml:2:1-29:12 reason: org.apache.cordova has a targetSdkVersion < 4
 uses-permission#android.permission.READ_EXTERNAL_STORAGE
 IMPLIED from /var/www/app/android/quizbiblico/platforms/android/app/src/main/AndroidManifest.xml:2:1-29:12 reason: org.apache.cordova requested WRITE_EXTERNAL_STORAGE
-service#com.google.firebase.messaging.FirebaseMessagingService
-ADDED from [com.google.firebase:firebase-messaging:11.0.4] /home/miqueias/.gradle/caches/transforms-2/files-2.1/0c637fb11b452c4972efcab7856c82cd/firebase-messaging-11.0.4/AndroidManifest.xml:23:9-27:19
-	android:exported
-		ADDED from [com.google.firebase:firebase-messaging:11.0.4] /home/miqueias/.gradle/caches/transforms-2/files-2.1/0c637fb11b452c4972efcab7856c82cd/firebase-messaging-11.0.4/AndroidManifest.xml:23:88-111
+permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.onesignal:OneSignal:3.10.5] /home/miqueias/.gradle/caches/transforms-2/files-2.1/30baf4a912c5fa785338ce2725f0e55e/OneSignal-3.10.5/AndroidManifest.xml:8:5-10:47
+MERGED from [com.google.firebase:firebase-iid:11.0.4] /home/miqueias/.gradle/caches/transforms-2/files-2.1/1d8c6735365941dce0544e80145dda02/firebase-iid-11.0.4/AndroidManifest.xml:24:5-109
+MERGED from [com.google.firebase:firebase-iid:11.0.4] /home/miqueias/.gradle/caches/transforms-2/files-2.1/1d8c6735365941dce0544e80145dda02/firebase-iid-11.0.4/AndroidManifest.xml:24:5-109
+	android:protectionLevel
+		ADDED from [com.onesignal:OneSignal:3.10.5] /home/miqueias/.gradle/caches/transforms-2/files-2.1/30baf4a912c5fa785338ce2725f0e55e/OneSignal-3.10.5/AndroidManifest.xml:10:9-44
 	android:name
-		ADDED from [com.google.firebase:firebase-messaging:11.0.4] /home/miqueias/.gradle/caches/transforms-2/files-2.1/0c637fb11b452c4972efcab7856c82cd/firebase-messaging-11.0.4/AndroidManifest.xml:23:18-87
-intent-filter#action:name:com.google.firebase.MESSAGING_EVENT
-ADDED from [com.google.firebase:firebase-messaging:11.0.4] /home/miqueias/.gradle/caches/transforms-2/files-2.1/0c637fb11b452c4972efcab7856c82cd/firebase-messaging-11.0.4/AndroidManifest.xml:24:13-26:29
-	android:priority
-		ADDED from [com.google.firebase:firebase-messaging:11.0.4] /home/miqueias/.gradle/caches/transforms-2/files-2.1/0c637fb11b452c4972efcab7856c82cd/firebase-messaging-11.0.4/AndroidManifest.xml:24:28-51
-action#com.google.firebase.MESSAGING_EVENT
-ADDED from [com.google.firebase:firebase-messaging:11.0.4] /home/miqueias/.gradle/caches/transforms-2/files-2.1/0c637fb11b452c4972efcab7856c82cd/firebase-messaging-11.0.4/AndroidManifest.xml:25:17-77
+		ADDED from [com.onesignal:OneSignal:3.10.5] /home/miqueias/.gradle/caches/transforms-2/files-2.1/30baf4a912c5fa785338ce2725f0e55e/OneSignal-3.10.5/AndroidManifest.xml:9:9-63
+permission#br.com.innovatesof.quizbiblico.permission.C2D_MESSAGE
+ADDED from [com.onesignal:OneSignal:3.10.5] /home/miqueias/.gradle/caches/transforms-2/files-2.1/30baf4a912c5fa785338ce2725f0e55e/OneSignal-3.10.5/AndroidManifest.xml:8:5-10:47
+MERGED from [com.google.firebase:firebase-iid:11.0.4] /home/miqueias/.gradle/caches/transforms-2/files-2.1/1d8c6735365941dce0544e80145dda02/firebase-iid-11.0.4/AndroidManifest.xml:24:5-109
+MERGED from [com.google.firebase:firebase-iid:11.0.4] /home/miqueias/.gradle/caches/transforms-2/files-2.1/1d8c6735365941dce0544e80145dda02/firebase-iid-11.0.4/AndroidManifest.xml:24:5-109
+	android:protectionLevel
+		ADDED from [com.onesignal:OneSignal:3.10.5] /home/miqueias/.gradle/caches/transforms-2/files-2.1/30baf4a912c5fa785338ce2725f0e55e/OneSignal-3.10.5/AndroidManifest.xml:10:9-44
 	android:name
-		ADDED from [com.google.firebase:firebase-messaging:11.0.4] /home/miqueias/.gradle/caches/transforms-2/files-2.1/0c637fb11b452c4972efcab7856c82cd/firebase-messaging-11.0.4/AndroidManifest.xml:25:25-75
-receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
-ADDED from [com.google.firebase:firebase-iid:11.0.4] /home/miqueias/.gradle/caches/transforms-2/files-2.1/85f297de3449739baf9588898b2546e8/firebase-iid-11.0.4/AndroidManifest.xml:30:9-35:20
-	android:exported
-		ADDED from [com.google.firebase:firebase-iid:11.0.4] /home/miqueias/.gradle/caches/transforms-2/files-2.1/85f297de3449739baf9588898b2546e8/firebase-iid-11.0.4/AndroidManifest.xml:30:85-108
-	android:permission
-		ADDED from [com.google.firebase:firebase-iid:11.0.4] /home/miqueias/.gradle/caches/transforms-2/files-2.1/85f297de3449739baf9588898b2546e8/firebase-iid-11.0.4/AndroidManifest.xml:30:109-169
+		ADDED from [com.onesignal:OneSignal:3.10.5] /home/miqueias/.gradle/caches/transforms-2/files-2.1/30baf4a912c5fa785338ce2725f0e55e/OneSignal-3.10.5/AndroidManifest.xml:9:9-63
+uses-permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.onesignal:OneSignal:3.10.5] /home/miqueias/.gradle/caches/transforms-2/files-2.1/30baf4a912c5fa785338ce2725f0e55e/OneSignal-3.10.5/AndroidManifest.xml:12:5-79
+MERGED from [com.google.firebase:firebase-iid:11.0.4] /home/miqueias/.gradle/caches/transforms-2/files-2.1/1d8c6735365941dce0544e80145dda02/firebase-iid-11.0.4/AndroidManifest.xml:26:5-78
+MERGED from [com.google.firebase:firebase-iid:11.0.4] /home/miqueias/.gradle/caches/transforms-2/files-2.1/1d8c6735365941dce0544e80145dda02/firebase-iid-11.0.4/AndroidManifest.xml:26:5-78
 	android:name
-		ADDED from [com.google.firebase:firebase-iid:11.0.4] /home/miqueias/.gradle/caches/transforms-2/files-2.1/85f297de3449739baf9588898b2546e8/firebase-iid-11.0.4/AndroidManifest.xml:30:19-84
-receiver#com.google.firebase.iid.FirebaseInstanceIdInternalReceiver
-ADDED from [com.google.firebase:firebase-iid:11.0.4] /home/miqueias/.gradle/caches/transforms-2/files-2.1/85f297de3449739baf9588898b2546e8/firebase-iid-11.0.4/AndroidManifest.xml:39:9-119
-	android:exported
-		ADDED from [com.google.firebase:firebase-iid:11.0.4] /home/miqueias/.gradle/caches/transforms-2/files-2.1/85f297de3449739baf9588898b2546e8/firebase-iid-11.0.4/AndroidManifest.xml:39:93-117
+		ADDED from [com.onesignal:OneSignal:3.10.5] /home/miqueias/.gradle/caches/transforms-2/files-2.1/30baf4a912c5fa785338ce2725f0e55e/OneSignal-3.10.5/AndroidManifest.xml:12:22-76
+uses-permission#br.com.innovatesof.quizbiblico.permission.C2D_MESSAGE
+ADDED from [com.onesignal:OneSignal:3.10.5] /home/miqueias/.gradle/caches/transforms-2/files-2.1/30baf4a912c5fa785338ce2725f0e55e/OneSignal-3.10.5/AndroidManifest.xml:12:5-79
+MERGED from [com.google.firebase:firebase-iid:11.0.4] /home/miqueias/.gradle/caches/transforms-2/files-2.1/1d8c6735365941dce0544e80145dda02/firebase-iid-11.0.4/AndroidManifest.xml:26:5-78
+MERGED from [com.google.firebase:firebase-iid:11.0.4] /home/miqueias/.gradle/caches/transforms-2/files-2.1/1d8c6735365941dce0544e80145dda02/firebase-iid-11.0.4/AndroidManifest.xml:26:5-78
 	android:name
-		ADDED from [com.google.firebase:firebase-iid:11.0.4] /home/miqueias/.gradle/caches/transforms-2/files-2.1/85f297de3449739baf9588898b2546e8/firebase-iid-11.0.4/AndroidManifest.xml:39:19-92
-service#com.google.firebase.iid.FirebaseInstanceIdService
-ADDED from [com.google.firebase:firebase-iid:11.0.4] /home/miqueias/.gradle/caches/transforms-2/files-2.1/85f297de3449739baf9588898b2546e8/firebase-iid-11.0.4/AndroidManifest.xml:43:9-47:19
-	android:exported
-		ADDED from [com.google.firebase:firebase-iid:11.0.4] /home/miqueias/.gradle/caches/transforms-2/files-2.1/85f297de3449739baf9588898b2546e8/firebase-iid-11.0.4/AndroidManifest.xml:43:83-106
+		ADDED from [com.onesignal:OneSignal:3.10.5] /home/miqueias/.gradle/caches/transforms-2/files-2.1/30baf4a912c5fa785338ce2725f0e55e/OneSignal-3.10.5/AndroidManifest.xml:12:22-76
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.onesignal:OneSignal:3.10.5] /home/miqueias/.gradle/caches/transforms-2/files-2.1/30baf4a912c5fa785338ce2725f0e55e/OneSignal-3.10.5/AndroidManifest.xml:18:5-82
+MERGED from [com.google.firebase:firebase-iid:11.0.4] /home/miqueias/.gradle/caches/transforms-2/files-2.1/1d8c6735365941dce0544e80145dda02/firebase-iid-11.0.4/AndroidManifest.xml:22:5-81
+MERGED from [com.google.firebase:firebase-iid:11.0.4] /home/miqueias/.gradle/caches/transforms-2/files-2.1/1d8c6735365941dce0544e80145dda02/firebase-iid-11.0.4/AndroidManifest.xml:22:5-81
 	android:name
-		ADDED from [com.google.firebase:firebase-iid:11.0.4] /home/miqueias/.gradle/caches/transforms-2/files-2.1/85f297de3449739baf9588898b2546e8/firebase-iid-11.0.4/AndroidManifest.xml:43:18-82
-intent-filter#action:name:com.google.firebase.INSTANCE_ID_EVENT
-ADDED from [com.google.firebase:firebase-iid:11.0.4] /home/miqueias/.gradle/caches/transforms-2/files-2.1/85f297de3449739baf9588898b2546e8/firebase-iid-11.0.4/AndroidManifest.xml:44:13-46:29
-	android:priority
-		ADDED from [com.google.firebase:firebase-iid:11.0.4] /home/miqueias/.gradle/caches/transforms-2/files-2.1/85f297de3449739baf9588898b2546e8/firebase-iid-11.0.4/AndroidManifest.xml:44:28-51
-action#com.google.firebase.INSTANCE_ID_EVENT
-ADDED from [com.google.firebase:firebase-iid:11.0.4] /home/miqueias/.gradle/caches/transforms-2/files-2.1/85f297de3449739baf9588898b2546e8/firebase-iid-11.0.4/AndroidManifest.xml:45:17-79
+		ADDED from [com.onesignal:OneSignal:3.10.5] /home/miqueias/.gradle/caches/transforms-2/files-2.1/30baf4a912c5fa785338ce2725f0e55e/OneSignal-3.10.5/AndroidManifest.xml:18:22-79
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [com.onesignal:OneSignal:3.10.5] /home/miqueias/.gradle/caches/transforms-2/files-2.1/30baf4a912c5fa785338ce2725f0e55e/OneSignal-3.10.5/AndroidManifest.xml:19:5-68
+MERGED from [com.google.firebase:firebase-iid:11.0.4] /home/miqueias/.gradle/caches/transforms-2/files-2.1/1d8c6735365941dce0544e80145dda02/firebase-iid-11.0.4/AndroidManifest.xml:21:5-67
+MERGED from [com.google.firebase:firebase-iid:11.0.4] /home/miqueias/.gradle/caches/transforms-2/files-2.1/1d8c6735365941dce0544e80145dda02/firebase-iid-11.0.4/AndroidManifest.xml:21:5-67
 	android:name
-		ADDED from [com.google.firebase:firebase-iid:11.0.4] /home/miqueias/.gradle/caches/transforms-2/files-2.1/85f297de3449739baf9588898b2546e8/firebase-iid-11.0.4/AndroidManifest.xml:45:25-77
-provider#com.google.firebase.provider.FirebaseInitProvider
-ADDED from [com.google.firebase:firebase-common:11.0.4] /home/miqueias/.gradle/caches/transforms-2/files-2.1/70c9b75874dcfa327bc3c54a8a02853c/firebase-common-11.0.4/AndroidManifest.xml:6:9-194
-	android:authorities
-		ADDED from [com.google.firebase:firebase-common:11.0.4] /home/miqueias/.gradle/caches/transforms-2/files-2.1/70c9b75874dcfa327bc3c54a8a02853c/firebase-common-11.0.4/AndroidManifest.xml:6:19-78
-	android:exported
-		ADDED from [com.google.firebase:firebase-common:11.0.4] /home/miqueias/.gradle/caches/transforms-2/files-2.1/70c9b75874dcfa327bc3c54a8a02853c/firebase-common-11.0.4/AndroidManifest.xml:6:144-168
-	android:initOrder
-		ADDED from [com.google.firebase:firebase-common:11.0.4] /home/miqueias/.gradle/caches/transforms-2/files-2.1/70c9b75874dcfa327bc3c54a8a02853c/firebase-common-11.0.4/AndroidManifest.xml:6:169-192
+		ADDED from [com.onesignal:OneSignal:3.10.5] /home/miqueias/.gradle/caches/transforms-2/files-2.1/30baf4a912c5fa785338ce2725f0e55e/OneSignal-3.10.5/AndroidManifest.xml:19:22-65
+uses-permission#android.permission.VIBRATE
+ADDED from [com.onesignal:OneSignal:3.10.5] /home/miqueias/.gradle/caches/transforms-2/files-2.1/30baf4a912c5fa785338ce2725f0e55e/OneSignal-3.10.5/AndroidManifest.xml:24:5-66
 	android:name
-		ADDED from [com.google.firebase:firebase-common:11.0.4] /home/miqueias/.gradle/caches/transforms-2/files-2.1/70c9b75874dcfa327bc3c54a8a02853c/firebase-common-11.0.4/AndroidManifest.xml:6:79-143
-meta-data#com.google.android.gms.version
-ADDED from [com.google.android.gms:play-services-basement:11.0.4] /home/miqueias/.gradle/caches/transforms-2/files-2.1/5bddbffea062ec858fe0545538432c3c/play-services-basement-11.0.4/AndroidManifest.xml:20:9-121
+		ADDED from [com.onesignal:OneSignal:3.10.5] /home/miqueias/.gradle/caches/transforms-2/files-2.1/30baf4a912c5fa785338ce2725f0e55e/OneSignal-3.10.5/AndroidManifest.xml:24:22-63
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from [com.onesignal:OneSignal:3.10.5] /home/miqueias/.gradle/caches/transforms-2/files-2.1/30baf4a912c5fa785338ce2725f0e55e/OneSignal-3.10.5/AndroidManifest.xml:30:5-81
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.10.5] /home/miqueias/.gradle/caches/transforms-2/files-2.1/30baf4a912c5fa785338ce2725f0e55e/OneSignal-3.10.5/AndroidManifest.xml:30:22-78
+uses-permission#com.sec.android.provider.badge.permission.READ
+ADDED from [com.onesignal:OneSignal:3.10.5] /home/miqueias/.gradle/caches/transforms-2/files-2.1/30baf4a912c5fa785338ce2725f0e55e/OneSignal-3.10.5/AndroidManifest.xml:32:5-86
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.10.5] /home/miqueias/.gradle/caches/transforms-2/files-2.1/30baf4a912c5fa785338ce2725f0e55e/OneSignal-3.10.5/AndroidManifest.xml:32:22-83
+uses-permission#com.sec.android.provider.badge.permission.WRITE
+ADDED from [com.onesignal:OneSignal:3.10.5] /home/miqueias/.gradle/caches/transforms-2/files-2.1/30baf4a912c5fa785338ce2725f0e55e/OneSignal-3.10.5/AndroidManifest.xml:33:5-87
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.10.5] /home/miqueias/.gradle/caches/transforms-2/files-2.1/30baf4a912c5fa785338ce2725f0e55e/OneSignal-3.10.5/AndroidManifest.xml:33:22-84
+uses-permission#com.htc.launcher.permission.READ_SETTINGS
+ADDED from [com.onesignal:OneSignal:3.10.5] /home/miqueias/.gradle/caches/transforms-2/files-2.1/30baf4a912c5fa785338ce2725f0e55e/OneSignal-3.10.5/AndroidManifest.xml:34:5-81
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.10.5] /home/miqueias/.gradle/caches/transforms-2/files-2.1/30baf4a912c5fa785338ce2725f0e55e/OneSignal-3.10.5/AndroidManifest.xml:34:22-78
+uses-permission#com.htc.launcher.permission.UPDATE_SHORTCUT
+ADDED from [com.onesignal:OneSignal:3.10.5] /home/miqueias/.gradle/caches/transforms-2/files-2.1/30baf4a912c5fa785338ce2725f0e55e/OneSignal-3.10.5/AndroidManifest.xml:35:5-83
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.10.5] /home/miqueias/.gradle/caches/transforms-2/files-2.1/30baf4a912c5fa785338ce2725f0e55e/OneSignal-3.10.5/AndroidManifest.xml:35:22-80
+uses-permission#com.sonyericsson.home.permission.BROADCAST_BADGE
+ADDED from [com.onesignal:OneSignal:3.10.5] /home/miqueias/.gradle/caches/transforms-2/files-2.1/30baf4a912c5fa785338ce2725f0e55e/OneSignal-3.10.5/AndroidManifest.xml:36:5-88
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.10.5] /home/miqueias/.gradle/caches/transforms-2/files-2.1/30baf4a912c5fa785338ce2725f0e55e/OneSignal-3.10.5/AndroidManifest.xml:36:22-85
+uses-permission#com.sonymobile.home.permission.PROVIDER_INSERT_BADGE
+ADDED from [com.onesignal:OneSignal:3.10.5] /home/miqueias/.gradle/caches/transforms-2/files-2.1/30baf4a912c5fa785338ce2725f0e55e/OneSignal-3.10.5/AndroidManifest.xml:37:5-92
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.10.5] /home/miqueias/.gradle/caches/transforms-2/files-2.1/30baf4a912c5fa785338ce2725f0e55e/OneSignal-3.10.5/AndroidManifest.xml:37:22-89
+uses-permission#com.anddoes.launcher.permission.UPDATE_COUNT
+ADDED from [com.onesignal:OneSignal:3.10.5] /home/miqueias/.gradle/caches/transforms-2/files-2.1/30baf4a912c5fa785338ce2725f0e55e/OneSignal-3.10.5/AndroidManifest.xml:38:5-84
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.10.5] /home/miqueias/.gradle/caches/transforms-2/files-2.1/30baf4a912c5fa785338ce2725f0e55e/OneSignal-3.10.5/AndroidManifest.xml:38:22-81
+uses-permission#com.majeur.launcher.permission.UPDATE_BADGE
+ADDED from [com.onesignal:OneSignal:3.10.5] /home/miqueias/.gradle/caches/transforms-2/files-2.1/30baf4a912c5fa785338ce2725f0e55e/OneSignal-3.10.5/AndroidManifest.xml:39:5-83
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.10.5] /home/miqueias/.gradle/caches/transforms-2/files-2.1/30baf4a912c5fa785338ce2725f0e55e/OneSignal-3.10.5/AndroidManifest.xml:39:22-80
+uses-permission#com.huawei.android.launcher.permission.CHANGE_BADGE
+ADDED from [com.onesignal:OneSignal:3.10.5] /home/miqueias/.gradle/caches/transforms-2/files-2.1/30baf4a912c5fa785338ce2725f0e55e/OneSignal-3.10.5/AndroidManifest.xml:40:5-91
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.10.5] /home/miqueias/.gradle/caches/transforms-2/files-2.1/30baf4a912c5fa785338ce2725f0e55e/OneSignal-3.10.5/AndroidManifest.xml:40:22-88
+uses-permission#com.huawei.android.launcher.permission.READ_SETTINGS
+ADDED from [com.onesignal:OneSignal:3.10.5] /home/miqueias/.gradle/caches/transforms-2/files-2.1/30baf4a912c5fa785338ce2725f0e55e/OneSignal-3.10.5/AndroidManifest.xml:41:5-92
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.10.5] /home/miqueias/.gradle/caches/transforms-2/files-2.1/30baf4a912c5fa785338ce2725f0e55e/OneSignal-3.10.5/AndroidManifest.xml:41:22-89
+uses-permission#com.huawei.android.launcher.permission.WRITE_SETTINGS
+ADDED from [com.onesignal:OneSignal:3.10.5] /home/miqueias/.gradle/caches/transforms-2/files-2.1/30baf4a912c5fa785338ce2725f0e55e/OneSignal-3.10.5/AndroidManifest.xml:42:5-93
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.10.5] /home/miqueias/.gradle/caches/transforms-2/files-2.1/30baf4a912c5fa785338ce2725f0e55e/OneSignal-3.10.5/AndroidManifest.xml:42:22-90
+uses-permission#android.permission.READ_APP_BADGE
+ADDED from [com.onesignal:OneSignal:3.10.5] /home/miqueias/.gradle/caches/transforms-2/files-2.1/30baf4a912c5fa785338ce2725f0e55e/OneSignal-3.10.5/AndroidManifest.xml:43:5-73
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.10.5] /home/miqueias/.gradle/caches/transforms-2/files-2.1/30baf4a912c5fa785338ce2725f0e55e/OneSignal-3.10.5/AndroidManifest.xml:43:22-70
+uses-permission#com.oppo.launcher.permission.READ_SETTINGS
+ADDED from [com.onesignal:OneSignal:3.10.5] /home/miqueias/.gradle/caches/transforms-2/files-2.1/30baf4a912c5fa785338ce2725f0e55e/OneSignal-3.10.5/AndroidManifest.xml:44:5-82
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.10.5] /home/miqueias/.gradle/caches/transforms-2/files-2.1/30baf4a912c5fa785338ce2725f0e55e/OneSignal-3.10.5/AndroidManifest.xml:44:22-79
+uses-permission#com.oppo.launcher.permission.WRITE_SETTINGS
+ADDED from [com.onesignal:OneSignal:3.10.5] /home/miqueias/.gradle/caches/transforms-2/files-2.1/30baf4a912c5fa785338ce2725f0e55e/OneSignal-3.10.5/AndroidManifest.xml:45:5-83
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.10.5] /home/miqueias/.gradle/caches/transforms-2/files-2.1/30baf4a912c5fa785338ce2725f0e55e/OneSignal-3.10.5/AndroidManifest.xml:45:22-80
+uses-permission#me.everything.badger.permission.BADGE_COUNT_READ
+ADDED from [com.onesignal:OneSignal:3.10.5] /home/miqueias/.gradle/caches/transforms-2/files-2.1/30baf4a912c5fa785338ce2725f0e55e/OneSignal-3.10.5/AndroidManifest.xml:46:5-88
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.10.5] /home/miqueias/.gradle/caches/transforms-2/files-2.1/30baf4a912c5fa785338ce2725f0e55e/OneSignal-3.10.5/AndroidManifest.xml:46:22-85
+uses-permission#me.everything.badger.permission.BADGE_COUNT_WRITE
+ADDED from [com.onesignal:OneSignal:3.10.5] /home/miqueias/.gradle/caches/transforms-2/files-2.1/30baf4a912c5fa785338ce2725f0e55e/OneSignal-3.10.5/AndroidManifest.xml:47:5-89
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.10.5] /home/miqueias/.gradle/caches/transforms-2/files-2.1/30baf4a912c5fa785338ce2725f0e55e/OneSignal-3.10.5/AndroidManifest.xml:47:22-86
+meta-data#onesignal_app_id
+ADDED from [com.onesignal:OneSignal:3.10.5] /home/miqueias/.gradle/caches/transforms-2/files-2.1/30baf4a912c5fa785338ce2725f0e55e/OneSignal-3.10.5/AndroidManifest.xml:50:9-52:51
 	android:value
-		ADDED from [com.google.android.gms:play-services-basement:11.0.4] /home/miqueias/.gradle/caches/transforms-2/files-2.1/5bddbffea062ec858fe0545538432c3c/play-services-basement-11.0.4/AndroidManifest.xml:20:66-119
+		ADDED from [com.onesignal:OneSignal:3.10.5] /home/miqueias/.gradle/caches/transforms-2/files-2.1/30baf4a912c5fa785338ce2725f0e55e/OneSignal-3.10.5/AndroidManifest.xml:52:13-48
 	android:name
-		ADDED from [com.google.android.gms:play-services-basement:11.0.4] /home/miqueias/.gradle/caches/transforms-2/files-2.1/5bddbffea062ec858fe0545538432c3c/play-services-basement-11.0.4/AndroidManifest.xml:20:20-65
+		ADDED from [com.onesignal:OneSignal:3.10.5] /home/miqueias/.gradle/caches/transforms-2/files-2.1/30baf4a912c5fa785338ce2725f0e55e/OneSignal-3.10.5/AndroidManifest.xml:51:13-44
+meta-data#onesignal_google_project_number
+ADDED from [com.onesignal:OneSignal:3.10.5] /home/miqueias/.gradle/caches/transforms-2/files-2.1/30baf4a912c5fa785338ce2725f0e55e/OneSignal-3.10.5/AndroidManifest.xml:54:9-56:70
+	android:value
+		ADDED from [com.onesignal:OneSignal:3.10.5] /home/miqueias/.gradle/caches/transforms-2/files-2.1/30baf4a912c5fa785338ce2725f0e55e/OneSignal-3.10.5/AndroidManifest.xml:56:13-67
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.10.5] /home/miqueias/.gradle/caches/transforms-2/files-2.1/30baf4a912c5fa785338ce2725f0e55e/OneSignal-3.10.5/AndroidManifest.xml:55:13-59
+receiver#com.onesignal.GcmBroadcastReceiver
+ADDED from [com.onesignal:OneSignal:3.10.5] /home/miqueias/.gradle/caches/transforms-2/files-2.1/30baf4a912c5fa785338ce2725f0e55e/OneSignal-3.10.5/AndroidManifest.xml:58:9-68:20
+	android:permission
+		ADDED from [com.onesignal:OneSignal:3.10.5] /home/miqueias/.gradle/caches/transforms-2/files-2.1/30baf4a912c5fa785338ce2725f0e55e/OneSignal-3.10.5/AndroidManifest.xml:60:13-73
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.10.5] /home/miqueias/.gradle/caches/transforms-2/files-2.1/30baf4a912c5fa785338ce2725f0e55e/OneSignal-3.10.5/AndroidManifest.xml:59:13-62
+intent-filter#action:name:com.google.android.c2dm.intent.RECEIVE+category:name:${applicationId}
+ADDED from [com.onesignal:OneSignal:3.10.5] /home/miqueias/.gradle/caches/transforms-2/files-2.1/30baf4a912c5fa785338ce2725f0e55e/OneSignal-3.10.5/AndroidManifest.xml:63:13-67:29
+	android:priority
+		ADDED from [com.onesignal:OneSignal:3.10.5] /home/miqueias/.gradle/caches/transforms-2/files-2.1/30baf4a912c5fa785338ce2725f0e55e/OneSignal-3.10.5/AndroidManifest.xml:63:28-50
+intent-filter#action:name:com.google.android.c2dm.intent.RECEIVE+category:name:br.com.innovatesof.quizbiblico
+ADDED from [com.onesignal:OneSignal:3.10.5] /home/miqueias/.gradle/caches/transforms-2/files-2.1/30baf4a912c5fa785338ce2725f0e55e/OneSignal-3.10.5/AndroidManifest.xml:63:13-67:29
+	android:priority
+		ADDED from [com.onesignal:OneSignal:3.10.5] /home/miqueias/.gradle/caches/transforms-2/files-2.1/30baf4a912c5fa785338ce2725f0e55e/OneSignal-3.10.5/AndroidManifest.xml:63:28-50
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.onesignal:OneSignal:3.10.5] /home/miqueias/.gradle/caches/transforms-2/files-2.1/30baf4a912c5fa785338ce2725f0e55e/OneSignal-3.10.5/AndroidManifest.xml:64:17-81
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.10.5] /home/miqueias/.gradle/caches/transforms-2/files-2.1/30baf4a912c5fa785338ce2725f0e55e/OneSignal-3.10.5/AndroidManifest.xml:64:25-78
+category#${applicationId}
+ADDED from [com.onesignal:OneSignal:3.10.5] /home/miqueias/.gradle/caches/transforms-2/files-2.1/30baf4a912c5fa785338ce2725f0e55e/OneSignal-3.10.5/AndroidManifest.xml:66:17-61
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.10.5] /home/miqueias/.gradle/caches/transforms-2/files-2.1/30baf4a912c5fa785338ce2725f0e55e/OneSignal-3.10.5/AndroidManifest.xml:66:27-58
+receiver#com.onesignal.NotificationOpenedReceiver
+ADDED from [com.onesignal:OneSignal:3.10.5] /home/miqueias/.gradle/caches/transforms-2/files-2.1/30baf4a912c5fa785338ce2725f0e55e/OneSignal-3.10.5/AndroidManifest.xml:69:9-77
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.10.5] /home/miqueias/.gradle/caches/transforms-2/files-2.1/30baf4a912c5fa785338ce2725f0e55e/OneSignal-3.10.5/AndroidManifest.xml:69:19-74
+service#com.onesignal.GcmIntentService
+ADDED from [com.onesignal:OneSignal:3.10.5] /home/miqueias/.gradle/caches/transforms-2/files-2.1/30baf4a912c5fa785338ce2725f0e55e/OneSignal-3.10.5/AndroidManifest.xml:71:9-66
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.10.5] /home/miqueias/.gradle/caches/transforms-2/files-2.1/30baf4a912c5fa785338ce2725f0e55e/OneSignal-3.10.5/AndroidManifest.xml:71:18-63
+service#com.onesignal.GcmIntentJobService
+ADDED from [com.onesignal:OneSignal:3.10.5] /home/miqueias/.gradle/caches/transforms-2/files-2.1/30baf4a912c5fa785338ce2725f0e55e/OneSignal-3.10.5/AndroidManifest.xml:72:9-74:72
+	android:permission
+		ADDED from [com.onesignal:OneSignal:3.10.5] /home/miqueias/.gradle/caches/transforms-2/files-2.1/30baf4a912c5fa785338ce2725f0e55e/OneSignal-3.10.5/AndroidManifest.xml:74:13-69
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.10.5] /home/miqueias/.gradle/caches/transforms-2/files-2.1/30baf4a912c5fa785338ce2725f0e55e/OneSignal-3.10.5/AndroidManifest.xml:73:13-61
+service#com.onesignal.RestoreJobService
+ADDED from [com.onesignal:OneSignal:3.10.5] /home/miqueias/.gradle/caches/transforms-2/files-2.1/30baf4a912c5fa785338ce2725f0e55e/OneSignal-3.10.5/AndroidManifest.xml:75:9-77:72
+	android:permission
+		ADDED from [com.onesignal:OneSignal:3.10.5] /home/miqueias/.gradle/caches/transforms-2/files-2.1/30baf4a912c5fa785338ce2725f0e55e/OneSignal-3.10.5/AndroidManifest.xml:77:13-69
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.10.5] /home/miqueias/.gradle/caches/transforms-2/files-2.1/30baf4a912c5fa785338ce2725f0e55e/OneSignal-3.10.5/AndroidManifest.xml:76:13-59
+service#com.onesignal.RestoreKickoffJobService
+ADDED from [com.onesignal:OneSignal:3.10.5] /home/miqueias/.gradle/caches/transforms-2/files-2.1/30baf4a912c5fa785338ce2725f0e55e/OneSignal-3.10.5/AndroidManifest.xml:78:9-80:72
+	android:permission
+		ADDED from [com.onesignal:OneSignal:3.10.5] /home/miqueias/.gradle/caches/transforms-2/files-2.1/30baf4a912c5fa785338ce2725f0e55e/OneSignal-3.10.5/AndroidManifest.xml:80:13-69
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.10.5] /home/miqueias/.gradle/caches/transforms-2/files-2.1/30baf4a912c5fa785338ce2725f0e55e/OneSignal-3.10.5/AndroidManifest.xml:79:13-66
+service#com.onesignal.SyncService
+ADDED from [com.onesignal:OneSignal:3.10.5] /home/miqueias/.gradle/caches/transforms-2/files-2.1/30baf4a912c5fa785338ce2725f0e55e/OneSignal-3.10.5/AndroidManifest.xml:81:9-83:43
+	android:stopWithTask
+		ADDED from [com.onesignal:OneSignal:3.10.5] /home/miqueias/.gradle/caches/transforms-2/files-2.1/30baf4a912c5fa785338ce2725f0e55e/OneSignal-3.10.5/AndroidManifest.xml:83:13-40
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.10.5] /home/miqueias/.gradle/caches/transforms-2/files-2.1/30baf4a912c5fa785338ce2725f0e55e/OneSignal-3.10.5/AndroidManifest.xml:82:13-53
+service#com.onesignal.SyncJobService
+ADDED from [com.onesignal:OneSignal:3.10.5] /home/miqueias/.gradle/caches/transforms-2/files-2.1/30baf4a912c5fa785338ce2725f0e55e/OneSignal-3.10.5/AndroidManifest.xml:84:9-86:72
+	android:permission
+		ADDED from [com.onesignal:OneSignal:3.10.5] /home/miqueias/.gradle/caches/transforms-2/files-2.1/30baf4a912c5fa785338ce2725f0e55e/OneSignal-3.10.5/AndroidManifest.xml:86:13-69
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.10.5] /home/miqueias/.gradle/caches/transforms-2/files-2.1/30baf4a912c5fa785338ce2725f0e55e/OneSignal-3.10.5/AndroidManifest.xml:85:13-56
+activity#com.onesignal.PermissionsActivity
+ADDED from [com.onesignal:OneSignal:3.10.5] /home/miqueias/.gradle/caches/transforms-2/files-2.1/30baf4a912c5fa785338ce2725f0e55e/OneSignal-3.10.5/AndroidManifest.xml:88:9-90:75
+	android:theme
+		ADDED from [com.onesignal:OneSignal:3.10.5] /home/miqueias/.gradle/caches/transforms-2/files-2.1/30baf4a912c5fa785338ce2725f0e55e/OneSignal-3.10.5/AndroidManifest.xml:90:13-72
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.10.5] /home/miqueias/.gradle/caches/transforms-2/files-2.1/30baf4a912c5fa785338ce2725f0e55e/OneSignal-3.10.5/AndroidManifest.xml:89:13-61
+service#com.onesignal.NotificationRestoreService
+ADDED from [com.onesignal:OneSignal:3.10.5] /home/miqueias/.gradle/caches/transforms-2/files-2.1/30baf4a912c5fa785338ce2725f0e55e/OneSignal-3.10.5/AndroidManifest.xml:92:9-76
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.10.5] /home/miqueias/.gradle/caches/transforms-2/files-2.1/30baf4a912c5fa785338ce2725f0e55e/OneSignal-3.10.5/AndroidManifest.xml:92:18-73
+receiver#com.onesignal.BootUpReceiver
+ADDED from [com.onesignal:OneSignal:3.10.5] /home/miqueias/.gradle/caches/transforms-2/files-2.1/30baf4a912c5fa785338ce2725f0e55e/OneSignal-3.10.5/AndroidManifest.xml:94:9-99:20
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.10.5] /home/miqueias/.gradle/caches/transforms-2/files-2.1/30baf4a912c5fa785338ce2725f0e55e/OneSignal-3.10.5/AndroidManifest.xml:94:19-62
+intent-filter#action:name:android.intent.action.BOOT_COMPLETED+action:name:android.intent.action.QUICKBOOT_POWERON
+ADDED from [com.onesignal:OneSignal:3.10.5] /home/miqueias/.gradle/caches/transforms-2/files-2.1/30baf4a912c5fa785338ce2725f0e55e/OneSignal-3.10.5/AndroidManifest.xml:95:13-98:29
+action#android.intent.action.BOOT_COMPLETED
+ADDED from [com.onesignal:OneSignal:3.10.5] /home/miqueias/.gradle/caches/transforms-2/files-2.1/30baf4a912c5fa785338ce2725f0e55e/OneSignal-3.10.5/AndroidManifest.xml:96:17-79
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.10.5] /home/miqueias/.gradle/caches/transforms-2/files-2.1/30baf4a912c5fa785338ce2725f0e55e/OneSignal-3.10.5/AndroidManifest.xml:96:25-76
+action#android.intent.action.QUICKBOOT_POWERON
+ADDED from [com.onesignal:OneSignal:3.10.5] /home/miqueias/.gradle/caches/transforms-2/files-2.1/30baf4a912c5fa785338ce2725f0e55e/OneSignal-3.10.5/AndroidManifest.xml:97:17-82
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.10.5] /home/miqueias/.gradle/caches/transforms-2/files-2.1/30baf4a912c5fa785338ce2725f0e55e/OneSignal-3.10.5/AndroidManifest.xml:97:25-79
+receiver#com.onesignal.UpgradeReceiver
+ADDED from [com.onesignal:OneSignal:3.10.5] /home/miqueias/.gradle/caches/transforms-2/files-2.1/30baf4a912c5fa785338ce2725f0e55e/OneSignal-3.10.5/AndroidManifest.xml:100:9-104:20
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.10.5] /home/miqueias/.gradle/caches/transforms-2/files-2.1/30baf4a912c5fa785338ce2725f0e55e/OneSignal-3.10.5/AndroidManifest.xml:100:19-63
+intent-filter#action:name:android.intent.action.MY_PACKAGE_REPLACED
+ADDED from [com.onesignal:OneSignal:3.10.5] /home/miqueias/.gradle/caches/transforms-2/files-2.1/30baf4a912c5fa785338ce2725f0e55e/OneSignal-3.10.5/AndroidManifest.xml:101:13-103:29
+action#android.intent.action.MY_PACKAGE_REPLACED
+ADDED from [com.onesignal:OneSignal:3.10.5] /home/miqueias/.gradle/caches/transforms-2/files-2.1/30baf4a912c5fa785338ce2725f0e55e/OneSignal-3.10.5/AndroidManifest.xml:102:17-84
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.10.5] /home/miqueias/.gradle/caches/transforms-2/files-2.1/30baf4a912c5fa785338ce2725f0e55e/OneSignal-3.10.5/AndroidManifest.xml:102:25-81
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:11.0.4] /home/miqueias/.gradle/caches/transforms-2/files-2.1/b22be4d14f5854987b736d0ff605eabd/play-services-base-11.0.4/AndroidManifest.xml:19:9-172
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:11.0.4] /home/miqueias/.gradle/caches/transforms-2/files-2.1/b22be4d14f5854987b736d0ff605eabd/play-services-base-11.0.4/AndroidManifest.xml:19:146-170
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:11.0.4] /home/miqueias/.gradle/caches/transforms-2/files-2.1/b22be4d14f5854987b736d0ff605eabd/play-services-base-11.0.4/AndroidManifest.xml:19:86-145
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:11.0.4] /home/miqueias/.gradle/caches/transforms-2/files-2.1/b22be4d14f5854987b736d0ff605eabd/play-services-base-11.0.4/AndroidManifest.xml:19:19-85
+service#com.google.firebase.messaging.FirebaseMessagingService
+ADDED from [com.google.firebase:firebase-messaging:11.0.4] /home/miqueias/.gradle/caches/transforms-2/files-2.1/bc098fe9c72a0e268c21c899057a317a/firebase-messaging-11.0.4/AndroidManifest.xml:23:9-27:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-messaging:11.0.4] /home/miqueias/.gradle/caches/transforms-2/files-2.1/bc098fe9c72a0e268c21c899057a317a/firebase-messaging-11.0.4/AndroidManifest.xml:23:88-111
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:11.0.4] /home/miqueias/.gradle/caches/transforms-2/files-2.1/bc098fe9c72a0e268c21c899057a317a/firebase-messaging-11.0.4/AndroidManifest.xml:23:18-87
+intent-filter#action:name:com.google.firebase.MESSAGING_EVENT
+ADDED from [com.google.firebase:firebase-messaging:11.0.4] /home/miqueias/.gradle/caches/transforms-2/files-2.1/bc098fe9c72a0e268c21c899057a317a/firebase-messaging-11.0.4/AndroidManifest.xml:24:13-26:29
+	android:priority
+		ADDED from [com.google.firebase:firebase-messaging:11.0.4] /home/miqueias/.gradle/caches/transforms-2/files-2.1/bc098fe9c72a0e268c21c899057a317a/firebase-messaging-11.0.4/AndroidManifest.xml:24:28-51
+action#com.google.firebase.MESSAGING_EVENT
+ADDED from [com.google.firebase:firebase-messaging:11.0.4] /home/miqueias/.gradle/caches/transforms-2/files-2.1/bc098fe9c72a0e268c21c899057a317a/firebase-messaging-11.0.4/AndroidManifest.xml:25:17-77
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:11.0.4] /home/miqueias/.gradle/caches/transforms-2/files-2.1/bc098fe9c72a0e268c21c899057a317a/firebase-messaging-11.0.4/AndroidManifest.xml:25:25-75
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-iid:11.0.4] /home/miqueias/.gradle/caches/transforms-2/files-2.1/1d8c6735365941dce0544e80145dda02/firebase-iid-11.0.4/AndroidManifest.xml:30:9-35:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] /home/miqueias/.gradle/caches/transforms-2/files-2.1/1d8c6735365941dce0544e80145dda02/firebase-iid-11.0.4/AndroidManifest.xml:30:85-108
+	android:permission
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] /home/miqueias/.gradle/caches/transforms-2/files-2.1/1d8c6735365941dce0544e80145dda02/firebase-iid-11.0.4/AndroidManifest.xml:30:109-169
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] /home/miqueias/.gradle/caches/transforms-2/files-2.1/1d8c6735365941dce0544e80145dda02/firebase-iid-11.0.4/AndroidManifest.xml:30:19-84
+receiver#com.google.firebase.iid.FirebaseInstanceIdInternalReceiver
+ADDED from [com.google.firebase:firebase-iid:11.0.4] /home/miqueias/.gradle/caches/transforms-2/files-2.1/1d8c6735365941dce0544e80145dda02/firebase-iid-11.0.4/AndroidManifest.xml:39:9-119
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] /home/miqueias/.gradle/caches/transforms-2/files-2.1/1d8c6735365941dce0544e80145dda02/firebase-iid-11.0.4/AndroidManifest.xml:39:93-117
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] /home/miqueias/.gradle/caches/transforms-2/files-2.1/1d8c6735365941dce0544e80145dda02/firebase-iid-11.0.4/AndroidManifest.xml:39:19-92
+service#com.google.firebase.iid.FirebaseInstanceIdService
+ADDED from [com.google.firebase:firebase-iid:11.0.4] /home/miqueias/.gradle/caches/transforms-2/files-2.1/1d8c6735365941dce0544e80145dda02/firebase-iid-11.0.4/AndroidManifest.xml:43:9-47:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] /home/miqueias/.gradle/caches/transforms-2/files-2.1/1d8c6735365941dce0544e80145dda02/firebase-iid-11.0.4/AndroidManifest.xml:43:83-106
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] /home/miqueias/.gradle/caches/transforms-2/files-2.1/1d8c6735365941dce0544e80145dda02/firebase-iid-11.0.4/AndroidManifest.xml:43:18-82
+intent-filter#action:name:com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:11.0.4] /home/miqueias/.gradle/caches/transforms-2/files-2.1/1d8c6735365941dce0544e80145dda02/firebase-iid-11.0.4/AndroidManifest.xml:44:13-46:29
+	android:priority
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] /home/miqueias/.gradle/caches/transforms-2/files-2.1/1d8c6735365941dce0544e80145dda02/firebase-iid-11.0.4/AndroidManifest.xml:44:28-51
+action#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:11.0.4] /home/miqueias/.gradle/caches/transforms-2/files-2.1/1d8c6735365941dce0544e80145dda02/firebase-iid-11.0.4/AndroidManifest.xml:45:17-79
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] /home/miqueias/.gradle/caches/transforms-2/files-2.1/1d8c6735365941dce0544e80145dda02/firebase-iid-11.0.4/AndroidManifest.xml:45:25-77
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:11.0.4] /home/miqueias/.gradle/caches/transforms-2/files-2.1/17a6af3a16b000a8806e2ef35b661818/firebase-common-11.0.4/AndroidManifest.xml:6:9-194
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:11.0.4] /home/miqueias/.gradle/caches/transforms-2/files-2.1/17a6af3a16b000a8806e2ef35b661818/firebase-common-11.0.4/AndroidManifest.xml:6:19-78
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:11.0.4] /home/miqueias/.gradle/caches/transforms-2/files-2.1/17a6af3a16b000a8806e2ef35b661818/firebase-common-11.0.4/AndroidManifest.xml:6:144-168
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:11.0.4] /home/miqueias/.gradle/caches/transforms-2/files-2.1/17a6af3a16b000a8806e2ef35b661818/firebase-common-11.0.4/AndroidManifest.xml:6:169-192
+	android:name
+		ADDED from [com.google.firebase:firebase-common:11.0.4] /home/miqueias/.gradle/caches/transforms-2/files-2.1/17a6af3a16b000a8806e2ef35b661818/firebase-common-11.0.4/AndroidManifest.xml:6:79-143
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:11.0.4] /home/miqueias/.gradle/caches/transforms-2/files-2.1/71f004e41b64fcc49fa4c5a256772ab8/play-services-basement-11.0.4/AndroidManifest.xml:20:9-121
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:11.0.4] /home/miqueias/.gradle/caches/transforms-2/files-2.1/71f004e41b64fcc49fa4c5a256772ab8/play-services-basement-11.0.4/AndroidManifest.xml:20:66-119
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:11.0.4] /home/miqueias/.gradle/caches/transforms-2/files-2.1/71f004e41b64fcc49fa4c5a256772ab8/play-services-basement-11.0.4/AndroidManifest.xml:20:20-65
